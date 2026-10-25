@@ -1,0 +1,953 @@
+Original Market Mist PDF pages 91–111. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 91 / 686>
+Chapter 5
+The Steering Wheel of Trend: Why the Market Moves with Momentum.
+
+
+Ethan Carter did not truly learn to respect trends because of an individual stock.
+
+It began with an ETF.
+
+It was not an exciting stock.
+
+There was no surprise acquisition.
+
+No spectacular earnings report.
+
+No heated discussions across social media.
+
+It did not even have a memorable name that retail investors could easily recognize.
+
+It was simply a European technology growth ETF.
+
+For the sake of this story, I will refer to it as EuroTech Growth ETF.
+
+ETFs like this are very common inside research institutions.
+
+Unlike an individual stock, they are far less likely to surge or collapse because of company-
+specific news.
+
+Instead, they reflect an entire industry, an investment style, and even shifts in overall market risk
+appetite.
+
+In many situations, an ETF is more honest than an individual stock.
+
+A single stock can be distorted by a news headline, an earnings report, or the short-term activity
+of a large institution.
+
+An ETF, however, represents a basket of stocks.
+
+It behaves more like a thermometer measuring the market's overall sentiment.
+
+That morning, Ethan was asked to answer a simple question.
+
+Is EuroTech Growth ETF currently in an uptrend, a downtrend, or a sideways trend?
+
+The question sounded easy.
+
+So easy that Ethan felt almost relaxed.
+
+He opened the chart, looked at it for a few seconds, and replied,
+
+"From a short-term perspective, it's moving higher."
+
+
+
+                                                - 83 -
+<PARSED TEXT FOR PAGE: 92 / 686>
+I asked,
+
+"Why?"
+
+"It's been rising for the past three days, and it's continuing to move higher after today's opening."
+
+I did not comment.
+
+Instead, I asked him to switch the chart to the daily timeframe.
+
+The moment the daily chart appeared, his expression changed.
+
+The three-day rally looked like nothing more than a small rebound after a decline.
+
+Within the broader structure, the ETF had spent the past two months failing to break above its
+previous rebound highs, while each successive low had continued to move lower.
+
+I asked,
+
+"And now?"
+
+Ethan hesitated.
+
+"On the daily chart... it looks more like a rebound within a downtrend."
+
+"Good.
+
+Now switch to the weekly chart."
+
+He did.
+
+The picture changed once again.
+
+Although the ETF had experienced a significant pullback during the previous two months, from a
+longer-term perspective it still remained inside the upward channel it had established over the
+past two years.
+
+Price was approaching its long-term trendline as well as a major historical support area.
+
+Ethan frowned.
+
+"So... is it in an uptrend or a downtrend?"
+
+I smiled.
+
+This is the very first question every investor encounters when learning about trends.
+
+The trend you see depends on the timeframe from which you are looking.
+
+On a five-minute chart, the market may resemble a violent storm.
+
+On a daily chart, it may simply be an ordinary pullback.
+
+
+                                                - 84 -
+<PARSED TEXT FOR PAGE: 93 / 686>
+On a weekly chart, it may still be nothing more than a pause within a long-term uptrend.
+
+Beginners are often controlled by short-term timeframes.
+
+They see one hour of strength and conclude that the trend has turned bullish.
+
+They see one day of weakness and conclude that the trend is over.
+
+They see one large bearish candle and immediately want to sell.
+
+They see one large bullish candle and immediately want to chase the move.
+
+They are not analyzing trends.
+
+They are reacting to noise.
+
+I looked at Ethan and said,
+
+"A trend is not determined by whether the market rises or falls on a particular day. A trend is the
+direction the market continues choosing over a period of time."
+
+
+
+
+Figure Description:
+
+
+
+
+                                               - 85 -
+<PARSED TEXT FOR PAGE: 94 / 686>
+This figure illustrates how the same asset can appear completely different across multiple
+timeframes. The left panel shows violent price fluctuations on a short-term chart. The middle
+panel presents a daily chart displaying a rebound within a downtrend. The right panel shows a
+long-term rising channel on the weekly chart, emphasizing that trend analysis depends on the
+selected timeframe.
+
+
+
+
+I. Ethan's Confusion: Every Candlestick Looks Like a New Opinion
+
+Ethan returned to his desk and displayed the three charts side by side.
+
+The short-term chart was rising.
+
+The daily chart was falling.
+
+The weekly chart still appeared relatively strong.
+
+He looked as though he had just heard three different analysts deliver three completely
+contradictory opinions.
+
+"Professor," he asked, "if the signals from the three timeframes are different, which one should
+we trust?"
+
+"Ask yourself one question first," I replied.
+
+"How long do you intend to hold the position?"
+
+He paused.
+
+The question sounded simple, yet it resolved an enormous amount of confusion.
+
+If you are an intraday trader, the weekly trend only provides background.
+
+Your actual entries and exits should be based primarily on short-term price structure.
+
+If you are a swing trader holding positions for several weeks or several months, the daily trend
+becomes far more important, while the hourly chart serves mainly to fine-tune your entry.
+
+If you are a long-term investor with a holding period of one to three years, the weekly and
+monthly trends become your primary focus.
+
+Most intraday fluctuations are nothing more than noise.
+
+Many investors become confused simply because they never define their investment timeframe
+before analyzing the market.
+
+They buy using a daily-chart thesis but panic and sell because of a five-minute chart.
+
+
+
+                                                - 86 -
+<PARSED TEXT FOR PAGE: 95 / 686>
+They claim to be long-term investors while anxiously watching every intraday price fluctuation.
+
+They say they are short-term traders yet comfort themselves with long-term fundamental
+arguments.
+
+A mismatch between trading timeframe and decision-making is one of the most subtle mistakes in
+investing.
+
+Ethan lowered his head and looked back at the charts.
+
+"So before analyzing a trend, I first need to define the timeframe."
+
+"Exactly," I replied.
+
+"Otherwise, you'll constantly keep changing your opinion."
+
+He nodded.
+
+I continued.
+
+"If you were an institutional portfolio manager planning to hold positions for three to six months,
+which timeframe would matter most?"
+
+"The daily and weekly charts."
+
+"If you were a short-term trader holding positions for only two or three days?"
+
+"The hourly and daily charts."
+
+"If you were a long-term investor planning to hold for one to three years?"
+
+"The weekly chart, the monthly chart... and the fundamentals."
+
+"Very good."
+
+Ethan wrote each point carefully into his notebook.
+
+But I knew understanding timeframes alone was not enough.
+
+The true foundation of trend analysis is not the timeframe itself.
+
+It is market structure.
+
+
+
+II. A Trend Is Not a Line—It Is the Relationship Between Highs and Lows
+
+I projected the daily chart of EuroTech Growth ETF onto the large screen.
+
+During the previous two months, price had certainly not fallen in a straight line.
+
+There had been numerous rebounds along the way.
+
+
+                                               - 87 -
+<PARSED TEXT FOR PAGE: 96 / 686>
+Some of those rebounds were surprisingly strong.
+
+Within one or two trading sessions, the gains were large enough to convince many investors that
+the trend had already reversed.
+
+But structurally, one critical problem remained.
+
+Every rebound peak was lower than the previous rebound peak.
+
+Every decline produced a new low below the previous one.
+
+That is the definition of a downtrend.
+
+I walked to the whiteboard and wrote two English phrases.
+
+Lower High / Lower Low
+
+Then I drew another structure beside it.
+
+Higher High / Higher Low
+
+I turned back toward Ethan.
+
+"A trend is not established simply because price rises on one particular day.
+
+A trend is defined by an entire sequence of highs and lows."
+
+The defining feature of an uptrend is not that the market rises every day.
+
+It is that after each pullback, the new low remains above the previous low, and the next rally
+breaks above the previous high.
+
+Likewise, the defining feature of a downtrend is not that the market falls every day.
+
+It is that each rebound fails to exceed the previous high, while every new decline pushes to a
+lower low.
+
+Ethan studied the chart for a moment before suddenly saying,
+
+"So... a rebound doesn't necessarily mean a reversal."
+
+"Correct."
+
+"And a decline doesn't necessarily mean the trend has ended."
+
+"Also correct."
+
+That is one of the most important principles in trend analysis.
+
+Within an uptrend, a decline may simply be an ordinary pullback.
+
+Within a downtrend, a rally may simply be a temporary rebound.
+
+
+                                               - 88 -
+<PARSED TEXT FOR PAGE: 97 / 686>
+Within a sideways market, both advances and declines may simply be movements inside a trading
+range.
+
+Exactly the same price movement can carry completely different meanings depending on the
+surrounding trend structure.
+
+
+
+
+Figure Description:
+
+This figure formally introduces the three basic market structures: Uptrend, Downtrend, and
+Sideways Market. The uptrend should be labeled Higher High and Higher Low. The downtrend
+should be labeled Lower High and Lower Low. The sideways market should identify the Range
+High and Range Low, emphasizing that price fluctuates within a defined trading range.
+
+
+
+III. Why Do Trends Continue?
+
+Ethan then asked an excellent question.
+
+"Why does the market keep moving in the direction of the trend? Why doesn't it immediately
+reverse after rising or falling?"
+
+I like questions like that.
+
+
+
+
+                                            - 89 -
+<PARSED TEXT FOR PAGE: 98 / 686>
+Because they show that he had begun shifting his focus from "What does the pattern look like?"
+to "Why does it behave this way?"
+
+I answered,
+
+"There are three forces behind every sustained trend."
+
+The first is capital momentum.
+
+When an asset begins to rise, early buyers make money.
+
+As performance improves, additional capital starts flowing in.
+
+Fund managers may increase their allocations.
+
+Quantitative models may generate buy signals.
+
+Trend-following traders may enter after breakout confirmations.
+
+Media coverage attracts even more attention.
+
+In other words, rising prices themselves attract additional buyers.
+
+That is how a trend reinforces itself.
+
+The second is strengthening expectations.
+
+A rising trend changes the market's expectations about the future.
+
+When prices continue climbing, investors become more willing to believe positive news.
+
+When prices continue falling, investors become more willing to believe negative news.
+
+Exactly the same earnings report may be interpreted as "steady growth" during an uptrend, yet
+dismissed as "growth is no longer fast enough" during a downtrend.
+
+A trend influences how information is interpreted.
+
+The third is portfolio repositioning.
+
+Large institutions rarely complete their buying or selling in a single transaction.
+
+When they decide to increase exposure to a sector, accumulation may continue for weeks or even
+months.
+
+Every pullback attracts additional institutional buying.
+
+Every breakout encourages fresh capital to follow.
+
+This is why the behavior of large institutions often leaves behind recognizable trend patterns.
+
+Ethan nodded thoughtfully.
+
+
+                                                - 90 -
+<PARSED TEXT FOR PAGE: 99 / 686>
+"So a trend isn't simply a line on a chart.
+
+It's the result of capital and expectations repeatedly making the same choice."
+
+"Very good," I replied.
+
+"That's a sentence worth writing down."
+
+He actually did.
+
+
+
+
+Figure Description:
+
+This figure explains the three driving forces behind trend continuation: Capital Momentum,
+Strengthening Expectations, and Portfolio Repositioning. It should illustrate a rising price trend
+accompanied by three explanatory modules showing how each force contributes to the
+continuation of the trend.
+
+
+
+IV. Ethan's First Trend Analysis
+
+That afternoon, the research department held an ETF strategy meeting.
+
+The topic was simple:
+
+
+
+
+                                               - 91 -
+<PARSED TEXT FOR PAGE: 100 / 686>
+Should EuroTech Growth ETF be removed from the watchlist, or should we continue waiting for
+a better entry opportunity?
+
+Ethan was asked to present his opinion once again.
+
+This time, he did not rush to say "bullish" or "bearish."
+
+Instead, he began by saying,
+
+"From the short-term perspective, the ETF has indeed rebounded during the past three days.
+
+However, that rebound has not changed the daily downtrend.
+
+On the daily chart, it still remains within a Lower High and Lower Low structure.
+
+Therefore, I cannot conclude that the trend has reversed."
+
+I sat quietly at the end of the conference table and listened.
+
+Ethan continued,
+
+"On the weekly chart, however, the ETF has not yet broken below its long-term rising channel or
+its major support area.
+
+That suggests long-term institutional capital is unlikely to abandon the position immediately.
+
+In other words, the short-term outlook remains weak, the intermediate-term trend still requires
+confirmation, and the long-term trend remains under observation."
+
+It was a far more mature assessment than the one he had given only a day earlier.
+
+He no longer reduced the market to simply up or down.
+
+He had begun thinking in layers.
+
+Short term.
+
+Intermediate term.
+
+Long term.
+
+That is the foundation of professional trend analysis.
+
+One of the fund managers asked him,
+
+"Would you buy it now?"
+
+Ethan paused briefly.
+
+"No."
+
+"Why not?"
+
+
+                                                - 92 -
+<PARSED TEXT FOR PAGE: 101 / 686>
+"Because the daily trend has not yet reversed.
+
+At a minimum, I would need to see price break above the previous rebound high, or form a
+Higher Low followed by another advance.
+
+Only then would I consider the market structure to be improving."
+
+"What about selling?"
+
+"I wouldn't immediately sell a long-term position either.
+
+The weekly support has not yet been broken.
+
+If I were managing a long-term portfolio, I would reduce exposure or wait for confirmation on the
+weekly chart, rather than making decisions based on a three-day rebound or a single day's
+decline."
+
+Several people around the meeting table nodded.
+
+Ethan's answer was not dramatic.
+
+But it was professional.
+
+True professionalism often lies not in making exciting predictions.
+
+It lies in describing uncertainty accurately.
+
+Being willing to say "I don't know yet" is not a sign of weakness.
+
+Knowing what has not yet been confirmed is a genuine professional skill.
+
+V. The Professor's Reminder: A Trend Does Not Begin When You Notice It
+
+After the meeting ended, Ethan looked pleased.
+
+It was the first time he had received positive feedback during a strategy discussion.
+
+But I did not want him becoming overconfident too soon.
+
+I called him over to the whiteboard.
+
+"You did well today," I said.
+
+He smiled.
+
+"But there's one more thing you need to remember."
+
+His smile faded.
+
+"A trend does not begin the moment you recognize it. Very often, by the time you finally confirm
+a trend, it has already been underway for quite some time."
+
+
+
+                                                 - 93 -
+<PARSED TEXT FOR PAGE: 102 / 686>
+Ethan nodded.
+
+"So that means I'll miss the very bottom."
+
+"You don't need to buy at the bottom."
+
+I drew a rising trend on the whiteboard.
+
+On the far left was the Bottoming Reversal Zone.
+
+In the middle was the Breakout Confirmation Zone.
+
+On the right was the Trend Continuation Zone.
+
+"Beginners always want to buy at the exact bottom because it makes them feel the smartest.
+
+Professional investors care about something entirely different:
+
+When I buy, has the trend already provided enough evidence, and can the risk be managed?"
+
+The bottom is usually the point of greatest uncertainty.
+
+The confirmation area is generally safer, although the price is higher.
+
+A trend continuation entry may still provide opportunities, but the risk-reward ratio must be
+evaluated again.
+
+There is no perfect entry point.
+
+What matters is understanding what kind of entry you are making.
+
+Buying near the left-side bottom means paying for anticipation.
+
+Buying after the breakout means paying for trend confirmation.
+
+Buying after a successful pullback means paying for market acceptance.
+
+Different entry methods involve different types of risk.
+
+
+
+
+                                               - 94 -
+<PARSED TEXT FOR PAGE: 103 / 686>
+Figure Description:
+
+This figure explains the three primary methods of entering an established trend: Left-Side Bottom,
+Breakout Confirmation, and Support Retest. The illustration should follow the entire progression
+from a market bottom into an uptrend, clearly marking the three entry locations and highlighting
+the different levels of risk associated with each approach.
+
+
+
+Ethan studied the chart.
+
+"Which one is the best?"
+
+"There isn't a universally best choice.
+
+There is only the one that best fits your trading system."
+
+I paused before continuing.
+
+"But at your current stage, the most important lesson is this:
+
+Never let short-term market noise invalidate an intermediate-term trend.
+
+And never allow a long-term investment thesis to excuse a short-term structural breakdown."
+
+It was a long sentence.
+
+
+                                               - 95 -
+<PARSED TEXT FOR PAGE: 104 / 686>
+Ethan wrote it down slowly.
+
+But I knew he truly understood it.
+
+Professor's Whiteboard Session
+
+Trend Structure
+
+Trend is one of the most fundamental concepts in technical analysis.
+
+Yet the more fundamental a concept is, the more easily it is misunderstood.
+
+Many people believe that a trend simply means prices are rising or falling.
+
+In reality, a trend is not defined by a single day's price movement, nor is it represented by a line
+drawn arbitrarily on a chart.
+
+A trend is a directional price structure that develops over time.
+
+
+
+I. Uptrend
+
+The defining characteristic of an uptrend is straightforward.
+
+Price forms a sequence of Higher Highs and Higher Lows.
+
+In technical analysis, this structure is commonly referred to as:
+
+Higher Highs and Higher Lows
+
+This means that each advance pushes above the previous high, while every pullback finds support
+above the previous low.
+
+What does this tell us?
+
+Buyers are willing to purchase at increasingly higher prices.
+
+Sellers are no longer able to force the market back into lower price ranges.
+
+The market's accepted value for the asset is gradually moving higher.
+
+Within an uptrend, a pullback is not necessarily a warning sign.
+
+If trading volume contracts during the pullback and price remains above the previous low or a key
+support level, the decline may simply represent a healthy pause within the ongoing trend.
+
+
+
+II. Downtrend
+
+The defining characteristic of a downtrend is equally clear.
+
+
+                                                - 96 -
+<PARSED TEXT FOR PAGE: 105 / 686>
+Price forms a sequence of Lower Highs and Lower Lows.
+
+This structure is commonly known as:
+
+Lower Highs and Lower Lows
+
+Each rebound fails to exceed the previous high.
+
+Each new decline pushes to a lower low.
+
+What does this indicate?
+
+Sellers continue accepting lower prices in order to exit their positions.
+
+Buyers lack sufficient demand to absorb the selling pressure.
+
+The market's accepted value for the asset is gradually moving lower.
+
+Within a downtrend, a rebound does not automatically create an opportunity.
+
+If the rebound occurs on declining volume and cannot break above the previous high or an
+important resistance level, it is likely nothing more than a temporary pause within the broader
+decline.
+
+
+
+
+Figure Description:
+
+
+
+                                                - 97 -
+<PARSED TEXT FOR PAGE: 106 / 686>
+This figure illustrates the key structural characteristics of both an uptrend and a downtrend. The
+left panel should display an Uptrend labeled Higher High and Higher Low, while the right panel
+should illustrate a Downtrend labeled Lower High and Lower Low.
+
+
+
+III. Sideways Trend
+
+A sideways trend is also known as a trading range.
+
+Instead of producing a consistent series of higher highs or lower lows, price fluctuates within a
+relatively fixed range.
+
+The upper boundary acts as resistance.
+
+The lower boundary acts as support.
+
+This type of market is often the most difficult environment for trend-following traders.
+
+Each rally appears to be a breakout.
+
+Each decline appears to be a breakdown.
+
+Yet in many cases, price simply returns to the middle of the range.
+
+Within a sideways market, the most important task is not predicting the next candlestick.
+
+The objective is to identify the boundaries of the range.
+
+Is price approaching the upper boundary?
+
+Is it approaching the lower boundary?
+
+Does trading volume support a genuine breakout?
+
+Can price remain above the range after the breakout?
+
+If price cannot successfully break beyond the range, a new trend has not yet been established.
+
+
+
+IV. Three Steps to Identifying a Trend
+
+Later, I asked Ethan to follow the same three-step process every time he analyzed a trend.
+
+Step One: Define Your Trading Timeframe
+
+Are you trading intraday?
+
+Swing trading?
+
+Or investing for the long term?
+
+
+                                               - 98 -
+<PARSED TEXT FOR PAGE: 107 / 686>
+Different timeframes produce different trend definitions.
+
+Never use a five-minute chart to invalidate a weekly trend.
+
+And never allow a weekly trend to ignore a confirmed breakdown on the daily chart.
+
+Step Two: Identify the Key Highs and Lows
+
+Do not begin by drawing trendlines.
+
+Start by identifying the structure.
+
+Where is the most recent rebound high?
+
+Where is the most recent pullback low?
+
+Has price broken above the previous high?
+
+Has it fallen below the previous low?
+
+The relationship between highs and lows is far more important than any individual candlestick.
+
+Step Three: Combine Price Structure with Volume and Key Levels
+
+Trend analysis is not based solely on price.
+
+During an uptrend:
+
+       Does trading volume increase during breakouts?
+       Does volume contract during pullbacks?
+
+During a downtrend:
+
+       Does volume expand during breakdowns?
+       Do rebounds appear weak and lack conviction?
+
+Only by combining price structure, trading volume, and key support and resistance levels can
+trend analysis become truly reliable.
+
+
+
+
+                                               - 99 -
+<PARSED TEXT FOR PAGE: 108 / 686>
+Figure Description:
+
+This figure summarizes the three-step process for trend analysis in a clear flowchart format:
+
+1. Define the Timeframe → 2. Identify Key Highs and Lows → 3. Confirm with Volume and Key
+Price Levels
+
+
+
+Case Review
+
+Trend Analysis of EuroTech Growth ETF
+
+Now let's return to EuroTech Growth ETF.
+
+Why was it such an effective example for learning trend analysis?
+
+Because it displayed different trend conditions across different timeframes.
+
+On the short-term chart, the ETF had rebounded for three consecutive days, making it easy to
+believe that the market had turned bullish.
+
+
+
+
+                                              - 100 -
+<PARSED TEXT FOR PAGE: 109 / 686>
+On the daily chart, however, it remained in a downtrend because the rebound had failed to break
+above the previous swing high, while each successive low continued moving lower.
+
+On the weekly chart, price was approaching long-term support but had not yet broken the broader
+long-term uptrend.
+
+What does this teach us?
+
+Trend analysis cannot be based on a single chart alone.
+
+If Ethan were a short-term trader, he could monitor whether the three-day rebound continued.
+
+However, he would also need to recognize that this remained only a short-term opportunity
+within a broader daily downtrend.
+
+If Ethan were a swing trader, he should wait for the daily structure to improve—for example, by
+breaking above the previous rebound high or by establishing a Higher Low before advancing
+again.
+
+If Ethan were a long-term investor, he should focus on whether the weekly support remained
+intact, rather than changing his opinion every time the daily chart fluctuated.
+
+That is the difference between professional analysis and emotional decision-making.
+
+Emotional thinking always seeks a simple answer.
+
+Buy. / Sell. / Bullish. / Bearish.
+
+Professional analysis begins by asking a different set of questions.
+
+Which timeframe am I analyzing?
+
+Which trading strategy am I using?
+
+Has the trend actually been confirmed?
+
+Where is the risk?
+
+If the market structure changes, should my opinion change as well?
+
+Chapter Trading Rules
+
+That day, I asked Ethan to write down four rules about trend analysis.
+
+First: A trend is not determined by a single day's price movement. It is defined by the relationship
+between a series of highs and lows.
+
+Second: An uptrend is characterized by Higher Highs and Higher Lows. A downtrend is
+characterized by Lower Highs and Lower Lows.
+
+Third: Every trend analysis must begin by identifying the appropriate timeframe.
+
+
+                                              - 101 -
+<PARSED TEXT FOR PAGE: 110 / 686>
+Fourth: Short-term market noise should never override an intermediate- or long-term trend, and
+long-term convictions should never ignore a confirmed short-term structural breakdown.
+
+Then I added one more sentence.
+
+True trend analysis is not about asking whether the market will rise or fall today.
+
+It is about asking whether the market is consistently accepting higher prices—or consistently
+accepting lower prices.
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned the first and most important layer of trend analysis.
+
+He no longer treated one or two days of price movement as a trend.
+
+He began to understand that:
+
+A trend has its own timeframe.
+
+A trend has its own structure.
+
+A trend is defined by highs and lows.
+
+A trend is sustained by the momentum of capital.
+
+A trend does not begin simply because you finally notice it.
+
+Nor does it end simply because you are afraid of missing out.
+
+For Ethan, this marked a significant turning point.
+
+In the previous chapters, he had always allowed price to dictate his emotions.
+
+When prices rose, he wanted to buy.
+
+When prices fell, he searched for news.
+
+When he found a good company, he wanted to enter immediately.
+
+Now, however, he had learned to step back.
+
+To study the structure.
+
+To understand the timeframe.
+
+To determine whether the trend had truly changed.
+
+In the next chapter, Ethan will begin studying another fundamental—but critically important—
+concept in technical analysis:
+
+Support and Resistance.
+
+
+                                               - 102 -
+<PARSED TEXT FOR PAGE: 111 / 686>
+He will discover that price repeatedly pauses at certain levels not because the market possesses
+some mysterious force, but because those levels contain accumulated cost basis, market memory,
+fear, and expectation.
+
+
+
+
+                                             - 103 -

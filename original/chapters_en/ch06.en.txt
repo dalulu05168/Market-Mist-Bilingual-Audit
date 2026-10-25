@@ -1,0 +1,954 @@
+Original Market Mist PDF pages 112–132. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 112 / 686>
+Chapter 6
+Support and Resistance: The Footprints Left by Market Memory.
+
+
+Ethan Carter did not truly understand support and resistance in a classroom.
+
+Nor did he learn it from a technical analysis textbook.
+
+He learned it while watching a stock that seemed impossible to push any lower.
+
+It was a European consumer goods company.
+
+For the sake of this story, I will call it Maison Verde.
+
+Maison Verde was not one of the market's most exciting companies.
+
+It had no artificial intelligence story.
+
+No clean energy theme.
+
+And it was not the kind of stock that would surge twenty percent because of a single order
+announcement.
+
+Its core businesses were traditional: premium home furnishings, fragrances, lifestyle retail, and an
+online membership subscription business.
+
+Companies like this tend to share one characteristic.
+
+During bull markets, they are rarely the fastest performers.
+
+During bear markets, they are rarely the hardest hit.
+
+But when investors begin searching for stable cash flow and durable brand moats, they often
+return to the attention of institutional investors.
+
+At first, Ethan did not like companies like Maison Verde.
+
+To him, everything about the company seemed slow.
+
+The price moved slowly.
+
+Earnings grew slowly.
+
+News arrived slowly.
+
+Even the level of market attention was slow.
+
+Young research analysts often prefer stocks that can validate their analysis quickly.
+
+Research it today.
+
+
+                                                - 104 -
+<PARSED TEXT FOR PAGE: 113 / 686>
+Watch it rise tomorrow.
+
+See a breakout today.
+
+Make a profit tomorrow.
+
+Yet many of the market's most important signals are hidden within slow, repetitive, and
+seemingly boring price behavior.
+
+Maison Verde was one of those stocks.
+
+During the previous six months, its share price had repeatedly declined toward €38.
+
+Each time it approached that level, buyers stepped in.
+
+The first visit to €38 produced a rebound.
+
+The second visit produced another rebound.
+
+The third visit came during a period of obvious market fear.
+
+Yet even then, price still failed to break decisively below the level.
+
+Staring at the chart, Ethan finally asked,
+
+"Professor, why does it always bounce from this area?
+
+Is someone supporting the price?"
+
+I was reviewing an industry inventory report.
+
+Hearing his question, I looked up.
+
+"You think someone is defending the stock?"
+
+"It certainly looks that way," he replied.
+
+"Every time the price approaches €38, buying appears, and trading volume also increases."
+
+"Then why do you think this level is important?"
+
+"Maybe it's where institutions built their positions."
+
+"Perhaps," I answered.
+
+"But don't rush to explain everything as institutional price support.
+
+Some areas become important not because a mysterious force is controlling the market there...
+
+...but because a great many people's memories are concentrated at that level."
+
+Ethan frowned.
+
+
+
+                                                - 105 -
+<PARSED TEXT FOR PAGE: 114 / 686>
+"Price has memory?"
+
+"No," I said.
+
+"Price doesn't have memory. People do."
+
+
+
+I. The Level That Refused to Break
+
+I asked Ethan to enlarge the daily chart of Maison Verde.
+
+The area around €38 stood out immediately.
+
+During the previous six months, price had approached that region three separate times.
+
+Each visit had been followed by a rebound.
+
+The first rebound was relatively modest.
+
+The second was much stronger.
+
+The third occurred while the overall market remained weak, yet Maison Verde still defended the
+same area.
+
+Ethan drew a horizontal line across the chart.
+
+"That's the support level."
+
+"It's a support zone," I corrected.
+
+"A support zone?"
+
+"Don't think of support as an exact number.
+
+The market is not a mathematics exam.
+
+Institutions don't automatically buy because the price reaches exactly €38.00.
+
+Nor do they abandon the trade simply because it falls to €37.99.
+
+What usually matters is an entire price zone."
+
+I wrote a sentence on the whiteboard.
+
+Support Zone, Not Support Line
+
+Support is a zone, not a single line.
+
+Many investors make technical analysis far more precise than it really is.
+
+They say:
+
+
+
+                                                 - 106 -
+<PARSED TEXT FOR PAGE: 115 / 686>
+"€38.00 is support."
+
+"€42.50 is resistance."
+
+"If price breaks below €37.98, it's over."
+
+"If it breaks above €42.51, it's going to explode."
+
+That kind of thinking is dangerous in real trading.
+
+Markets contain noise.
+
+Large orders sweep through the order book.
+
+Prices briefly pierce important levels during the trading session.
+
+False breakouts occur.
+
+Temporary liquidity shortages create sudden price spikes.
+
+Professional investors focus on areas, not decimal points.
+
+Maison Verde's support was not exactly €38.
+
+It was a trading zone roughly between €37.50 and €38.50.
+
+Within that area existed the cost basis of previous buyers.
+
+The valuation judgments of long-term investors.
+
+Potential accumulation plans from institutional capital.
+
+And technical buying from short-term traders.
+
+Together, these behaviors created the support zone.
+
+
+
+
+                                               - 107 -
+<PARSED TEXT FOR PAGE: 116 / 686>
+Figure Description:
+
+This figure explains that support should be viewed as a price zone, not a precise price level. It
+should illustrate price testing the same area multiple times before rebounding, with a shaded
+Support Zone highlighted instead of a single horizontal support line.
+
+
+
+Ethan stared at the shaded area.
+
+"So support exists because many people are willing to buy there?"
+
+"Yes.
+
+But that's only part of the story."
+
+"What else?"
+
+"Many people are also unwilling to sell."
+
+He paused.
+
+That perspective is often overlooked.
+
+A market finds support at a particular price area not only because buyers become more aggressive.
+
+
+
+                                               - 108 -
+<PARSED TEXT FOR PAGE: 117 / 686>
+It may also be because sellers become less willing to sell.
+
+When price falls into an area the market considers relatively inexpensive, those who intended to
+sell begin hesitating.
+
+Meanwhile, investors waiting to buy become increasingly active.
+
+Buying increases.
+
+Selling decreases.
+
+Naturally, price becomes more likely to rebound.
+
+Support is not created by buyers alone.
+
+It is the result of buyers becoming stronger while sellers become weaker at the same time.
+
+II. Why Does Support Fail?
+
+A few days later, Maison Verde once again drifted back toward €38.
+
+This time, Ethan was noticeably more cautious.
+
+Instead of immediately saying the stock was a buy, he began observing the trading volume, the
+overall market environment, and the price reaction.
+
+At that time, the broader European market was weak.
+
+The consumer sector was also under pressure after several retail companies lowered their full-
+year sales guidance.
+
+Maison Verde itself had released no negative news.
+
+However, sentiment toward the entire industry had deteriorated.
+
+The price fell to €38.20.
+
+Then €38.00.
+
+Later during the session, it briefly touched €37.70.
+
+Watching the screen, Ethan asked,
+
+"Can we buy here?"
+
+"What do you think?" I replied.
+
+"It's reached the support zone."
+
+"Reaching a support zone only tells you that you've arrived at an area worth watching.
+
+It does not automatically mean it's time to buy."
+
+
+                                              - 109 -
+<PARSED TEXT FOR PAGE: 118 / 686>
+"Then what should I look for?"
+
+"The reaction."
+
+That is the single most important word in support trading.
+
+Reaction.
+
+The support zone itself is not a reason to buy.
+
+What matters is how price behaves after reaching that support zone.
+
+If price reaches support, trading volume expands moderately, a long lower shadow appears, and
+price rebounds to close back above the upper boundary of the support zone, it suggests buyers are
+beginning to absorb the selling pressure.
+
+If price reaches support on heavy volume but fails to rebound—instead continuing to drift
+lower—it suggests selling pressure may be stronger than buying demand.
+
+If price briefly breaks below support during the session but quickly recovers, it may simply be a
+false breakdown.
+
+If price breaks below support on expanding volume and closes beneath the support zone,
+investors should become highly alert.
+
+The support may have failed.
+
+Ethan stared at the intraday chart.
+
+At 11:00 a.m., Maison Verde fell below €37.50.
+
+Trading volume began increasing.
+
+I could see the tension in Ethan's eyes.
+
+"Has the support broken?"
+
+"It has broken intraday," I replied.
+
+"But it's still too early to reach a conclusion."
+
+By 2:00 p.m., price had recovered to around €38.
+
+Ethan let out a quiet sigh of relief.
+
+"So this could be a false breakdown?"
+
+"Possibly."
+
+By the closing bell, Maison Verde finished at €38.30, leaving behind a long lower shadow.
+
+
+
+
+                                                    - 110 -
+<PARSED TEXT FOR PAGE: 119 / 686>
+Looking at the daily chart, Ethan asked,
+
+"Does that mean the support has held?"
+
+"At the very least," I replied, "it tells us buyers stepped in below the support zone today.
+
+Whether the support is truly valid will depend on what happens next.
+
+Price must continue rebounding—or at least avoid falling back below the support zone again."
+
+
+
+
+Figure Description:
+
+This figure illustrates price testing a support zone before rebounding, leaving a Long Lower
+Shadow. The chart should clearly label the Support Zone, Long Lower Shadow, Buying Reaction,
+and Volume Increase.
+
+
+
+Ethan wrote a sentence in his notebook.
+
+Reaching support does not mean support has been confirmed.
+
+I nodded.
+
+
+
+                                               - 111 -
+<PARSED TEXT FOR PAGE: 120 / 686>
+That was the first truly practical rule he had learned in this chapter.
+
+
+
+III. Resistance: The Market's Ceiling
+
+Several weeks later, Maison Verde rebounded from around €38 to €44.
+
+Ethan became excited.
+
+"If it can break above €44, it could begin a new uptrend."
+
+"Why €44?" I asked.
+
+"Because every previous rebound failed there."
+
+"So what does that area represent?"
+
+"A resistance zone."
+
+"And why does resistance exist?"
+
+This time, Ethan did not answer the way he would have in the first chapter by simply saying,
+"Because price couldn't go any higher."
+
+Instead, he replied,
+
+"There may be investors who bought near that level before and became trapped.
+
+Now that price has returned close to their cost basis, they want to sell.
+
+There may also be short-term traders who bought near the support zone and are now taking
+profits as price reaches resistance.
+
+In addition, some institutions may believe the stock is no longer inexpensive at this valuation and
+therefore have little interest in adding more shares."
+
+I smiled.
+
+"Very good.
+
+You're beginning to explain price through market behavior."
+
+The nature of resistance is remarkably similar to support.
+
+It is not a mysterious line.
+
+A resistance zone is simply an area where selling pressure becomes concentrated.
+
+That selling pressure may come from trapped investors.
+
+It may come from profit-taking.
+
+
+                                                - 112 -
+<PARSED TEXT FOR PAGE: 121 / 686>
+It may come from valuation concerns.
+
+It may come from institutional distribution.
+
+Or it may simply exist because a large number of traders are watching exactly the same technical
+level.
+
+As price approaches resistance, buyers become more cautious.
+
+Sellers become more aggressive.
+
+Buying weakens.
+
+Selling increases.
+
+As a result, price becomes more likely to pull back.
+
+
+
+
+Figure Description:
+
+This figure explains how a Resistance Zone forms. It should show price repeatedly rallying into
+the same area before pulling back, with a shaded Resistance Zone highlighted and Selling
+
+
+
+
+                                               - 113 -
+<PARSED TEXT FOR PAGE: 122 / 686>
+Pressure clearly labeled.
+
+
+Ethan continued studying Maison Verde's chart.
+
+"So if it breaks above €44, can we buy it?"
+
+"You're back to asking about breakouts," I said.
+
+He laughed.
+
+"This time I know I can't judge the breakout alone.
+
+I need to evaluate the trading volume, the closing price, and the confirmation from the retest."
+
+"Very good."
+
+Price consolidated around €44 for three days.
+
+On the first day, it rallied and then faded.
+
+On the second day, it traded sideways within a narrow range.
+
+On the third day, trading volume expanded, and the stock closed above €44.50.
+
+Ethan did not immediately call it a buy.
+
+He waited.
+
+On the fourth day, price pulled back modestly toward €44.
+
+Trading volume contracted noticeably.
+
+The stock never fell back below the resistance zone.
+
+On the fifth day, price resumed moving higher.
+
+Only then did Ethan say,
+
+"The old resistance may have become the new support."
+
+I looked at him.
+
+"Now you're finally starting to read charts like a research analyst."
+
+IV. Resistance Becomes Support, Support Becomes Resistance
+
+One of the most fascinating aspects of support and resistance is that they can exchange roles.
+
+When price repeatedly fails to break above a resistance zone, that area represents concentrated
+selling pressure.
+
+
+
+                                                - 114 -
+<PARSED TEXT FOR PAGE: 123 / 686>
+However, if price breaks through that resistance on expanding volume and later pulls back
+without falling below it, the market begins redefining that area.
+
+Those who wanted to sell may have already finished selling.
+
+Those who had been waiting on the sidelines may now become willing buyers after seeing the
+breakout.
+
+Short sellers may be forced to cover their positions.
+
+Those who chased the breakout may hope for a pullback to buy at a better price.
+
+As a result, old resistance becomes new support.
+
+The reverse is equally true.
+
+When price breaks below a long-established support zone, investors who bought within that area
+become trapped.
+
+If price later rebounds back toward the former support, many of those investors may choose to
+sell simply to break even.
+
+New selling pressure appears.
+
+Buyers become more cautious.
+
+As a result, old support becomes new resistance.
+
+That is how market memory evolves.
+
+
+
+
+                                              - 115 -
+<PARSED TEXT FOR PAGE: 124 / 686>
+Figure Description:
+
+This figure illustrates price breaking above a resistance zone, followed by a successful retest in
+which the former resistance becomes new support. The chart should clearly label Breakout,
+Retest, Old Resistance, and New Support.
+
+
+
+
+                                               - 116 -
+<PARSED TEXT FOR PAGE: 125 / 686>
+Figure Description:
+
+This figure illustrates price breaking below a support zone, followed by a failed rebound back
+into the former support area, which has now become new resistance. It should serve as a direct
+comparison to Figure 30.
+
+
+
+Ethan found these two charts particularly interesting.
+
+"So support and resistance aren't permanent identities.
+
+They're the result of the market continuously repricing itself."
+
+"Exactly," I replied.
+
+"They're not walls.
+
+
+
+
+                                               - 117 -
+<PARSED TEXT FOR PAGE: 126 / 686>
+They're memory zones.
+
+Once price moves through them, the market begins interpreting that memory differently."
+
+
+
+Professor's Whiteboard Session
+
+Support and Resistance
+
+That evening, the topic of Ethan's whiteboard lesson was:
+
+Support and Resistance.
+
+This is one of the most fundamental concepts in technical analysis.
+
+Yet it is also one of the easiest concepts to draw incorrectly, apply incorrectly, and misunderstand.
+
+Many investors treat support and resistance as magical prediction lines.
+
+They believe that price must rise after reaching support and must fall after reaching resistance.
+
+That is an extremely dangerous misunderstanding.
+
+Support and resistance are not prediction tools.
+
+They are areas for observing changes in market behavior.
+
+
+
+I. What Is Support?
+
+Support is a price area where, after a decline, buying pressure begins increasing or selling
+pressure begins weakening, causing price to stop falling—or even begin rebounding.
+
+Support is usually created by four primary forces.
+
+First, Cost Basis Support.
+
+Many investors previously bought shares within that area.
+
+When price returns, they are willing to add to their positions—or at least unwilling to sell.
+
+Second, Valuation Support.
+
+Some long-term investors believe the stock has become attractive at that price and begin
+accumulating shares gradually.
+
+Third, Technical Support.
+
+Large numbers of traders recognize the same technical area, such as a previous low, the bottom of
+a trading range, or a major moving average.
+
+
+                                               - 118 -
+<PARSED TEXT FOR PAGE: 127 / 686>
+Fourth, Psychological Support.
+
+Round numbers, historical lows, and important price platforms all influence investor psychology.
+
+Regardless of where support originates, however, it must always be confirmed by price reaction.
+
+
+
+II. What Is Resistance?
+
+Resistance is a price area where, after an advance, selling pressure begins increasing or buying
+pressure begins weakening, causing price to stop rising—or even begin declining.
+
+Resistance is usually created by four primary forces.
+
+First, Trapped Investors.
+
+Those who bought near previous highs may decide to sell once price returns close to their cost
+basis.
+
+Second, Profit-Taking.
+
+Investors who bought at lower prices choose to realize their gains after a meaningful advance.
+
+Third, Valuation Pressure.
+
+Institutions may believe the stock has reached a fair—or even expensive—valuation and therefore
+become reluctant to buy additional shares.
+
+Fourth, Technical Selling.
+
+Large numbers of traders reduce their positions as price approaches previous highs, the upper
+boundary of a trading range, or a major long-term resistance line.
+
+Whether resistance is ultimately broken has nothing to do with how we draw the line.
+
+It depends entirely on whether buyers possess enough strength to absorb the available selling
+pressure.
+
+III. How to Draw Support and Resistance Correctly
+
+Later, I asked Ethan to follow three rules whenever he drew support and resistance.
+
+Rule One: Draw Zones, Not Exact Price Levels
+
+Market prices are filled with normal fluctuations and noise.
+
+Support and resistance are usually price zones, not precise numbers.
+
+Rule Two: Give Priority to Areas That Have Been Tested Repeatedly
+
+
+
+
+                                              - 119 -
+<PARSED TEXT FOR PAGE: 128 / 686>
+The more times a price area has been tested, the stronger the market's memory tends to become.
+
+However, there is an important exception.
+
+If a support zone is tested over and over again while each rebound becomes progressively weaker,
+it may indicate that buying demand is gradually being exhausted.
+
+Rule Three: Combine Support and Resistance with Volume and Price Reaction
+
+Simply drawing lines on a chart has very little value.
+
+What truly matters is what happens after price reaches those areas.
+
+Does price break above resistance on expanding volume?
+
+Does it pull back on contracting volume?
+
+Does it leave a long lower shadow before rebounding?
+
+Does it break below support on heavy volume?
+
+Does a rebound fail after returning to the former support?
+
+These reactions—not the lines themselves—provide the real evidence.
+
+
+
+
+Figure Description:
+
+
+
+                                              - 120 -
+<PARSED TEXT FOR PAGE: 129 / 686>
+This figure summarizes the proper method for drawing support and resistance zones. The chart
+should display multiple swing highs and lows, highlight both support and resistance as shaded
+price zones, and list the three drawing principles alongside the chart.
+
+
+
+IV. Common Mistakes When Using Support and Resistance
+
+Although support and resistance appear simple, beginners frequently make four common
+mistakes.
+
+Mistake One: Believing Support Will Always Hold
+
+No support level remains valid forever.
+
+Support is an observation zone, not a guarantee.
+
+If price breaks below support on expanding volume and the subsequent rebound fails, it is time to
+accept that the support has failed.
+
+Mistake Two: Believing Resistance Can Never Be Broken
+
+Resistance is not permanent either.
+
+If price breaks above resistance on expanding volume and later retests it successfully, the former
+resistance may become new support.
+
+Mistake Three: Drawing Too Many Lines
+
+Some investors open a chart and cover it with support lines, resistance lines, trendlines, moving
+averages, and price channels.
+
+Eventually the chart looks highly sophisticated.
+
+Yet they no longer know which line actually matters.
+
+In reality, only a few price areas are truly important.
+
+The more obvious the level, the more times it has been confirmed, and the stronger the
+accompanying volume, the more attention it deserves.
+
+Mistake Four: Ignoring the Market Environment
+
+Exactly the same support level can have very different meanings under different market
+conditions.
+
+Support during a bull-market pullback is often more likely to hold.
+
+Support during a bear-market decline is often more likely to fail.
+
+Support within a leading sector may attract institutional buying.
+
+
+                                               - 121 -
+<PARSED TEXT FOR PAGE: 130 / 686>
+Support within a weak sector may represent nothing more than a temporary pause.
+
+Support and resistance should never be analyzed in isolation.
+
+
+
+Case Review
+
+The Transformation of Support and Resistance in Maison Verde
+
+Now let's return to Maison Verde.
+
+Why was it such an effective teaching example?
+
+Because it demonstrated the complete evolution of support, resistance, and role reversal.
+
+Stage One: Price rebounded several times around €38.
+
+This suggested that buyers were actively supporting the area and that long-term investors might
+also have considered the valuation attractive.
+
+Stage Two: Price briefly broke below the lower boundary of the support zone but recovered
+before the close, leaving behind a long lower shadow.
+
+This showed that buyers responded aggressively beneath the support zone, preventing a
+confirmed breakdown.
+
+Stage Three: Price rallied toward €44.
+
+That area had repeatedly capped previous advances, establishing a clear resistance zone.
+
+Stage Four: Price broke above €44 on expanding volume and closed firmly above the resistance.
+
+This indicated that buyers had begun absorbing the selling pressure overhead.
+
+Stage Five: Price pulled back toward €44, trading volume contracted, and the stock never fell
+back below the former resistance zone.
+
+This suggested that the old resistance had begun transforming into new support.
+
+That is the type of structural transition professional traders prefer to see.
+
+If Ethan wanted to trade Maison Verde, the better entry would not have been the first touch of
+€38, nor would it have been immediately after the breakout above €44.
+
+The more disciplined opportunity would have been after the successful retest, when price held
+above the breakout level while trading volume contracted.
+
+At that point, risk becomes much easier to define.
+
+If price falls back below €44, the breakout has failed.
+
+
+
+                                                - 122 -
+<PARSED TEXT FOR PAGE: 131 / 686>
+If price successfully defends €44 and resumes moving higher, the market has accepted the new
+price area.
+
+Trading is not about finding the cheapest price.
+
+It is about finding the point where the evidence is strongest and the risk is most clearly defined.
+
+Chapter Trading Rules
+
+That day, I asked Ethan to write down five rules.
+
+First: Support and resistance are zones, not precise price levels.
+
+Second: Simply reaching a support zone does not mean it is time to buy. Always observe the
+buyers' reaction first.
+
+Third: Simply reaching a resistance zone does not mean price must decline. Watch whether the
+breakout is supported by expanding volume.
+
+Fourth: After a successful breakout, old resistance may become new support. After a confirmed
+breakdown, old support may become new resistance.
+
+Fifth: Support and resistance must always be evaluated together with trading volume, the broader
+market environment, and subsequent confirmation.
+
+Then I added one more sentence.
+
+Support and resistance are not commands that the market must obey.
+
+They are places where the market's memory becomes concentrated.
+
+What truly matters is not that price has reached those areas.
+
+What matters is how market participants behave after price gets there.
+
+Ethan wrote that sentence into his notebook.
+
+Later, I noticed that he had drawn a small arrow beneath it and written four simple words beside
+it.
+
+Watch the reaction.
+
+Those four words may be more valuable than any complicated technical indicator.
+
+Chapter Summary
+
+In this chapter, Ethan Carter finally developed a true understanding of support and resistance.
+
+He no longer viewed support as a level where price must rise.
+
+Nor did he regard resistance as a level where price must fall.
+
+
+
+                                               - 123 -
+<PARSED TEXT FOR PAGE: 132 / 686>
+Instead, he came to understand that:
+
+Support is created by buying interest, investors' cost basis, valuation, and market psychology.
+
+Resistance is created by selling pressure, trapped investors, profit-taking, and valuation concerns.
+
+Support and resistance are not permanent identities.
+
+They change whenever price successfully breaks above or below them.
+
+Professional analysis is not about asking whether price has reached a particular line.
+
+It is about observing how the market reacts after price reaches an important area.
+
+From this chapter onward, Ethan no longer looked at a chart and immediately asked,
+
+"Can I buy here?"
+
+Instead, he began asking,
+
+"What happened here before?"
+
+"How has trading volume changed now that price has returned to this area?"
+
+"Who is acting more aggressively—the buyers or the sellers?"
+
+"If price breaks above or below this level, will the market accept the new price?"
+
+That is the moment technical analysis stopped being a game of drawing lines...
+
+...and became the study of market behavior.
+
+In the next chapter, Ethan will begin learning about the market's most important witness:
+
+Trading Volume.
+
+He will discover that whether a breakout candlestick represents a genuine opportunity or merely a
+false signal is often determined not by price alone—
+
+but by what trading volume has been quietly telling us all along.
+
+
+
+
+                                              - 124 -

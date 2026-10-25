@@ -1,0 +1,1025 @@
+Original Market Mist PDF pages 133–154. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 133 / 686>
+Chapter 7
+The Whisper of Volume: Is There Real Strength Behind the Price?
+
+
+At first, Ethan Carter never truly appreciated the importance of trading volume.
+
+He knew volume mattered.
+
+Just like many investors do.
+
+They often say things like:
+
+"A breakout should be confirmed by volume."
+
+"It's better when rising prices are accompanied by expanding volume."
+
+"Be cautious when prices fall on heavy volume."
+
+"A low-volume pullback is healthier."
+
+Yet when it comes time to trade, their attention is still drawn to price first.
+
+When price rises rapidly, they become excited.
+
+When price falls sharply, they become afraid.
+
+When price breaks out, they want to buy.
+
+When price breaks down, they want to sell.
+
+Volume is often treated as nothing more than a row of bars beneath the chart.
+
+Almost like background music for the price.
+
+That remained true until one day, when Ethan nearly made the same mistake again while
+watching what appeared to be a perfect breakout.
+
+For the purpose of this story, I will call the company Alpine Robotics.
+
+Alpine Robotics is an industrial automation company that provides robotic arms, automated
+inspection equipment, and intelligent production-line solutions for European manufacturers.
+
+It is not one of the market's hottest artificial intelligence companies.
+
+However, investors have recently begun paying closer attention to it as automation upgrades
+across European manufacturing continue to accelerate.
+
+Over the past several months, Alpine Robotics had been steadily recovering from its lows.
+
+
+
+                                                - 125 -
+<PARSED TEXT FOR PAGE: 134 / 686>
+First, the prolonged decline came to an end.
+
+Next, the stock traded sideways within a consolidation range.
+
+Then it gradually began forming higher lows.
+
+Finally, it approached a major resistance area from earlier in the chart.
+
+From a structural perspective, it looked far more patient and orderly than HelioGrid, the stock
+Ethan had chased at higher prices before.
+
+That immediately caught his attention.
+
+"Professor," he said as he brought the chart to me,
+
+"I think this stock may be about to break out."
+
+I glanced at the chart.
+
+Price had indeed approached resistance.
+
+The previous major high was around €56.
+
+During the past two months, the stock had tested that level several times without successfully
+closing above it.
+
+Now it had returned to the same area, and the daily chart looked considerably stronger than
+before.
+
+Pointing at the screen, Ethan said,
+
+"This time the lows are getting higher.
+
+None of the recent pullbacks have fallen below the previous lows, which suggests buyers are
+becoming stronger.
+
+If it breaks above €56, there could be plenty of room for further upside."
+
+I nodded.
+
+"The structure looks good."
+
+A slight smile appeared on Ethan's face.
+
+I rarely described a chart simply by saying, "It looks good."
+
+But then I immediately asked another question.
+
+"What about the volume?"
+
+His smile disappeared.
+
+
+
+                                               - 126 -
+<PARSED TEXT FOR PAGE: 135 / 686>
+"Volume..."
+
+"I guess it looks okay."
+
+"What does 'okay' mean?"
+
+He enlarged the volume bars beneath the chart.
+
+I took one look and asked,
+
+"Do you think the volume pattern leading up to the breakout is healthy?"
+
+Ethan didn't answer immediately.
+
+That was exactly the problem.
+
+He had noticed the price structure.
+
+He had identified the resistance level.
+
+He had recognized the series of higher lows.
+
+He had spotted the potential breakout.
+
+But he had only glanced at the volume almost as an afterthought.
+
+I pointed to the volume bars beneath the chart.
+
+"The closer price gets to resistance, the lower the trading volume becomes.
+
+Don't you find that unusual?"
+
+I. A Quiet Breakout Is Not Always a Good Sign
+
+That morning, Alpine Robotics continued moving higher.
+
+At 10:15 a.m., the stock traded above €56 for the first time.
+
+Ethan immediately sat up straighter.
+
+"It broke out."
+
+I said nothing.
+
+He glanced at me before adding,
+
+"But volume hasn't expanded significantly."
+
+"So?"
+
+"So...we need to keep watching."
+
+
+
+
+                                               - 127 -
+<PARSED TEXT FOR PAGE: 136 / 686>
+I nodded.
+
+That alone was progress.
+
+A few weeks earlier, he probably would have declared it an immediate buying opportunity.
+
+After breaking above resistance, Alpine Robotics did not accelerate the way a strong breakout
+normally would.
+
+Instead, it drifted between €56.20 and €56.60, making only limited progress while trading volume
+remained relatively subdued.
+
+It appeared to have broken out, yet something was missing.
+
+There was no real force driving price away from the resistance zone.
+
+Ethan looked puzzled.
+
+"If price has already broken out, why isn't it continuing higher?"
+
+"A price breakout only tells you that the stock has reached a new level," I replied.
+
+"Volume tells you whether enough capital is willing to continue buying at that new level."
+
+I asked him to compare the trading volume from the previous three attempts to break above €56.
+
+During the first attempt, volume expanded, but price quickly reversed lower.
+
+During the second attempt, volume was slightly lighter, and the breakout failed once again.
+
+During the third attempt—which was today—price finally moved above €56, yet trading volume
+was even lower than during the previous two attempts.
+
+What did that suggest?
+
+It suggested that selling pressure might have weakened.
+
+But buying pressure had not become noticeably stronger.
+
+Sometimes a stock breaks above resistance simply because there are temporarily fewer sellers.
+
+However, without continued buying interest, that type of breakout rarely travels very far.
+
+I told Ethan,
+
+"A strong breakout is rarely quiet.
+
+When real capital is driving a breakout, both price and volume tell the story together."
+
+
+
+
+                                              - 128 -
+<PARSED TEXT FOR PAGE: 137 / 686>
+Figure Description:
+
+This figure illustrates price breaking above resistance without a corresponding increase in trading
+volume, making the breakout less reliable. The chart should clearly label Breakout, Weak
+Volume, and Need Confirmation.
+
+
+
+Ethan stared at the relatively small volume bars.
+
+"So a breakout isn't necessarily a buy signal right away.
+
+First we need to see whether volume supports it."
+
+"Exactly."
+
+"But if volume is light, couldn't that simply mean there isn't much selling pressure?"
+
+"It could," I replied.
+
+"That's why you can't automatically conclude that every low-volume breakout will fail.
+
+You have to observe what happens next.
+
+If price remains above resistance after the breakout and volume gradually increases afterward, the
+breakout may still prove valid.
+
+
+                                              - 129 -
+<PARSED TEXT FOR PAGE: 138 / 686>
+But if price stalls after breaking out—or quickly falls back below resistance—it suggests there
+wasn't enough buying interest to support the move."
+
+This is one of the most commonly misunderstood aspects of volume analysis.
+
+It is not a mechanical rule.
+
+Heavy volume is not always bullish.
+
+Light volume is not always bearish.
+
+What matters is where the volume appears and whether it is consistent with the accompanying
+price action.
+
+
+
+II. Volume Is the Witness to Price Action
+
+Before noon, Alpine Robotics was still trading sideways around €56.
+
+Ethan resisted the urge to draw any conclusions.
+
+Instead, he began studying the order flow and the distribution of transactions.
+
+This time, he wasn't watching the percentage gain.
+
+He was watching the changes in trading volume.
+
+That was encouraging.
+
+I have always believed that the true sign of progress is not when an investor can explain
+increasingly complicated theories.
+
+It is when that investor begins paying attention to the right things.
+
+At 1:20 p.m., the market changed.
+
+A large buy order suddenly entered the market.
+
+Price jumped from €56.40 to €57.20.
+
+At the same time, trading volume expanded dramatically—roughly three times the average hourly
+volume from earlier in the day.
+
+Ethan looked up at me.
+
+"Now there's volume."
+
+"Keep watching."
+
+After breaking above €57, price did not immediately retreat.
+
+
+
+                                               - 130 -
+<PARSED TEXT FOR PAGE: 139 / 686>
+Instead, it stabilized above €56.80.
+
+Over the next thirty minutes, trading volume remained active, while price never fell back below
+the €56 resistance level.
+
+This was completely different from the morning's breakout attempt.
+
+Earlier, price had moved above €56, but there had been no capital driving the advance.
+
+This time, price not only broke above €56, it also created distance from the resistance with
+expanding volume and successfully remained above the breakout level.
+
+That suggested buyers were becoming much more aggressive.
+
+I asked Ethan,
+
+"How would you describe this breakout now?"
+
+He replied,
+
+"The morning was only a breakout attempt.
+
+This afternoon looks like a confirmed breakout."
+
+"Why?"
+
+"Because volume expanded, and price never fell back below resistance."
+
+"Very good.
+
+
+
+
+                                              - 131 -
+<PARSED TEXT FOR PAGE: 140 / 686>
+Figure Description:
+
+This figure illustrates a confirmed breakout in which price breaks above resistance with
+significantly expanding trading volume and remains above the former resistance level afterward.
+
+
+
+Ethan said,
+
+"Volume is telling us that there is finally real strength behind the price."
+
+"Exactly," I replied.
+
+"Volume won't predict the future.
+
+But it can tell you whether the current price movement is being supported by genuine
+participation."
+
+I often describe volume as the market's breathing.
+
+Price is the market's movement.
+
+Volume is the market's breathing.
+
+Movement can be faked.
+
+
+
+                                                - 132 -
+<PARSED TEXT FOR PAGE: 141 / 686>
+Breathing is much harder to fake for very long.
+
+A person may pretend to remain calm.
+
+But their breathing often reveals their tension.
+
+A stock may surge briefly.
+
+But volume reveals whether real money is truly participating.
+
+Of course, short-term traders can temporarily create bursts of volume.
+
+Even so, at important price levels, volume remains one of the most valuable witnesses to price
+action.
+
+III. High Volume Is Not Always Bullish
+
+At 3:00 p.m., Alpine Robotics continued moving higher.
+
+Ethan was beginning to get excited.
+
+"This one looks real."
+
+I glanced at him.
+
+"You're trying to turn a signal into a certainty again."
+
+He paused.
+
+Pointing to the volume bars, I said,
+
+"A breakout on heavy volume is certainly a positive sign.
+
+But heavy volume itself is not automatically bullish.
+
+You need to understand that there are many different types of high-volume activity."
+
+I wrote four terms on the whiteboard.
+
+Volume Breakout
+
+Volume Climax
+
+Volume Distribution
+
+Volume Breakdown
+
+A breakout on expanding volume.
+
+A volume climax.
+
+Distribution on heavy volume.
+
+
+
+                                                - 133 -
+<PARSED TEXT FOR PAGE: 142 / 686>
+A breakdown on heavy volume.
+
+Ethan studied the four terms.
+
+I explained.
+
+A Volume Breakout occurs when buyers absorb the selling pressure at a key resistance level and
+continue pushing price higher.
+
+A Volume Climax usually appears near the end of a prolonged advance, when price surges
+sharply but fresh buying interest quickly dries up.
+
+Volume Distribution occurs near market highs, where trading volume is extremely heavy, yet
+price makes little or no further progress.
+
+A Volume Breakdown occurs when support is broken and selling pressure is released
+aggressively.
+
+So whenever you see heavy volume, don't immediately assume it's bullish.
+
+Instead, ask yourself:
+
+Where did the heavy volume appear?
+
+Did price continue advancing?
+
+Or did it rally and then reverse?
+
+Where did the stock close after the high-volume session?
+
+Did the move continue afterward?
+
+Were buyers in control?
+
+Or were sellers taking control?
+
+That is the essence of the relationship between price and volume.
+
+
+
+
+                                             - 134 -
+<PARSED TEXT FOR PAGE: 143 / 686>
+Figure Description:
+
+This figure illustrates four different high-volume scenarios: Volume Breakout, Volume Climax,
+Volume Distribution, and Volume Breakdown. It is best presented as a four-panel educational
+diagram.
+
+
+
+Ethan said,
+
+"So volume doesn't tell us the market's direction by itself.
+
+It helps explain the meaning behind the price movement."
+
+"Exactly."
+
+I continued,
+
+"Price tells you where the market is moving.
+
+Volume tells you whether that move has strength—and whether that strength appears in the right
+place."
+
+
+
+IV. Low Volume Is Not Always Bearish
+
+
+                                               - 135 -
+<PARSED TEXT FOR PAGE: 144 / 686>
+The following day, Alpine Robotics did not continue soaring higher.
+
+Instead, the stock pulled back from €57.80 to around €56.60.
+
+Ethan became uneasy.
+
+"Has the breakout failed?"
+
+"What does the volume say?" I asked.
+
+He looked down at the chart.
+
+"It's noticeably lower than yesterday."
+
+"Has price fallen back below €56?"
+
+"No."
+
+"Then why are you nervous?"
+
+He smiled awkwardly.
+
+"Because it's falling."
+
+That is human nature.
+
+Even when people understand that a low-volume pullback can be healthy, they still instinctively
+become anxious whenever they see prices decline.
+
+I asked Ethan to describe the chart again.
+
+He said,
+
+"Yesterday the stock broke above €56 on expanding volume.
+
+Today it's pulling back toward €56.60.
+
+Volume has contracted, and price remains above the former resistance."
+
+"What kind of structure is that?"
+
+He thought for a moment.
+
+"A low-volume retest after a breakout."
+
+"Exactly.
+
+And that's actually more important than the breakout itself."
+
+Many healthy uptrends are not built on relentless daily advances.
+
+Instead, they break above resistance...
+
+
+
+                                              - 136 -
+<PARSED TEXT FOR PAGE: 145 / 686>
+Pull back without breaking it...
+
+Consolidate on lighter volume...
+
+Then resume moving higher.
+
+What does a low-volume pullback tell us?
+
+It suggests that selling pressure has not increased significantly during the decline.
+
+It suggests that the buyers who entered the previous day are not rushing to exit their positions.
+
+It suggests that the market is willing to establish a new equilibrium above the breakout level.
+
+If price later resumes its advance, the former resistance has a good chance of becoming new
+support.
+
+
+
+
+Figure Description:
+
+This figure illustrates a healthy low-volume retest following a breakout. Price first breaks above
+resistance on expanding volume, then pulls back toward the former resistance with contracting
+volume before resuming its advance.
+
+
+
+
+                                               - 137 -
+<PARSED TEXT FOR PAGE: 146 / 686>
+Ethan studied the chart and slowly nodded.
+
+"So yesterday's high-volume breakout wasn't the only important signal.
+
+Today's low-volume pullback matters just as much."
+
+"Exactly.
+
+The market rarely gives you the answer with a single candlestick.
+
+More often, it reveals the answer through a sequence of behaviors."
+
+Professor's Whiteboard Session
+
+Volume Confirmation
+
+That evening, the topic of Ethan's whiteboard lesson was:
+
+Volume Confirmation.
+
+In technical analysis, trading volume is one of the most underestimated tools.
+
+The reason is simple.
+
+Price is easier to see.
+
+When price rises, everyone notices.
+
+When price falls, everyone becomes nervous.
+
+Breakouts, breakdowns, long bullish candles, and long bearish candles all attract immediate
+attention.
+
+Volume, on the other hand, is much quieter.
+
+It never directly tells you "Buy" or "Sell."
+
+Instead, it quietly asks:
+
+Is there genuine capital participating behind this price movement?
+
+Has the market truly accepted this breakout?
+
+Or was it merely a temporary push through resistance?
+
+Is this decline simply a normal pullback?
+
+Or is capital beginning to leave the market?
+
+Is this advance the beginning of a new trend?
+
+Or merely the final burst before exhaustion?
+
+
+
+                                                - 138 -
+<PARSED TEXT FOR PAGE: 147 / 686>
+Volume is not as loud as price.
+
+But it is often closer to the truth.
+
+
+
+I. The Nature of Volume
+
+Trading volume represents the number of shares exchanged during a given period.
+
+In practice, however, we should never think of it as merely a number.
+
+Volume represents:
+
+Disagreement.
+
+Participation.
+
+Liquidity.
+
+Capital Commitment.
+
+The Market's Degree of Acceptance.
+
+A rising price requires buyers who are willing to pay increasingly higher prices.
+
+But without sufficient volume, it suggests that relatively few participants are supporting the move,
+leaving the trend on a fragile foundation.
+
+When price declines with expanding volume, it indicates that sellers are becoming more
+aggressive, increasing the risk that the decline may accelerate.
+
+When price moves sideways while volume gradually contracts, it suggests that the market
+currently lacks direction and may be waiting for a new catalyst.
+
+When price consolidates near its lows while volume gradually increases, it may indicate that
+capital is quietly accumulating shares.
+
+The same increase in volume can have completely different meanings depending on where it
+occurs.
+
+
+
+II. Four Basic Price–Volume Relationships
+
+I asked Ethan to memorize four fundamental combinations.
+
+First: Price Up, Volume Up
+
+Price rises while trading volume increases.
+
+
+
+
+                                              - 139 -
+<PARSED TEXT FOR PAGE: 148 / 686>
+This usually indicates that the advance is supported by capital.
+
+If it occurs during a breakout above major resistance, the signal becomes even more meaningful.
+
+However, if it appears after a prolonged uptrend near market highs, it may instead represent the
+final stage of market enthusiasm.
+
+Second: Price Up, Volume Down
+
+Price rises while trading volume decreases.
+
+This may suggest that buying interest is weakening.
+
+If it occurs during a rally within a broader downtrend, investors should remain cautious because
+the rebound may lack strength.
+
+However, if it occurs during a minor advance within a strong uptrend, it may simply indicate that
+selling pressure is limited.
+
+Again, context matters.
+
+Third: Price Down, Volume Up
+
+Price declines while trading volume increases.
+
+This usually indicates that selling pressure is becoming stronger.
+
+If it occurs during a break below major support, the downside risk becomes much greater.
+
+However, if it appears near the end of a panic sell-off and is accompanied by a long lower
+shadow, it may instead indicate that the final wave of selling has been absorbed.
+
+Once again, both location and the closing price matter.
+
+Fourth: Price Down, Volume Down
+
+Price declines while trading volume decreases.
+
+If it occurs as a pullback within an established uptrend, it may simply represent a healthy
+correction.
+
+If it occurs during a downtrend, however, it may only indicate that buyers remain absent.
+
+It should not automatically be interpreted as bullish.
+
+Volume never provides a fixed answer.
+
+It must always be interpreted together with price structure.
+
+
+
+
+                                               - 140 -
+<PARSED TEXT FOR PAGE: 149 / 686>
+Figure Description:
+
+This figure summarizes the four basic price–volume relationships: Price Up, Volume Up; Price
+Up, Volume Down; Price Down, Volume Up; and Price Down, Volume Down. It is best
+presented as a four-panel educational diagram.
+
+
+III. How Should Volume Be Evaluated During a Breakout?
+
+For breakout trading, volume becomes especially important.
+
+A confirmed breakout usually has three characteristics.
+
+First, price breaks above a key resistance level.
+
+Second, trading volume during the breakout is noticeably higher than its recent average.
+
+Third, after the breakout, price is able to remain above the former resistance level.
+
+If only the first condition is present without the second, buying interest may not be strong enough.
+
+
+
+
+                                               - 141 -
+<PARSED TEXT FOR PAGE: 150 / 686>
+If the first and second conditions are present but the third is missing, the heavy volume may
+simply represent distribution near the highs or a false breakout designed to attract buyers.
+
+Only when all three conditions are present does the reliability of the breakout improve
+significantly.
+
+However, I also reminded Ethan of one important point.
+
+You should never mechanically insist that every valid breakout must occur on exceptionally
+heavy volume.
+
+Some high-quality stocks have an extremely stable shareholder base.
+
+During the early stages of a breakout, volume may not explode dramatically.
+
+If price continues advancing steadily afterward while volume gradually increases, that can still
+confirm that institutional capital is entering the market.
+
+The key principle is simple:
+
+Volume should support price action.
+
+When price breaks upward, volume should support the advance.
+
+When price pulls back toward support, volume should indicate that selling pressure is weakening.
+
+When price breaks below support, expanding volume should serve as a warning that downside
+risk may be increasing.
+
+
+
+IV. Why Is a Low-Volume Retest So Important?
+
+A low-volume retest is one of the most important confirmation signals found in many technical
+patterns.
+
+After a double bottom breaks above its neckline, a pullback that returns to the neckline on
+contracting volume—without breaking below it—suggests that selling pressure is weakening.
+
+After an inverse head-and-shoulders pattern breaks above its neckline, a low-volume retest that
+successfully holds suggests buyers are beginning to take control.
+
+During the consolidation phase of a bull flag, gradually declining volume often indicates profit-
+taking rather than institutional selling.
+
+After a breakout above resistance, a pullback on contracting volume suggests that the former
+resistance may be transforming into new support.
+
+A low-volume retest answers one critical question:
+
+
+
+
+                                              - 142 -
+<PARSED TEXT FOR PAGE: 151 / 686>
+After the advance, have sellers regained control of the market?
+
+If price declines on heavy volume, sellers remain aggressive, and the breakout may fail.
+
+If price declines on light volume, selling pressure is limited, and the trend may still be healthy.
+
+
+
+
+Figure Description:
+
+This figure compares a healthy pullback with a dangerous pullback. The left panel illustrates a
+breakout followed by a low-volume retest that successfully holds above support. The right panel
+illustrates a breakout followed by a high-volume decline back below support.
+
+
+
+Case Review
+
+Why Was Alpine Robotics Worth Waiting For?
+
+Now let's return to Alpine Robotics.
+
+Had Ethan focused only on price, he would probably have bought the stock immediately during
+the first breakout above €56 that morning.
+
+
+
+                                               - 143 -
+<PARSED TEXT FOR PAGE: 152 / 686>
+But volume told a different story.
+
+That breakout lacked sufficient strength.
+
+Although price briefly moved above €56, trading volume failed to expand meaningfully,
+suggesting that market participation remained limited.
+
+Price also failed to move decisively away from the resistance level, instead hesitating nearby.
+
+At that moment, the best decision was not to buy.
+
+It was to wait and observe.
+
+Later that afternoon, the situation changed.
+
+Price pushed higher once again, this time accompanied by a significant increase in trading
+volume.
+
+More importantly, after the high-volume breakout, price did not fall back below €56.
+
+Instead, it remained firmly above the breakout level.
+
+That was a far more meaningful breakout.
+
+The following day, price pulled back toward €56.
+
+Trading volume contracted.
+
+Price never fell back below the former resistance.
+
+That provided a second confirmation signal.
+
+The complete decision-making process for Alpine Robotics therefore became:
+
+First, identify the resistance level.
+
+Second, observe the initial breakout attempt.
+
+Third, recognize that volume is insufficient and avoid chasing the breakout.
+
+Fourth, wait for a breakout supported by expanding volume.
+
+Fifth, observe whether price successfully holds above the breakout level.
+
+Sixth, wait for confirmation through a low-volume retest.
+
+This approach is much slower than simply buying every breakout.
+
+But it is also far more professional.
+
+Successful investing is not about reacting the fastest.
+
+
+
+                                                - 144 -
+<PARSED TEXT FOR PAGE: 153 / 686>
+It is about distinguishing between:
+
+Price movement.
+
+Capital confirmation.
+
+Risk location.
+
+Subsequent validation.
+
+Chapter Trading Rules
+
+That day, I asked Ethan to write down five rules.
+
+First: Every breakout must be confirmed by trading volume.
+
+Second: Expanding volume is not automatically bullish. Always consider where it appears and
+how price responds.
+
+Third: A low-volume pullback is not automatically bearish. It may represent a healthy
+confirmation of the trend.
+
+Fourth: Be cautious when price stalls on heavy volume, especially near market highs.
+
+Fifth: The relationship between price and volume should always be evaluated together with the
+trend, support and resistance, and the overall chart structure.
+
+Then I added one more sentence.
+
+Price tells you what the market has done.
+
+Volume tells you whether the market has truly committed capital to that move.
+
+Ethan wrote the sentence into his notebook.
+
+Then he added one more line beneath it.
+
+Volume is the witness.
+
+Trading volume is the witness.
+
+When I saw those words, I smiled.
+
+He was finally beginning to hear the quieter language of the market.
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned that trading volume is not merely a row of bars beneath the
+chart.
+
+It is the evidence behind price action.
+
+
+
+                                              - 145 -
+<PARSED TEXT FOR PAGE: 154 / 686>
+A breakout without volume confirmation may lack genuine buying interest.
+
+A breakout that holds after expanding volume suggests that real capital may be participating.
+
+A low-volume pullback that remains above a key level suggests that selling pressure may be
+weakening.
+
+Heavy volume with little price progress near market highs may indicate distribution.
+
+A breakdown below support on expanding volume may signal that downside risk is accelerating.
+
+From this chapter onward, Ethan no longer asked only,
+
+"Has the price broken out?"
+
+Instead, he began asking,
+
+"Was the breakout confirmed by volume?"
+
+"Did price remain above the breakout level afterward?"
+
+"Did volume contract during the pullback?"
+
+"Did the expanding volume occur near the bottom, at the breakout point, or near the highs?"
+
+Once he began asking those questions, technical analysis was no longer just about drawing lines.
+
+It became the study of how capital behaves within the market.
+
+In the next chapter, Ethan will learn another tool that appears simple but is often misunderstood:
+
+Candlesticks.
+
+He will discover that candlesticks are neither decorative candles nor names to be memorized
+mechanically.
+
+Every candlestick is a record of the battle between buyers and sellers during a specific period of
+time.
+
+
+
+
+                                              - 146 -

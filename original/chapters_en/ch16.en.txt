@@ -1,0 +1,1976 @@
+Original Market Mist PDF pages 342–381. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 342 / 686>
+Chapter 16
+The Bull Market's Champagne Tower: How Rising Prices Make Investors Forget
+Risk
+
+
+The most dangerous aspect of a bull market
+
+is not the rise itself.
+
+There is nothing inherently wrong with rising prices.
+
+Markets advance,
+
+valuations expand,
+
+investors become more willing to take risks,
+
+and people make money.
+
+All of these are perfectly normal parts of the financial markets.
+
+The real danger is this:
+
+A bull market changes people's personalities.
+
+A cautious investor becomes confident.
+
+A confident investor becomes bold.
+
+A bold investor becomes reckless.
+
+And a reckless investor begins believing
+
+that they have finally mastered the market.
+
+A bull market is like a towering champagne fountain.
+
+Those standing at the very top
+
+raise their glasses first,
+
+make the most noise,
+
+and are the quickest to believe
+
+that the celebration will never end.
+
+Those below watch them making money,
+
+
+
+
+                                                - 334 -
+<PARSED TEXT FOR PAGE: 343 / 686>
+and gradually lift their own glasses as well.
+
+By the time the last group squeezes into the ballroom,
+
+the music is usually nearing its end.
+
+Ethan Carter first witnessed the true danger of bull market psychology
+
+through a group of artificial intelligence infrastructure companies.
+
+That year,
+
+market enthusiasm for AI infrastructure
+
+had reached almost irrational levels.
+
+Data centers.
+
+High-performance chips.
+
+Cloud computing platforms.
+
+Power equipment.
+
+Liquid cooling systems.
+
+Optical modules.
+
+Industrial software.
+
+As long as a company had even the slightest connection to AI,
+
+the market was willing to assign it a higher valuation.
+
+Every day,
+
+clients called the research department asking:
+
+        "Is it still worth buying AI stocks?"
+
+        "Which company could become the next ten-bagger?"
+
+        "Are there any undervalued AI infrastructure companies in Europe?"
+
+        "Now that we've missed the U.S. AI leaders, are there any good
+        alternatives?"
+
+It was an environment
+
+that made excitement almost unavoidable.
+
+It also made investors forget one simple truth:
+
+
+                                                 - 335 -
+<PARSED TEXT FOR PAGE: 344 / 686>
+The hotter the investment theme becomes, the more likely the future has already been priced in.
+
+At that time,
+
+Ethan was following a European AI data center equipment company
+
+that I will call Orion DataGrid.
+
+The company manufactured power management systems,
+
+server cooling equipment,
+
+and intelligent energy management modules for data centers.
+
+It was not one of the leading AI chip companies,
+
+but demand for new data centers had caused its order book to expand rapidly.
+
+Its stock price rose just as quickly.
+
+From €46 to €70.
+
+From €70 to €96.
+
+From €96 to €128.
+
+Eventually,
+
+it approached €150.
+
+Every pullback
+
+was quickly bought.
+
+Every piece of positive news
+
+was amplified by the market.
+
+Whenever management mentioned
+
+"AI infrastructure demand,"
+
+the stock gained another wave of bullish imagination.
+
+At first,
+
+Ethan was just as excited.
+
+He was not chasing the stock blindly.
+
+At the very least,
+
+
+
+
+                                             - 336 -
+<PARSED TEXT FOR PAGE: 345 / 686>
+he had already learned how to analyze trends,
+
+Trading Volume,
+
+Support,
+
+Resistance,
+
+and pattern confirmation.
+
+But bull market psychology possesses a unique power:
+
+It convinces you
+
+that perhaps the risk management rules you learned before
+
+can be relaxed—
+
+just a little.
+
+
+
+I. The First Glass of Champagne: Everyone Is Making Money
+
+When Orion DataGrid first approached €150,
+
+the atmosphere inside the research department was electric.
+
+That morning,
+
+the company released an order update
+
+that exceeded market expectations.
+
+The new contracts came from several major cloud service providers
+
+for new data center expansion projects across Northern and Central Europe.
+
+The announcement never explicitly stated
+
+that all of the orders were driven by AI demand.
+
+But the market no longer cared about such details.
+
+If it involved data centers,
+
+it was considered AI.
+
+If it was related to AI,
+
+it was considered growth.
+
+
+
+
+                                             - 337 -
+<PARSED TEXT FOR PAGE: 346 / 686>
+And if it represented growth,
+
+it deserved a higher valuation.
+
+The stock opened
+
+8% higher.
+
+Looking at his screen,
+
+Ethan said,
+
+"This trend is incredibly strong."
+
+I asked,
+
+"What makes it strong?"
+
+He replied,
+
+"The 20-day Moving Average is above the 50-day Moving Average.
+
+Price keeps making new highs.
+
+Every pullback has remained above the 20-day Moving Average.
+
+Trading Volume expands during breakouts.
+
+And the sector ETF is strengthening as well."
+
+It was a solid answer.
+
+At that moment,
+
+Orion DataGrid was unquestionably in a strong uptrend.
+
+I did not disagree.
+
+Instead,
+
+I asked a second question.
+
+"Who still dislikes this stock?"
+
+Ethan paused.
+
+That is one of the most important questions
+
+during the later stages of a bull market.
+
+When a stock first begins rising from its lows,
+
+
+
+
+                                                - 338 -
+<PARSED TEXT FOR PAGE: 347 / 686>
+opinions are divided.
+
+Some investors are bullish.
+
+Some remain skeptical.
+
+Some are waiting.
+
+Some are short-selling.
+
+But after a stock has risen for a long time,
+
+the news continues improving,
+
+analysts repeatedly raise their target prices,
+
+social media discusses it constantly,
+
+and clients keep asking about it,
+
+those differences of opinion gradually disappear.
+
+And disappearing disagreement
+
+is not always a good thing.
+
+Because prices require new buyers to continue rising.
+
+If nearly everyone who wanted to buy
+
+has already bought,
+
+future gains require even greater optimism,
+
+even higher valuations,
+
+and even more investors willing to chase higher prices.
+
+At that point,
+
+risk does not disappear simply because everyone is bullish.
+
+Quite the opposite.
+
+Risk may actually be increasing
+
+because everyone is bullish.
+
+
+
+
+                                                 - 339 -
+<PARSED TEXT FOR PAGE: 348 / 686>
+Figure Description:
+
+This figure illustrates how bull market optimism gradually causes investors to ignore risk. As
+prices continue rising, market sentiment progresses from skepticism to optimism, excitement, and
+eventually euphoria, while investors' perception of risk steadily declines.
+
+
+After first reaching €150,
+
+Orion DataGrid did not continue climbing in a straight line.
+
+Instead,
+
+it traded between €145 and €152
+
+for the next two weeks.
+
+Ethan said,
+
+"It may simply be digesting the recent gains."
+
+"Perhaps," I replied.
+
+
+
+                                             - 340 -
+<PARSED TEXT FOR PAGE: 349 / 686>
+"Or perhaps,
+
+it's forming the first peak."
+
+He glanced at me.
+
+At that moment,
+
+I knew he felt slightly uncomfortable.
+
+In a bull market,
+
+those who warn about risk
+
+are rarely the most popular people in the room.
+
+II. The Second Rally: A Better Story, but Weaker Participation
+
+One month later,
+
+Orion DataGrid once again advanced toward €150.
+
+This time,
+
+the rally was driven not by a new order announcement,
+
+but by a series of target price upgrades from major investment banks.
+
+One investment bank raised its price target
+
+from €155 to €182,
+
+arguing that the capital expenditure cycle for data centers
+
+could continue for another three to five years,
+
+and that Orion DataGrid possessed a significant supply chain advantage
+
+in power management and cooling equipment.
+
+The market became excited once again.
+
+The stock rebounded
+
+from €132 to €140.
+
+Then to €146.
+
+Eventually,
+
+it once again approached €150.
+
+
+
+
+                                              - 341 -
+<PARSED TEXT FOR PAGE: 350 / 686>
+Ethan enlarged the chart.
+
+"This looks like a second attempt at the highs."
+
+"What do you see?"
+
+"Price is approaching the previous high,
+
+but Trading Volume is lower than it was during the first rally."
+
+"Is that important?"
+
+"Yes.
+
+It tells us that although price has recovered,
+
+buying participation isn't as strong as it was the first time."
+
+I nodded.
+
+He was becoming increasingly sensitive
+
+to the relationship between price and volume.
+
+During the second advance,
+
+the news was even more optimistic than before,
+
+yet Trading Volume was noticeably weaker.
+
+That is one of the classic warning signs
+
+seen during the later stages of a bull market.
+
+The story becomes better.
+
+The price becomes higher.
+
+Yet fresh buying demand
+
+is no longer as strong as it once was.
+
+That does not necessarily mean
+
+the stock will decline immediately.
+
+But it does suggest
+
+that the momentum behind the advance
+
+is beginning to crack.
+
+
+
+
+                                                 - 342 -
+<PARSED TEXT FOR PAGE: 351 / 686>
+During that trading session,
+
+Orion DataGrid briefly reached €153,
+
+slightly exceeding the first peak.
+
+However,
+
+it closed the day at only €148,
+
+leaving a long upper shadow on the daily chart.
+
+Ethan said,
+
+"The breakout failed."
+
+"More precisely,
+
+the market rejected the second attempt at new highs."
+
+"So this is a risk warning—
+
+not a confirmed sell signal."
+
+"Exactly."
+
+By now,
+
+he understood
+
+that a topping pattern cannot be identified from a single signal.
+
+A Double Top requires a Neckline.
+
+A Triple Top also requires a Neckline.
+
+The failure of the second rally
+
+is merely a warning.
+
+True confirmation
+
+must still come from a breakdown in the market structure.
+
+
+
+
+                                               - 343 -
+<PARSED TEXT FOR PAGE: 352 / 686>
+Figure Description:
+
+This figure illustrates the second rally before the formation of a Triple Top. Price returns to—or
+briefly exceeds—the previous high, but Trading Volume is lower than during the first peak. Price
+then closes back below the highs, indicating that fresh buying participation is weakening.
+
+
+
+III. The Third Peak: The Most Dangerous Optimism
+
+After retreating from the second rally,
+
+the market showed no signs of panic.
+
+On the contrary,
+
+many investors viewed the pullback
+
+as another buying opportunity.
+
+Financial headlines remained overwhelmingly optimistic.
+
+        "AI Infrastructure Demand Remains Strong."
+
+
+                                             - 344 -
+<PARSED TEXT FOR PAGE: 353 / 686>
+        "European Data Center Equipment Makers Still in the Early Growth
+        Cycle."
+
+        "Analysts See More Upside in Power and Cooling Systems."
+
+Clients continued asking:
+
+        "Should we add to our positions during this pullback?"
+
+        "Is the AI investment theme still intact?"
+
+        "Should companies like this be held for the long term?"
+
+There was nothing inherently wrong with those questions.
+
+But they revealed an important shift in market psychology:
+
+The market had begun treating higher prices as the default outcome.
+
+Two weeks later,
+
+Orion DataGrid launched its third advance
+
+toward the €150 area.
+
+This time,
+
+Ethan approached the chart with great care.
+
+Instead of focusing on the headlines,
+
+he marked all three peaks.
+
+First peak: approximately €150.
+
+Second peak: approximately €153, but closing lower.
+
+Third peak: now approaching €150 once again.
+
+The two intervening pullbacks
+
+had both found support near €132.
+
+That meant
+
+the potential Neckline of a Triple Top
+
+was becoming increasingly clear.
+
+"If the third rally fails near €150,
+
+
+
+
+                                              - 345 -
+<PARSED TEXT FOR PAGE: 354 / 686>
+and price then breaks below €132,
+
+the Triple Top will be confirmed."
+
+"Very good."
+
+During the third rally,
+
+Trading Volume became even weaker.
+
+That detail was critical.
+
+Price still appeared strong.
+
+The news remained optimistic.
+
+But Trading Volume revealed
+
+that buyers were no longer participating
+
+with the same conviction
+
+they had shown during the first two advances.
+
+More importantly,
+
+the candlesticks near the third peak
+
+began developing pronounced upper shadows.
+
+Selling pressure repeatedly emerged
+
+throughout the advance.
+
+Ethan said,
+
+"It feels like the buyers are becoming exhausted."
+
+"Exactly.
+
+Three failed attempts at the same price level
+
+tell us
+
+that supply above the market is extremely strong."
+
+On the day of the third rally,
+
+Orion DataGrid
+
+reached an intraday high of €149.80.
+
+
+
+
+                                                - 346 -
+<PARSED TEXT FOR PAGE: 355 / 686>
+It failed to produce
+
+a meaningful breakout
+
+above either of the previous highs.
+
+The stock closed at €144.60.
+
+Trading Volume was lower
+
+than at both the first
+
+and second peaks.
+
+By then,
+
+the outline of a Triple Top
+
+had become unmistakably clear.
+
+Even so,
+
+I reminded Ethan:
+
+"It is still not confirmed."
+
+He immediately replied,
+
+"Because the Neckline hasn't been broken."
+
+"Exactly.
+
+The greatest mistake when identifying topping patterns
+
+is declaring them guilty before the market has delivered its verdict."
+
+
+
+
+                                              - 347 -
+<PARSED TEXT FOR PAGE: 356 / 686>
+Figure Description:
+
+This figure illustrates the basic structure of a Triple Top pattern. Three similar peaks develop near
+the same resistance area, two intervening pullbacks establish the Neckline, and Trading Volume
+becomes progressively lighter with each successive rally.
+
+
+IV. The Skeptic in a Bull Market
+
+During the formation of a Triple Top,
+
+the hardest part is not reading the chart.
+
+The hardest part
+
+is maintaining a healthy sense of skepticism
+
+while everyone else is celebrating.
+
+Because every voice around you
+
+will tell you:
+
+
+
+                                               - 348 -
+<PARSED TEXT FOR PAGE: 357 / 686>
+        "It's only a pullback."
+
+        "The trend is still intact."
+
+        "The long-term story hasn't changed."
+
+        "AI demand remains strong."
+
+        "Analysts are still raising their target prices."
+
+        "Don't let short-term volatility scare you out."
+
+None of those statements
+
+are necessarily wrong.
+
+But they can easily cause investors
+
+to ignore the Market Structure.
+
+During the morning meeting,
+
+when Ethan raised the technical risks,
+
+one portfolio manager challenged him.
+
+"Aren't you relying too much on technical analysis?
+
+Orion's order growth is still strong.
+
+The industry remains healthy.
+
+Why worry just because the stock has formed several peaks?"
+
+Ethan did not answer immediately.
+
+I looked at him.
+
+This was a question
+
+he had to answer for himself.
+
+He took a deep breath before speaking.
+
+"I'm not saying the company has suddenly become weaker.
+
+Nor am I saying the AI investment theme is over.
+
+I'm simply pointing out
+
+that the market has rejected prices near €150 three separate times,
+
+
+
+                                              - 349 -
+<PARSED TEXT FOR PAGE: 358 / 686>
+while Trading Volume has weakened with each rally.
+
+If price eventually breaks below the €132 Neckline,
+
+it tells us
+
+that the market's valuation structure has changed.
+
+The company's fundamentals
+
+can still be analyzed separately,
+
+but the position risk
+
+must be managed."
+
+It was an excellent answer.
+
+He was no longer treating technical analysis
+
+and fundamental analysis
+
+as opposing ideas.
+
+Instead,
+
+he understood the difference.
+
+Fundamental analysis
+
+tells the story of the company.
+
+Market Structure
+
+tells you whether the market
+
+is still willing to pay a higher price
+
+for that story.
+
+In a bull market,
+
+the most expensive mistake
+
+is believing that
+
+"The story isn't over"
+
+automatically means
+
+"The stock cannot fall."
+
+
+
+
+                                               - 350 -
+<PARSED TEXT FOR PAGE: 359 / 686>
+Figure Description:
+
+This figure highlights the danger of the third rally. Price approaches the resistance zone for the
+third time, Trading Volume is the weakest of all three rallies, and long upper shadows appear on
+the candlesticks, indicating that buying momentum is becoming increasingly exhausted.
+
+
+
+V. The Neckline Breakdown: The Moment the Music Stops
+
+The true turning point
+
+arrived two weeks later.
+
+Orion DataGrid
+
+released its quarterly business update.
+
+The report was far from disappointing.
+
+Revenue growth remained strong.
+
+Orders continued increasing.
+
+
+                                              - 351 -
+<PARSED TEXT FOR PAGE: 360 / 686>
+Management did not lower its guidance.
+
+Yet the market was dissatisfied.
+
+Why?
+
+Because the results
+
+failed to exceed
+
+the market's most optimistic expectations.
+
+That is the harsh reality
+
+of highly valued growth stocks
+
+during the later stages of a bull market.
+
+When price has already discounted
+
+a perfect future,
+
+ordinary good news
+
+is no longer good enough.
+
+The stock opened
+
+4% lower.
+
+By 10:00 a.m.,
+
+it had fallen to €136.
+
+By 11:30 a.m.,
+
+it had declined to €133.
+
+During the afternoon,
+
+price broke decisively below
+
+the €132 Neckline.
+
+By the close,
+
+the stock finished at €127.
+
+Trading Volume
+
+expanded significantly.
+
+
+
+
+                                             - 352 -
+<PARSED TEXT FOR PAGE: 361 / 686>
+The Triple Top
+
+was officially confirmed.
+
+The meeting room became unusually quiet.
+
+Only a few weeks earlier, everyone had been discussing higher target prices.
+
+Now, they were discussing whether to reduce their exposure to AI infrastructure stocks.
+
+Looking at the chart,
+
+Ethan said,
+
+"The Neckline has broken.Trading Volume expanded.
+
+And price failed to recover before the close."
+
+"So what's the conclusion?"
+
+"The Triple Top has been confirmed.
+
+At the very least, swing positions should either be closed or reduced substantially."
+
+"And what about long-term positions?"
+
+"They also need to be re-evaluated.
+
+Even if the long-term investment thesis has not been completely broken, the Market Structure is
+already warning us about medium-term risk."
+
+It was a mature answer.
+
+Being bullish over the long term does not mean
+
+ignoring a confirmed technical breakdown.
+
+Holding a stock for the long term
+
+does not mean
+
+never managing risk.
+
+And the fact that an investment theme
+
+is still alive
+
+does not mean
+
+an individual stock
+
+cannot experience a major correction.
+
+
+
+                                                 - 353 -
+<PARSED TEXT FOR PAGE: 362 / 686>
+Figure Description:
+
+This figure illustrates the confirmation of a Triple Top. After failing three times at the resistance
+zone, price breaks below the Neckline on expanding Trading Volume, confirming the completion
+of the topping pattern.
+
+
+
+VI. The Failed Retest: Old Beliefs Become New Resistance
+
+After breaking below the Neckline,
+
+Orion DataGrid
+
+did not collapse in a straight line.
+
+The market gave the bulls
+
+one final opportunity.
+
+A few days later,
+
+price rebounded
+
+
+                                               - 354 -
+<PARSED TEXT FOR PAGE: 363 / 686>
+from €124 to €131.
+
+Many investors immediately said,
+
+"It's about to reclaim the Neckline."
+
+"This is just an overreaction to the earnings report."
+
+"The AI theme will come back."
+
+Ethan continued observing,
+
+but he did not rush to buy the stock again.
+
+Instead,
+
+he focused on Trading Volume.
+
+During the rebound,
+
+volume contracted noticeably.
+
+As price approached
+
+the €132 Neckline,
+
+selling pressure quickly returned.
+
+The stock reached an intraday high
+
+of €131.60,
+
+but failed to reclaim
+
+the Neckline.
+
+Soon afterward,
+
+it resumed its decline.
+
+Former Support
+
+had become new Resistance.
+
+This was the second confirmation
+
+of the topping pattern.
+
+The first confirmation
+
+was the Neckline Breakdown.
+
+
+
+
+                                               - 355 -
+<PARSED TEXT FOR PAGE: 364 / 686>
+The second
+
+was the failed Retest.
+
+If price had quickly recovered
+
+above the Neckline,
+
+the pattern might have failed.
+
+But once the rebound
+
+proved too weak
+
+to reclaim the Neckline,
+
+it showed that the market
+
+had completely redefined
+
+the former support area
+
+as a selling zone.
+
+
+
+
+                                 - 356 -
+<PARSED TEXT FOR PAGE: 365 / 686>
+Figure Description:
+
+This figure illustrates the failed Retest following a confirmed Triple Top. After breaking below
+the Neckline, price rallies back toward that level on lighter Trading Volume, fails to reclaim it,
+and the former Support becomes new Resistance.
+
+
+Ethan looked at the chart
+
+after the failed Retest and said,
+
+"This isn't a buying opportunity.
+
+It's confirmation that selling pressure remains in control."
+
+"Exactly."
+
+"The hardest part of a bull market
+
+is accepting
+
+that even the strongest market leaders
+
+can begin to weaken."
+
+"That's an excellent observation," I said.
+
+"Write it down."
+
+And he did.
+
+Professor's Whiteboard Session
+
+Triple Top Pattern
+
+That evening,
+
+the topic of Ethan's whiteboard lesson was:
+
+The Triple Top Pattern.
+
+A Triple Top is less common than a Double Top,
+
+but once confirmed,
+
+it generally carries a stronger bearish implication.
+
+Its defining characteristic
+
+is not simply that three peaks appear at roughly the same level.
+
+Its true significance lies here:
+
+
+                                               - 357 -
+<PARSED TEXT FOR PAGE: 366 / 686>
+Price attempts to break through the same resistance zone three separate times,
+
+yet each attempt is rejected by the market.
+
+This tells us
+
+that supply above the market remains exceptionally strong,
+
+while buying momentum is gradually being exhausted.
+
+
+
+I. How a Triple Top Forms
+
+A typical Triple Top
+
+usually develops through six stages.
+
+Stage One: The Existing Uptrend
+
+A Triple Top
+
+almost always appears
+
+after a prolonged advance.
+
+Without a meaningful prior uptrend,
+
+it should not be considered
+
+a major topping pattern.
+
+Stage Two: The First Peak
+
+Price rallies
+
+to a new high.
+
+Trading Volume
+
+is usually relatively heavy,
+
+and market sentiment remains highly optimistic.
+
+At this stage,
+
+it is far too early
+
+to conclude that a top has formed.
+
+The first peak
+
+
+
+
+                                              - 358 -
+<PARSED TEXT FOR PAGE: 367 / 686>
+simply marks the beginning of the observation process.
+
+Stage Three: The Pullback Forms the Neckline
+
+Price retreats
+
+from the first peak
+
+and eventually finds Support.
+
+That low
+
+becomes the potential Neckline.
+
+Stage Four: The Second Peak
+
+Price once again challenges
+
+the previous high,
+
+but fails to produce
+
+a convincing breakout.
+
+If Trading Volume
+
+is lighter
+
+than during the first peak,
+
+it suggests
+
+that buying momentum
+
+is already beginning to weaken.
+
+Stage Five: The Third Peak
+
+Price makes
+
+a third attempt
+
+to break through
+
+the same resistance zone.
+
+If Trading Volume
+
+declines even further,
+
+or if long upper shadows appear,
+
+
+
+
+                                            - 359 -
+<PARSED TEXT FOR PAGE: 368 / 686>
+or if price rallies intraday before reversing lower,
+
+these are all signs
+
+that demand
+
+may be becoming severely exhausted.
+
+Stage Six: Neckline Breakdown Confirmation
+
+Price declines
+
+from the third peak
+
+and breaks below
+
+the Neckline.
+
+Only then
+
+is the Triple Top
+
+officially confirmed.
+
+Until the Neckline breaks,
+
+it remains
+
+nothing more
+
+than a potential Triple Top.
+
+
+
+II. What Is the Difference Between a Triple Top and a Double Top?
+
+A Double Top
+
+consists of
+
+two failed attempts
+
+to break higher.
+
+A Triple Top
+
+consists of
+
+three failed attempts.
+
+A Triple Top
+
+
+
+
+                                                - 360 -
+<PARSED TEXT FOR PAGE: 369 / 686>
+usually requires more time to develop,
+
+allowing greater disagreement among market participants
+
+and more extensive distribution of shares
+
+within the topping area.
+
+If price ultimately breaks below
+
+the Neckline,
+
+it demonstrates
+
+that buyers have failed
+
+after three separate attempts
+
+to overcome resistance,
+
+and that sellers
+
+have finally gained control.
+
+For that reason,
+
+the downside risk
+
+following a confirmed Triple Top
+
+is often substantial.
+
+Ironically,
+
+because the pattern takes longer to form,
+
+it also has a greater tendency
+
+to lull investors into complacency.
+
+They tell themselves:
+
+        "The previous two pullbacks were both buying opportunities. This one
+        will be too."
+
+        "This support level has held many times before. It won't break easily."
+
+        "The trend has been strong for so long. It should continue."
+
+That kind of psychological inertia
+
+is precisely what makes
+
+
+                                            - 361 -
+<PARSED TEXT FOR PAGE: 370 / 686>
+a confirmed Triple Top
+
+so dangerous.
+
+
+
+III. How Should Trading Volume Be Interpreted?
+
+Within a Triple Top,
+
+Trading Volume
+
+typically follows several important characteristics.
+
+       The first peak forms on relatively heavy Trading Volume, reflecting strong buying
+        enthusiasm.
+       The second peak forms on lighter Trading Volume, indicating weakening demand.
+       The third peak forms on even lighter Trading Volume, suggesting increasing buyer
+        exhaustion.
+       The Neckline Breakdown occurs on expanding Trading Volume, reflecting concentrated
+        selling pressure.
+       The Retest of the Neckline develops on declining Trading Volume, showing that buyers
+        have failed to regain control.
+
+These are not absolute rules,
+
+but they occur frequently.
+
+Progressively lighter Trading Volume
+
+during all three rallies
+
+shows that although price repeatedly returns
+
+to the same highs,
+
+market participation
+
+is steadily declining.
+
+When that occurs,
+
+a subsequent Neckline Breakdown
+
+deserves particularly close attention.
+
+
+
+
+                                               - 362 -
+<PARSED TEXT FOR PAGE: 371 / 686>
+Figure Description:
+
+This figure illustrates the typical Trading Volume characteristics of a Triple Top. The first peak
+forms on the highest volume, the second peak on lighter volume, the third peak on the lightest
+volume, and the Neckline Breakdown occurs on expanding Trading Volume.
+
+
+IV. Confirmation Conditions for a Triple Top
+
+I asked Ethan
+
+to memorize five confirmation conditions.
+
+First, there must be a clear prior uptrend.
+
+Second, the three peaks should form within approximately the same resistance zone. They do not
+have to be exactly equal.
+
+Third, Trading Volume should ideally decline with each successive rally.
+
+Fourth, the pattern is not confirmed until price breaks below the Neckline.
+
+
+
+
+                                              - 363 -
+<PARSED TEXT FOR PAGE: 372 / 686>
+Fifth, a failed Retest after the breakdown provides additional confirmation of weakness.
+
+Among these,
+
+the fourth point
+
+is the most important.
+
+Without a Neckline Breakdown, there is no confirmation.
+
+Many traders see three peaks
+
+and immediately begin short-selling.
+
+That is also a mistake.
+
+If price fails on the third rally
+
+but does not break below the Neckline,
+
+instead continuing to consolidate sideways,
+
+or even breaking upward,
+
+then the so-called Triple Top
+
+has failed.
+
+A topping pattern
+
+must always wait
+
+for the market's confirmation.
+
+
+
+V. The Measured Move of a Triple Top
+
+The theoretical downside target
+
+of a Triple Top
+
+is usually estimated
+
+by measuring the height
+
+from the resistance zone
+
+down to the Neckline,
+
+and projecting that same distance downward
+
+
+
+
+                                              - 364 -
+<PARSED TEXT FOR PAGE: 373 / 686>
+from the Neckline.
+
+For example:
+
+Resistance is located near 150.
+
+The Neckline is at 132.
+
+The height of the pattern
+
+is approximately 18.
+
+After the Neckline Breakdown,
+
+the theoretical downside target
+
+would be roughly:
+
+132 − 18 = 114
+
+This is not a prediction.
+
+It is simply
+
+a method of measuring potential downside risk.
+
+The actual price movement
+
+will still depend on
+
+the broader market environment,
+
+changes in fundamentals,
+
+institutional risk appetite,
+
+and the direction of the overall market.
+
+Nevertheless,
+
+the Measured Move
+
+serves as an important reminder:
+
+Once a topping pattern has been confirmed,
+
+the potential downside
+
+may be significantly larger
+
+than it first appears.
+
+
+
+
+                                             - 365 -
+<PARSED TEXT FOR PAGE: 374 / 686>
+Figure Description:
+
+This figure illustrates the Measured Move method for a Triple Top. The height from the
+resistance zone to the Neckline is projected downward after the breakdown to estimate the
+theoretical downside target.
+
+
+
+VI. Why Should Triple Tops Be Taken Even More Seriously During a Bull Market?
+
+In a bull market,
+
+Triple Tops
+
+are often overlooked.
+
+Because investors become accustomed
+
+to seeing every pullback
+
+followed by another rally.
+
+After the first failed rally,
+
+
+                                            - 366 -
+<PARSED TEXT FOR PAGE: 375 / 686>
+they say,
+
+"It's just a normal consolidation."
+
+After the second,
+
+they say,
+
+"The market is simply digesting its valuation."
+
+After the third,
+
+they say,
+
+"It's only waiting for the next bullish catalyst."
+
+By the time
+
+the Neckline finally breaks,
+
+many investors
+
+suddenly realize
+
+that the Market Structure
+
+has already changed.
+
+For that reason,
+
+risk management
+
+must never become more relaxed
+
+simply because a bull market
+
+has been profitable.
+
+The stronger the market leader,
+
+the more carefully you should watch
+
+whether it can continue making new highs.
+
+The hotter the investment theme,
+
+the more closely you should monitor
+
+whether Trading Volume
+
+is beginning to fade.
+
+
+
+
+                                                - 367 -
+<PARSED TEXT FOR PAGE: 376 / 686>
+The more unanimous
+
+market optimism becomes,
+
+the more carefully you should ask
+
+whether price
+
+is still being accepted by the market.
+
+A bull market
+
+does not require you
+
+to become pessimistic every day.
+
+But it does require you
+
+to recognize
+
+when the party
+
+is beginning to get overcrowded.
+
+
+
+Case Review
+
+Why Did Orion DataGrid Form a Valid Triple Top?
+
+Now,
+
+let us return
+
+to Orion DataGrid.
+
+Why is this stock
+
+such an excellent teaching example?
+
+Because it possessed
+
+all the characteristics
+
+of a classic late-stage bull market.
+
+A powerful investment theme.
+
+Strong fundamentals.
+
+Positive news.
+
+
+
+
+                                         - 368 -
+<PARSED TEXT FOR PAGE: 377 / 686>
+A strong uptrend.
+
+And overwhelming market consensus.
+
+Yet it is precisely
+
+under those conditions
+
+that topping patterns
+
+are most easily overlooked.
+
+First, after a prolonged advance, the stock reached the €150 area.
+
+Second, the first peak formed on heavy Trading Volume and strong market enthusiasm.
+
+Third, the second rally briefly exceeded the previous high before closing lower, while Trading
+Volume declined.
+
+Fourth, the third rally failed to break above the earlier highs, with Trading Volume weakening
+even further.
+
+Fifth, the two intervening pullbacks established a Neckline near €132.
+
+Sixth, although the quarterly update was not disappointing, the market was no longer satisfied.
+
+Seventh, price broke below the €132 Neckline on expanding Trading Volume.
+
+Eighth, the subsequent Retest failed, turning former Support into new Resistance.
+
+Therefore,
+
+the risk surrounding Orion DataGrid
+
+did not arise
+
+because the company suddenly became weak.
+
+It arose
+
+because market expectations
+
+had become so elevated
+
+that the existing Market Structure
+
+could no longer support
+
+the story investors wanted to believe.
+
+That is one of the defining characteristics
+
+
+
+                                              - 369 -
+<PARSED TEXT FOR PAGE: 378 / 686>
+of the later stages
+
+of a bull market:
+
+The company may still be excellent, but the stock itself has become dangerous.
+
+Chapter Trading Rules
+
+That day,
+
+I asked Ethan
+
+to write down seven trading rules.
+
+First, a Triple Top usually develops after a prolonged uptrend.
+
+Second, the three peaks do not have to be exactly the same height. What matters is that all three
+fail to break through the same resistance zone.
+
+Third, progressively declining Trading Volume across the three rallies is an important sign of
+buyer exhaustion.
+
+Fourth, before the Neckline is broken, the pattern is only a potential Triple Top.
+
+Fifth, a Triple Top is confirmed only after price breaks below the Neckline on expanding Trading
+Volume.
+
+Sixth, if the subsequent Retest fails, it confirms that former Support has become new Resistance.
+
+Seventh, in a bull market, a compelling story can never replace proper risk management.
+
+Then I added one final sentence.
+
+        A bull market does not reduce risk simply because you are making money.
+
+        It only makes risk feel smaller because you are making money.
+
+Ethan carefully copied those words into his notebook.
+
+Then,
+
+beneath them,
+
+he added another sentence.
+
+        Euphoria is not confirmation.
+
+That sentence
+
+became his greatest lesson
+
+
+
+
+                                              - 370 -
+<PARSED TEXT FOR PAGE: 379 / 686>
+from Chapter Sixteen.
+
+
+
+Chapter Summary
+
+In this chapter,
+
+Ethan Carter
+
+learned how to recognize
+
+the Triple Top pattern.
+
+He came to understand that:
+
+A market top
+
+does not necessarily begin
+
+with bad news.
+
+Nor does it necessarily appear
+
+because the company itself
+
+has become weaker.
+
+More often,
+
+a top develops
+
+because price repeatedly fails
+
+to gain market acceptance.
+
+The essence of a Triple Top
+
+is not simply
+
+three mountain-like peaks.
+
+Its essence
+
+is three consecutive failures.
+
+At the first peak,
+
+the market remains enthusiastic.
+
+At the second,
+
+
+
+
+                                   - 371 -
+<PARSED TEXT FOR PAGE: 380 / 686>
+investors begin to hesitate.
+
+At the third,
+
+buying momentum
+
+is visibly exhausted.
+
+Only when price
+
+breaks below the Neckline
+
+is the pattern
+
+truly confirmed.
+
+From this chapter onward,
+
+Ethan no longer focused
+
+only on the upside potential
+
+during a bull market.
+
+Instead,
+
+he began asking himself:
+
+          Can this stock still make new highs?
+          Is Trading Volume becoming weaker with each rally?
+          Where is the Neckline?
+          After a breakdown, can price reclaim it?
+          Has market consensus become excessively one-sided?
+
+A bull market
+
+brings excitement.
+
+But it can also
+
+dull investors' awareness of risk.
+
+A mature investor
+
+must know where the exit is
+
+before the last glass of champagne
+
+has been poured.
+
+
+
+
+                                             - 372 -
+<PARSED TEXT FOR PAGE: 381 / 686>
+In the next chapter,
+
+the market will give Ethan
+
+an entirely different experience.
+
+If a bull market
+
+is like a champagne tower,
+
+then a bear market
+
+is like an elevator.
+
+Markets climb
+
+one step at a time.
+
+But they often fall
+
+like an elevator
+
+with its cables suddenly cut—
+
+so fast
+
+that investors
+
+have almost no time to react.
+
+
+
+
+                                    - 373 -

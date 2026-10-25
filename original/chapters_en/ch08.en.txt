@@ -1,0 +1,841 @@
+Original Market Mist PDF pages 155–173. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 155 / 686>
+Chapter 8
+Candlesticks Are Not Candles—They Are Records of the Battlefield
+
+
+Ethan Carter used to be fascinated by candlestick patterns.
+
+More precisely, he was fascinated by their names.
+
+Before joining the research firm, he had read numerous technical analysis books and taken
+several online courses. He could recite many terms that sounded highly professional:
+
+Hammer Candle.
+
+Engulfing Pattern.
+
+Doji.
+
+Dark Cloud Cover.
+
+Morning Star.
+
+Evening Star.
+
+Long Upper Shadow.
+
+Long Lower Shadow.
+
+He had even compiled a "Candlestick Pattern Cheat Sheet" and printed it out, placing it beside his
+desk.
+
+Yet despite all of that, he continued to make poor trading decisions in real market conditions.
+
+Why?
+
+Because he treated candlesticks as pictures.
+
+Whenever he saw a long lower shadow, he assumed it signaled a market bottom.
+
+Whenever he saw a large bullish candle, he believed the bulls had taken control.
+
+Whenever he saw a Doji, he expected an immediate trend reversal.
+
+Whenever he saw a long upper shadow, he assumed the uptrend had come to an end.
+
+It was like memorizing every word in a language without knowing how to read an entire sentence.
+
+The name of a candlestick is not what matters.
+
+
+
+
+                                               - 147 -
+<PARSED TEXT FOR PAGE: 156 / 686>
+What matters is where it appears, what happened beforehand, how trading volume behaved,
+where the candle closed, and whether the next candlestick confirms the signal.
+
+In other words, a candlestick is not simply a candle.
+
+It is a record of the battle between buyers and sellers over a specific period of time.
+
+
+
+I. A "Beautiful" Long Lower Shadow
+
+One morning, Ethan brought me a chart.
+
+It belonged to a European semiconductor equipment company, which I will refer to as
+SiliconWorks Europe.
+
+Over the previous month, the stock had declined nearly 16% from its recent high. The day before,
+it continued falling during the session, but suddenly rebounded in the afternoon, leaving a long
+lower shadow by the close.
+
+Ethan placed the chart in front of me, his voice filled with anticipation.
+
+"Professor, is this a Hammer Candle?"
+
+I glanced at the chart.
+
+It certainly looked like one.
+
+A small real body.
+
+A long lower shadow.
+
+The close was near the day's high.
+
+It had appeared after a prolonged decline.
+
+Judging by its appearance alone, it could easily be called a Hammer Candle.
+
+But instead of answering his question, I asked one of my own.
+
+"Why are you so concerned about what it's called?"
+
+Ethan paused.
+
+"Because a Hammer Candle usually means there's support below and that a reversal may be
+starting."
+
+"Usually?" I asked.
+
+He hesitated for a moment.
+
+
+
+
+                                               - 148 -
+<PARSED TEXT FOR PAGE: 157 / 686>
+"At the end of a downtrend, it may indicate a reversal."
+
+"Then how do you know this is the end of the downtrend?"
+
+He fell silent.
+
+That was exactly the problem.
+
+Many investors see a candlestick that appears to signal a reversal and rush to give it a name.
+
+But whether a candlestick is meaningful is determined not by its name, but by the market
+structure in which it appears.
+
+I expanded the chart of SiliconWorks Europe.
+
+Although the stock had been declining for an entire month, it had not yet reached a major long-
+term support level. There was still an unfilled price gap overhead, while the nearest high-volume
+trading area was located even lower. More importantly, although the session produced a long
+lower shadow, trading volume did not expand significantly.
+
+What did that tell us?
+
+It suggested that buying interest had indeed appeared near the lows, but the strength of that
+buying was not necessarily sufficient.
+
+I turned to Ethan.
+
+"What did this candlestick actually tell you?"
+
+He answered,
+
+"During the session, the bears pushed the price lower, but the bulls managed to pull it back before
+the close."
+
+"Very good," I said. "That's a description of market behavior. Now tell me—what did it not tell
+you?"
+
+He thought for a moment.
+
+"It didn't tell me that the trend had already reversed."
+
+"Exactly."
+
+A long lower shadow tells us only that buyers stepped in near the day's low.
+
+By itself, it cannot prove that the trend has reversed.
+
+It could simply reflect short-term bargain hunting.
+
+It could be caused by short covering.
+
+
+
+
+                                                 - 149 -
+<PARSED TEXT FOR PAGE: 158 / 686>
+It could represent temporary buying support at a technical level.
+
+Or it could be nothing more than a brief pause within an ongoing decline.
+
+If price continues higher the following day, breaks above the previous day's high, and is
+supported by stronger trading volume, then the significance of that long lower shadow increases.
+
+If, instead, the next day opens weak, sells off, and breaks below the low of the long lower shadow,
+then the candlestick was nothing more than a failed rebound.
+
+
+
+
+Figure Description:
+
+This figure illustrates why a long lower shadow, or Hammer Candle, should not be treated as a
+standalone buy signal. It shows two possible outcomes following a Hammer Candle: one in which
+price moves higher and confirms the signal, and another in which price breaks below the
+Hammer's low, causing the pattern to fail.
+
+
+
+Ethan stared at the chart and said quietly,
+
+"So I can't buy it simply because it looks like a Hammer Candle."
+
+
+
+                                              - 150 -
+<PARSED TEXT FOR PAGE: 159 / 686>
+"You can begin watching it because it has appeared," I replied, "but you cannot place a trade
+simply because it resembles a pattern with a familiar name."
+
+
+
+II. The Professor Erased Every Candlestick Name
+
+That afternoon, SiliconWorks Europe staged a brief rally.
+
+Ethan grew increasingly restless.
+
+He kept switching between different chart timeframes, trying to determine whether the long lower
+shadow was beginning to work.
+
+I called him over to the whiteboard.
+
+"Write down every candlestick pattern you know."
+
+He looked surprised, but he did as I asked.
+
+Hammer. / Doji. / Engulfing. / Shooting Star. / Morning Star. / Evening Star. / Marubozu. /
+Spinning Top.
+
+When he finished writing, he looked at me.
+
+I picked up the whiteboard eraser and wiped away every single pattern name.
+
+Ethan froze.
+
+Then I wrote four new words on the board.
+
+Open / High / Low / Close / Opening Price. / High Price. / Low Price. / Closing Price.
+
+"Before you memorize the name of any candlestick," I said, "you must first understand what these
+four prices are telling you."
+
+The essence of a candlestick is actually very simple.
+
+The opening price represents the price the market was willing to accept at the beginning of the
+trading period.
+
+The high price represents the highest level the buyers were able to push the price to.
+
+The low price represents the lowest level the sellers managed to drive the price down to.
+
+The closing price represents the price the market ultimately accepted at the end of that period.
+
+The size of the real body reflects which side held the advantage at the close.
+
+The length of the shadows shows that one side launched an attack but was pushed back by the
+other.
+
+
+
+                                              - 151 -
+<PARSED TEXT FOR PAGE: 160 / 686>
+The location of the close reveals who temporarily won the battle by the end of the session.
+
+Therefore, a candlestick is not merely a shape.
+
+It is the record of a battle.
+
+
+
+
+Figure Description:
+
+This figure explains the four core components of a candlestick—Open, High, Low, and Close—
+and illustrates how the real body and shadows represent the battle between buyers and sellers.
+
+
+
+Ethan looked at the whiteboard.
+
+"So instead of asking what this candlestick is called, we should first ask what happened inside it."
+
+"Exactly."
+
+I drew a candlestick with a long upper shadow.
+
+"What does this candlestick tell you?"
+
+
+
+
+                                              - 152 -
+<PARSED TEXT FOR PAGE: 161 / 686>
+"It tells us that price moved higher during the session, but strong selling pressure pushed it back
+before the close."
+
+I then drew a candlestick with a long lower shadow.
+
+"What about this one?"
+
+"It tells us that price fell during the session, but buyers stepped in and pulled it back before the
+close."
+
+Next, I drew a large bullish candlestick.
+
+"And this one?"
+
+"The buyers controlled the session from the open to the close and pushed prices higher."
+
+Finally, I drew a large bearish candlestick.
+
+"And this one?"
+
+"The sellers remained in control throughout the session and continuously pressured the price
+lower."
+
+"Very good," I said.
+
+"Now you're reading candlesticks instead of memorizing them."
+
+
+
+III. The Same Candlestick Can Mean Completely Different Things in Different Locations
+
+The following day, SiliconWorks Europe failed to continue its advance.
+
+The stock opened slightly higher but quickly pulled back. By the afternoon, it had fallen below
+the body of the previous day's long lower shadow and closed only slightly above the previous
+day's low.
+
+Ethan frowned.
+
+"So... did that Hammer Candle fail?"
+
+"Not completely," I replied.
+
+"But it never received confirmation."
+
+"So the location still wasn't good enough?"
+
+"The location wasn't good enough, the trading volume wasn't convincing enough, and there was
+no meaningful follow-through."
+
+I drew the exact same long lower shadow in three different locations.
+
+
+
+                                                - 153 -
+<PARSED TEXT FOR PAGE: 162 / 686>
+The first scenario: After a prolonged downtrend, price reaches a major support zone, trading
+volume expands, and the next day confirms the reversal with a higher close.
+
+The second scenario: Midway through an existing downtrend, price has not yet reached any
+significant support, and after the long lower shadow, the decline simply continues.
+
+The third scenario: During a high-level trading range, the long lower shadow reflects nothing
+more than normal intraday volatility rather than a meaningful trading opportunity.
+
+The very same long lower shadow carries completely different meanings.
+
+Near a market bottom, it may indicate that panic selling has been absorbed.
+
+In the middle of a downtrend, it may represent nothing more than a short-term rebound.
+
+At high price levels, it may simply reflect increased volatility.
+
+A candlestick must always be interpreted within the context of Market Structure.
+
+
+
+
+Figure Description:
+
+
+
+
+                                               - 154 -
+<PARSED TEXT FOR PAGE: 163 / 686>
+This figure demonstrates how the same long lower shadow can carry entirely different meanings
+depending on where it appears in the market. A three-panel layout compares its significance at
+major support, the middle of a downtrend, and a high-level trading range.
+
+
+
+Ethan let out a sigh.
+
+"This is much harder than memorizing candlestick patterns."
+
+"Of course," I replied.
+
+"Memorizing names requires only memory. Understanding market behavior requires judgment."
+
+Many tools in investing appear simple on the surface.
+
+Using them correctly is another matter entirely.
+
+Candlesticks are one of those tools.
+
+IV. A Debate Triggered by a Long Upper Shadow
+
+One week later, the research department gathered to discuss another stock.
+
+It belonged to a luxury retail company, which I will refer to as Lumière Maison.
+
+Lumière Maison had been climbing steadily and had recently reached a new intermediate high.
+That morning, strong sales data drove the stock to gap higher, and the rally continued after the
+open. At one point, it was up more than 6%.
+
+But by the afternoon, the situation changed.
+
+The stock retreated sharply from its intraday high and closed with a gain of only 1%, leaving a
+long upper shadow on the daily chart. Trading volume expanded significantly.
+
+A disagreement quickly emerged in the meeting room.
+
+One research analyst believed it was nothing more than normal profit-taking and argued that the
+company's fundamentals remained strong.
+
+A trader disagreed.
+
+He believed the candlestick reflected increasing selling pressure near the highs and warned that
+caution was warranted.
+
+Ethan studied the chart without rushing to offer an opinion.
+
+I turned to him.
+
+"What do you think?"
+
+
+
+
+                                               - 155 -
+<PARSED TEXT FOR PAGE: 164 / 686>
+This time, he didn't say,
+
+"It's a Shooting Star."
+
+Nor did he say,
+
+"It's a top."
+
+Instead, he answered,
+
+"This candlestick tells us that buyers managed to push the price much higher during the session,
+but by the close, sellers had erased most of those gains. Combined with the surge in trading
+volume, it suggests there was significant disagreement at higher prices. It doesn't necessarily
+mean the stock has topped, but it does tell us that blindly chasing the rally here would be unwise."
+
+I nodded.
+
+"Go one step further."
+
+He continued,
+
+"If the stock fails to break above the high of this long upper shadow over the next several
+sessions—or even falls below today's low—it would suggest that selling pressure is gaining the
+upper hand."
+
+"But if price pulls back on lighter volume and later reclaims today's high, then this long upper
+shadow may simply represent a temporary transfer of shares rather than the beginning of a
+reversal."
+
+This time, his answer was excellent.
+
+He didn't treat the candlestick's name as the conclusion.
+
+Instead, he described the market behavior, identified the conditions that mattered, and
+acknowledged the uncertainty.
+
+
+
+
+                                              - 156 -
+<PARSED TEXT FOR PAGE: 165 / 686>
+Figure Description:
+
+This figure illustrates the risk implications of a long upper shadow at a high price level. The chart
+shows price rallying in an uptrend before reversing sharply from the high on increased trading
+volume. Key labels include Selling Pressure and High-Level Rejection.
+
+
+
+Professor's Whiteboard Session
+
+Candlestick Behavior
+
+That evening, the topic of my whiteboard lesson for Ethan was:
+
+Candlestick Behavior Analysis.
+
+I did not ask him to memorize a single pattern name.
+
+Instead, I asked him to remember one sentence:
+
+        A candlestick is not a symbol that predicts the future. It is evidence of how
+        buyers and sellers fought during a specific period of time.
+
+
+
+
+                                               - 157 -
+<PARSED TEXT FOR PAGE: 166 / 686>
+I. The Four Prices of a Candlestick
+
+Every candlestick is built from four prices:
+
+Open — the opening price.
+
+High — the highest price.
+
+Low — the lowest price.
+
+Close — the closing price.
+
+Together, these four prices form a complete record of the battle during a given period.
+
+The opening price tells us where the battle began.
+
+The high tells us how far buyers were able to advance.
+
+The low tells us how far sellers managed to drive the market down.
+
+The close tells us where the market ultimately accepted price by the end of the session.
+
+If the close is near the high, buyers held the advantage at the end of that period.
+
+If the close is near the low, sellers held the advantage.
+
+If both the upper and lower shadows are long, it means that both buyers and sellers launched
+strong attacks, resulting in significant disagreement.
+
+If the real body is small, it means the opening and closing prices were close together, reflecting
+temporary indecision.
+
+
+
+II. What Does the Real Body Represent?
+
+The larger the real body, the greater the difference between the opening and closing prices.
+
+A large bullish candle indicates that buyers were clearly in control.
+
+A large bearish candle indicates that sellers dominated the session.
+
+A small real body suggests that buying and selling pressure were relatively balanced, leaving the
+market without a clear direction.
+
+However, the real body must always be interpreted within its market context.
+
+A large bullish candle with expanding volume at a market bottom may indicate that institutional
+buying is beginning to emerge.
+
+
+
+
+                                                - 158 -
+<PARSED TEXT FOR PAGE: 167 / 686>
+A large bullish candle with heavy volume near the top of an extended advance may signal
+emotional buying or even a buying climax.
+
+A large bullish candle during an existing downtrend may be nothing more than a short-term
+rebound.
+
+Likewise, a large bearish candle during an established uptrend may simply represent a normal
+pullback—or it could mark the beginning of a trend breakdown.
+
+No candlestick should ever be evaluated in isolation.
+
+
+
+
+Figure Description:
+
+This figure explains how the size of a candlestick's real body reflects market control. It compares
+a large bullish candle, a large bearish candle, and a small-bodied candle, illustrating bullish
+dominance, bearish dominance, and market indecision, respectively.
+
+
+III. What Do the Shadows Represent?
+
+The shadows record attacks and counterattacks.
+
+A long upper shadow tells us that price advanced during the session but was pushed back before
+the close.
+
+
+
+                                              - 159 -
+<PARSED TEXT FOR PAGE: 168 / 686>
+It reflects the presence of selling pressure overhead.
+
+A long lower shadow tells us that price was driven lower during the session but recovered before
+the close.
+
+It reflects buying support emerging at lower prices.
+
+However, shadows are not standalone trading signals.
+
+A long upper shadow deserves greater attention when it appears at a high price level.
+
+A long upper shadow during the early stages of a rebound from a market bottom may simply
+represent a normal test of resistance.
+
+A long lower shadow carries greater significance when it forms near a major support area.
+
+A long lower shadow appearing in the middle of a downtrend may be nothing more than
+temporary bargain hunting.
+
+Shadows tell you that a battle took place.
+
+They do not tell you that the war has already been won.
+
+
+
+IV. Why Shouldn't a Doji Be Misused?
+
+Ethan used to be especially fond of the Doji.
+
+He believed that a Doji signaled an imminent trend reversal.
+
+I told him,
+
+"A Doji represents indecision, not an automatic reversal."
+
+A Doji forms when the opening price and closing price are nearly the same, indicating that
+neither buyers nor sellers gained a decisive advantage during that period.
+
+But what happens next can go in either direction.
+
+If a Doji appears after a prolonged uptrend, followed by heavy volume and a downside
+breakdown, it may signal indecision at the top before a reversal.
+
+If a Doji appears after a prolonged downtrend and is followed by a strong advance on increased
+trading volume, it may represent bottoming action before a bullish reversal.
+
+If a Doji appears in the middle of a sideways trading range, it may carry very little significance.
+
+For this reason, a Doji requires confirmation more than almost any other candlestick pattern.
+
+
+
+
+                                                - 160 -
+<PARSED TEXT FOR PAGE: 169 / 686>
+Figure Description:
+
+This figure explains that a Doji represents market indecision rather than an automatic reversal
+signal. It illustrates two possible outcomes following the same Doji: one leading to an upward
+move and the other to a decline.
+
+
+
+V. The Four Questions for Candlestick Analysis
+
+From that day forward, whenever Ethan encountered an unusual candlestick, I asked him to
+answer four questions before drawing any conclusions.
+
+First, where did it appear?
+
+Was it at a market bottom, near a top, in the middle of a trend, at a support level, or at a resistance
+level?
+
+The location changes its meaning entirely.
+
+Second, what happened beforehand?
+
+A long upper shadow after a prolonged rally is not the same as a long upper shadow after an
+extended decline.
+
+
+
+
+                                               - 161 -
+<PARSED TEXT FOR PAGE: 170 / 686>
+Context always matters.
+
+Third, what did the trading volume tell you?
+
+A high-volume long upper shadow, a low-volume long upper shadow at the highs, and a high-
+volume long lower shadow near support all carry different implications.
+
+Fourth, was there any confirmation afterward?
+
+Without confirmation, a candlestick is merely an observation—not a complete trading signal.
+
+
+
+
+Figure Description:
+
+This figure summarizes the four essential questions for candlestick analysis in the form of a
+whiteboard-style checklist.
+
+
+
+Case Review
+
+Why Couldn't the Hammer Candle in SiliconWorks Europe Be Bought Immediately?
+
+Now let's return to SiliconWorks Europe.
+
+At first, Ethan saw what appeared to be an almost textbook Hammer Candle with a long lower
+shadow.
+
+
+                                               - 162 -
+<PARSED TEXT FOR PAGE: 171 / 686>
+It did show that buyers stepped in during the session.
+
+But why couldn't it be treated as an immediate buy signal?
+
+First, it did not form at a clearly defined major support zone.
+
+Second, the existing downtrend had not yet been broken.
+
+Third, trading volume failed to expand significantly, making the buying interest less convincing.
+
+Fourth, price failed to break above the previous day's high on the following session.
+
+Fifth, the market never completed a structural confirmation.
+
+Therefore, the correct interpretation of that candlestick was not "buy signal."
+
+Instead, it was an observation signal.
+
+It told us only that buying interest might be emerging.
+
+It showed that sellers had encountered buying pressure after pushing prices lower during the
+session.
+
+Whether the trend would actually reverse still depended on future confirmation.
+
+If price later broke above the previous day's high on expanding trading volume and reclaimed
+short-term resistance, the significance of the long lower shadow would increase.
+
+If price instead broke below the low of the long lower shadow, it would indicate that buying
+support had failed, invalidating the original observation.
+
+That is the essence of candlestick analysis.
+
+A candlestick is not a conclusion.
+
+It is one piece of evidence.
+
+Chapter Trading Rules
+
+That day, I asked Ethan to write down five trading rules.
+
+First, do not trade the name of a candlestick. Analyze the behavior it represents.
+
+Second, a long upper shadow reflects selling pressure overhead, while a long lower shadow
+reflects buying support below. However, both require the proper market location and subsequent
+confirmation before they become meaningful.
+
+Third, a large bullish candle is not automatically bullish, and a large bearish candle is not
+automatically bearish. Their significance depends on where they appear within the market
+structure.
+
+
+
+
+                                               - 163 -
+<PARSED TEXT FOR PAGE: 172 / 686>
+Fourth, a Doji represents indecision. It does not automatically signal a trend reversal.
+
+Fifth, no single candlestick should ever be evaluated in isolation. It must always be analyzed
+together with the trend, support and resistance levels, trading volume, and subsequent price action.
+
+Then I added one more sentence:
+
+        A candlestick tells you how one battle ended, but it cannot, by itself, tell
+        you who will win the entire war.
+
+Ethan wrote that sentence in his notebook.
+
+After that day, he rarely asked me,
+
+        "Is this a Hammer?"
+
+        "Is this a Shooting Star?"
+
+        "Is this a Doji?"
+
+Instead, he began asking,
+
+        "Which side became more aggressive at this level, and what does this
+        candlestick reveal about the battle between buyers and sellers?"
+
+That was real progress.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned to see candlesticks from an entirely different perspective.
+
+He no longer viewed them as patterns whose names needed to be memorized.
+
+Instead, he learned to read them as records of market behavior.
+
+He came to understand that:
+
+       The Open marks where the battle begins.
+       The High shows the furthest point buyers were able to advance.
+       The Low shows the deepest level sellers managed to push prices.
+       The Close represents the market's final acceptance at the end of that trading period.
+       The real body reflects which side held control by the close.
+       The shadows record attacks and counterattacks between buyers and sellers.
+
+He also realized that the same candlestick can carry completely different meanings depending on
+where it appears.
+
+
+
+
+                                               - 164 -
+<PARSED TEXT FOR PAGE: 173 / 686>
+A long lower shadow near a major support level may indicate genuine buying support.
+
+The same long lower shadow in the middle of a downtrend may represent nothing more than a
+temporary rebound.
+
+A long upper shadow near the top of an extended advance may signal increasing selling pressure.
+
+The very same long upper shadow during the early stages of a bottoming process may simply
+represent a test of resistance.
+
+From this chapter onward, Ethan stopped placing blind faith in candlestick names.
+
+Instead, he began reading the story behind every candlestick—the ongoing battle between buyers
+and sellers.
+
+
+
+In the next chapter, Ethan will study another tool that appears simple but is frequently
+misunderstood:
+
+Moving Averages.
+
+He will discover that moving averages are neither magical support levels nor automatic buy-and-
+sell signals.
+
+They are simply a visual representation of the market's average cost basis over a given period.
+
+
+
+
+                                              - 165 -

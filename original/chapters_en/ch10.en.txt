@@ -1,0 +1,1010 @@
+Original Market Mist PDF pages 193–214. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 193 / 686>
+Chapter 10
+The Trap of Chart Patterns: They May Look the Same, Yet Lead to Completely
+Different Outcomes
+
+
+The first time Ethan Carter was truly deceived by a chart pattern was because of a chart that
+looked almost too perfect.
+
+It looked as though it had been copied directly from a textbook.
+
+A prolonged downtrend.
+
+One low.
+
+A rebound.
+
+A second decline.
+
+Then, instead of breaking sharply to new lows, price found buying support near the bottom.
+
+With a little imagination, it even resembled a Head and Shoulders Bottom that was beginning to
+take shape.
+
+Ethan was genuinely excited.
+
+It was not the first time he had seen a chart pattern.
+
+But it was the first time he believed he had identified a major opportunity before everyone else.
+
+This is exactly where many investors make their first serious mistake.
+
+After learning about the Double Bottom, Triple Bottom, Head and Shoulders Bottom, Bull Flag,
+and Double Top, the world of charts suddenly becomes filled with patterns.
+
+What was once an ordinary consolidation now looks like a Double Bottom.
+
+What was once a failed rebound now looks like a Head and Shoulders Bottom.
+
+What was once sideways trading near the highs now resembles a Bull Flag.
+
+What was once three failed attempts to break higher now appears to be a Triple Top.
+
+During the early stages of learning chart patterns, the greatest danger is not failing to recognize
+them.
+
+It is seeing patterns everywhere.
+
+The stock in question was one I will call Baltic Renewables.
+
+
+
+                                                - 185 -
+<PARSED TEXT FOR PAGE: 194 / 686>
+Baltic Renewables was a European renewable energy infrastructure company specializing in wind
+farms, energy storage projects, and long-term power purchase agreements. Over the previous
+several years, it had been a market favorite, and its share price had once enjoyed a substantial
+advance. However, as interest rates rose, financing costs increased, and project returns declined,
+investors reassessed its valuation, sending the stock into a prolonged downtrend.
+
+From a fundamental perspective, it was not a poor company.
+
+It owned real assets.
+
+It had long-term contracts.
+
+It generated stable cash flow.
+
+But the market's concern was never whether the company was genuine.
+
+The real question was this:
+
+In a high-interest-rate environment, how much valuation is the market willing to assign to this
+type of business?
+
+That was the real reason its stock price had remained under pressure throughout the past year.
+
+Ethan became interested in it because the stock had been falling for a very long time.
+
+That is also what attracts most beginners.
+
+The more a stock falls, the cheaper it appears.
+
+The longer it declines, the closer it seems to a bottom.
+
+The more it rebounds, the more it looks like a reversal.
+
+When Ethan brought the chart to me, I recognized the expression in his eyes.
+
+It was not the look of calm analysis.
+
+It was the look of someone thinking,
+
+"I may have discovered a great opportunity."
+
+"Professor," he said, "Baltic Renewables may be forming a Head and Shoulders Bottom."
+
+I looked up.
+
+"May?"
+
+"Yes. This looks like the left shoulder, this is the head, and this could be the right shoulder."
+
+He enlarged the chart and pointed to the three lows with his mouse.
+
+
+
+
+                                               - 186 -
+<PARSED TEXT FOR PAGE: 195 / 686>
+One low on the left.
+
+A lower low in the middle.
+
+And a higher low that was beginning to form on the right.
+
+Viewed purely by its outline, it really did resemble the pattern.
+
+I asked,
+
+"Where is the Neckline?"
+
+He drew a sloping line connecting the two rebound highs.
+
+"Here."
+
+"Has price broken above it?"
+
+"Not yet."
+
+"What about Trading Volume?"
+
+"Volume has declined around the right shoulder, which may suggest that selling pressure is
+easing."
+
+"Has price reclaimed the 20-day and 50-day Moving Averages?"
+
+"Not completely."
+
+"What about the sector trend?"
+
+"The renewable energy sector is still relatively weak, although a few stocks have started to
+rebound."
+
+I looked at him.
+
+"So what you're seeing right now is a Potential Pattern, not a Confirmed Pattern."
+
+Ethan paused.
+
+It was the first time he had heard me draw such a clear distinction between those two terms.
+
+Potential Pattern
+
+Confirmed Pattern
+
+A Potential Pattern.
+
+A Confirmed Pattern.
+
+At first glance, the only difference appears to be a breakout.
+
+
+
+                                               - 187 -
+<PARSED TEXT FOR PAGE: 196 / 686>
+In trading, however, the real difference is risk.
+
+
+
+I. Looking Like a Pattern Does Not Mean the Pattern Exists
+
+I asked Ethan to project the chart of Baltic Renewables onto the meeting room's large screen.
+
+The chart was undeniably attractive.
+
+The downtrend had lasted for a long time.
+
+Price no longer seemed to be falling relentlessly.
+
+The middle low was lower than both sides.
+
+The low on the right was, for the moment, holding above the head.
+
+Everything suggested that selling pressure might be weakening.
+
+If you desperately wanted to see a Head and Shoulders Bottom, you certainly could.
+
+But the market does not recognize a pattern simply because you recognize its shape.
+
+The defining feature of a genuine Head and Shoulders Bottom is not how closely the left shoulder,
+head, and right shoulder resemble the textbook illustration.
+
+The real test is whether price can break above the Neckline, and whether Trading Volume
+confirms that breakout.
+
+Until price breaks above the Neckline, it is nothing more than a Potential Head and Shoulders
+Bottom.
+
+If price turns lower from the right shoulder and breaks below the low of the head, the entire
+pattern fails.
+
+I wrote on the whiteboard:
+
+        Potential Pattern ≠ Confirmed Pattern
+
+A Potential Pattern is not a Confirmed Pattern.
+
+
+
+
+                                                - 188 -
+<PARSED TEXT FOR PAGE: 197 / 686>
+Figure Description:
+
+This figure explains the difference between a pattern that merely looks complete and one that has
+been properly confirmed. The left panel illustrates a Potential Head and Shoulders Bottom that
+has not yet broken above the Neckline. The right panel shows a valid Head and Shoulders Bottom
+after a breakout above the Neckline, followed by a successful retest on expanding Trading
+Volume.
+
+
+
+Ethan studied the chart quietly.
+
+"So at this point, the most we can do is observe it. We can't treat it as a confirmed reversal."
+
+"Exactly."
+
+"But if we wait for the breakout, price may already have risen quite a bit."
+
+"That's true."
+
+"Wouldn't that mean missing the bottom?"
+
+
+
+
+                                               - 189 -
+<PARSED TEXT FOR PAGE: 198 / 686>
+"You're trying to buy the exact bottom again."
+
+He said nothing.
+
+I continued.
+
+"You need to understand that the bottom is usually the point of greatest uncertainty. A confirmed
+entry may come at a higher price, but it also comes with much stronger evidence. You cannot
+demand both the lowest possible entry price and the lowest possible level of risk."
+
+That is a difficult truth for many investors to accept.
+
+They want to buy cheaply.
+
+They also want complete safety.
+
+And they want the stock to rise immediately.
+
+The market rarely offers all three at once.
+
+Buying before a pattern is confirmed may provide a lower entry price, but it also carries a much
+higher probability of failure.
+
+Buying after the breakout has been confirmed may result in a higher entry price, but the evidence
+supporting the trend is much stronger.
+
+Buying after the breakout and a successful retest may require paying an even higher price, but the
+level of risk becomes much easier to define.
+
+Every entry point comes with a different balance between risk and reward.
+
+The real question is not which entry is always best.
+
+The real question is whether you fully understand which risk you are choosing to accept.
+
+II. Ethan's Urge to Buy Early
+
+Over the next two days, Baltic Renewables rose modestly.
+
+That only made Ethan more excited.
+
+Price rebounded from the right shoulder and gradually approached the Neckline.
+
+Every morning, the very first thing he did was open the chart of that stock.
+
+That behavior was dangerous.
+
+Once an investor becomes overly focused on a single stock, objectivity begins to disappear.
+
+He starts magnifying every bullish signal while ignoring the warning signs.
+
+
+
+
+                                                - 190 -
+<PARSED TEXT FOR PAGE: 199 / 686>
+Ordinary price advances become confirmation.
+
+Ordinary pullbacks become "shakeouts."
+
+Gradually, he begins to want the pattern to succeed.
+
+The greatest danger in the market is not having an opinion.
+
+The greatest danger is falling in love with your own opinion.
+
+On the morning of the third day, Baltic Renewables climbed 3.2%, leaving it less than 1% below
+the Neckline.
+
+Ethan walked over to my desk.
+
+"If it breaks above the Neckline today, can we buy?"
+
+"If it breaks out, the first things we need to examine are Trading Volume and where it closes."
+
+"What if it breaks out during the trading session?"
+
+"An intraday breakout is only a breakout attempt."
+
+He sighed.
+
+"You always make me wait."
+
+"The market also makes impatient people pay."
+
+He smiled.
+
+But his eyes never left the screen.
+
+At 10:45 a.m., price broke above the Neckline during the trading session.
+
+Ethan immediately sat up straight.
+
+Trading Volume increased somewhat, but not significantly.
+
+After the breakout, price failed to accelerate higher and instead hesitated around the Neckline.
+
+By 11:30 a.m., price had fallen back below the Neckline.
+
+The expression on Ethan's face darkened.
+
+At 2:00 p.m., price attempted another breakout.
+
+This time, Trading Volume expanded slightly.
+
+However, selling pressure emerged before the close, and price once again failed to finish above
+the Neckline.
+
+
+
+                                              - 191 -
+<PARSED TEXT FOR PAGE: 200 / 686>
+The daily candlestick closed as a small bullish candle with a long upper shadow.
+
+This was not confirmation.
+
+It was simply the second failed breakout attempt.
+
+
+
+
+Figure Description:
+
+This figure illustrates an intraday breakout above the Neckline that fails to hold by the close,
+resulting in an unsuccessful breakout attempt. Label the chart with Breakout Attempt, Close
+Below Neckline, and No Confirmation.
+
+
+
+Ethan stared at the closing chart.
+
+"If I had bought during the breakout, I would have been trapped again."
+
+"That's why waiting is never a waste of time."
+
+He nodded.
+
+But I knew he had not completely let go.
+
+
+                                               - 192 -
+<PARSED TEXT FOR PAGE: 201 / 686>
+Because the pattern still appeared to exist.
+
+As long as price remained above the right shoulder, he would continue hoping for the breakout.
+
+
+
+III. A Failed Pattern Is More Important Than a Successful One
+
+On the fourth day, Baltic Renewables did not move higher.
+
+Instead, it opened 1.5% lower.
+
+Ethan said,
+
+"It's probably just a normal pullback, right?"
+
+"Maybe."
+
+By 10:00 a.m., price had fallen back into the right shoulder area.
+
+Trading Volume began to expand.
+
+I asked Ethan,
+
+"If this really is the right shoulder, which level must not be broken?"
+
+He marked the low of the right shoulder on the chart.
+
+"Here."
+
+"What happens if price breaks below it?"
+
+"The right shoulder fails."
+
+"And what if price continues lower and breaks below the low of the head?"
+
+"The entire Potential Head and Shoulders Bottom fails."
+
+"So where is your risk point?"
+
+He was silent for a moment.
+
+"Below the low of the right shoulder."
+
+"Exactly."
+
+"That is the first thing you must identify before trading any chart pattern."
+
+Many investors care only about how much a successful pattern might rise.
+
+Professional traders think differently.
+
+
+
+
+                                                 - 193 -
+<PARSED TEXT FOR PAGE: 202 / 686>
+Their first question is:
+
+If this pattern fails, where do I admit I was wrong?
+
+The value of a chart pattern lies not only in identifying a potential price target.
+
+It also defines where the pattern becomes invalid.
+
+If you do not know where the pattern fails,
+
+then you are not really trading the pattern.
+
+You are trading your imagination.
+
+That afternoon, Baltic Renewables broke below the low of the right shoulder.
+
+Trading Volume expanded noticeably.
+
+Ethan's expression became serious.
+
+"The right shoulder has failed."
+
+"So?"
+
+"The Potential Pattern has failed."
+
+"What if someone bought early?"
+
+"They should exit with a stop loss."
+
+"And if they don't?"
+
+"Then the trade stops being a chart pattern trade and turns into a long-term excuse."
+
+I laughed.
+
+He had described it perfectly.
+
+Many investors enter a position because of a technical pattern.
+
+But once that pattern fails, they immediately begin changing their story.
+
+"The company is still excellent over the long term."
+
+"The industry has a bright future."
+
+"This is only short-term volatility."
+
+"It should recover if I just wait."
+
+That is trade thesis drift.
+
+
+
+
+                                                - 194 -
+<PARSED TEXT FOR PAGE: 203 / 686>
+You entered the trade because of Reason A.
+
+When Reason A failed, you continued holding the position by comforting yourself with Reason B.
+
+That is an extremely dangerous hab
+
+
+
+
+Figure Description:
+
+This figure illustrates where a Potential Head and Shoulders Bottom fails. Price breaks below the
+low of the right shoulder and continues falling afterward. Label the chart with Pattern Failure and
+Stop-Loss Level.
+
+
+
+
+IV. The Market Presents a Second Version
+
+One week later, Baltic Renewables continued to decline.
+
+The Potential Head and Shoulders Bottom had failed completely.
+
+Ethan looked disappointed.
+
+
+
+
+                                              - 195 -
+<PARSED TEXT FOR PAGE: 204 / 686>
+"It really looked like the pattern."
+
+"The market doesn't trade appearances."
+
+"So how can I avoid making this mistake?"
+
+"You can't eliminate it completely."
+
+"You can only build a confirmation process."
+
+That was the truth.
+
+No method of technical analysis can prevent every misjudgment.
+
+You will misread patterns.
+
+You will make decisions too early.
+
+You will encounter false breakouts.
+
+You will experience failed retests.
+
+You will watch the market move in ways you never expected.
+
+Professional skill is not about eliminating mistakes.
+
+Professional skill is about keeping mistakes within clearly defined boundaries.
+
+A few days later, I showed Ethan another chart.
+
+This time, it belonged to a medical technology company that I will call HelixCare Systems.
+
+It had also formed what appeared to be a Head and Shoulders Bottom.
+
+But unlike Baltic Renewables, the right shoulder of HelixCare formed with noticeably declining
+Trading Volume, indicating that selling pressure was weakening.
+
+Price then broke above the Neckline on expanding Trading Volume and closed firmly above it.
+
+Two days later, price pulled back to the Neckline.
+
+Trading Volume contracted.
+
+Price held above the Neckline.
+
+Then the stock resumed its advance.
+
+That is a Confirmed Pattern.
+
+Not because it looked prettier.
+
+But because it completed several essential steps.
+
+
+
+                                               - 196 -
+<PARSED TEXT FOR PAGE: 205 / 686>
+          The right shoulder held.
+          Price broke above the Neckline.
+          Trading Volume expanded.
+          The breakout was confirmed by the closing price.
+          The retest occurred on lighter Trading Volume.
+          The Neckline held as support.
+          The uptrend continued.
+
+Ethan looked at the two charts.
+
+On the left was Baltic Renewables.
+
+On the right was HelixCare Systems.
+
+One looked like the pattern—
+
+and failed.
+
+The other completed its confirmation—
+
+and succeeded.
+
+I asked,
+
+"What is the difference?"
+
+He answered,
+
+"It isn't the shape."
+
+"It's the confirmation."
+
+"And what else?"
+
+"Trading Volume, the closing price, whether the retest held, and whether the invalidation point
+was clearly defined."
+
+I nodded.
+
+He had finally grasped the key idea.
+
+
+
+
+                                               - 197 -
+<PARSED TEXT FOR PAGE: 206 / 686>
+Figure Description:
+
+This figure compares a failed pattern with a confirmed pattern. The left panel shows a Potential
+Head and Shoulders Bottom that fails after an unsuccessful breakout and a breakdown below the
+right shoulder. The right panel shows a Confirmed Head and Shoulders Bottom, where price
+breaks above the Neckline on expanding Trading Volume, successfully retests the breakout level
+on lighter volume, and then continues higher.
+
+
+
+Professor's Whiteboard Session
+
+Potential Pattern vs Confirmed Pattern
+
+That evening, the topic of my whiteboard session with Ethan was:
+
+Potential Patterns and Confirmed Patterns.
+
+Chart patterns are extremely useful tools.
+
+But they also come with a natural danger.
+
+
+
+
+                                             - 198 -
+<PARSED TEXT FOR PAGE: 207 / 686>
+The human brain is wired to recognize patterns.
+
+We see animals in clouds.
+
+We see faces in the texture of a wall.
+
+And we see the patterns we want to see in price movements.
+
+That is not stupidity.
+
+It is simply how the human brain works.
+
+In the market, however, that instinct often causes investors to reach conclusions too early.
+
+
+
+I. What Is a Potential Pattern?
+
+A Potential Pattern is a chart formation in which the basic structure has begun to appear, but the
+key confirmation conditions have not yet been completed.
+
+For example:
+
+       A Double Bottom has formed two lows, but price has not yet broken above the Neckline.
+       A Triple Bottom has formed three lows, but Trading Volume has not confirmed the
+        pattern, and price has not broken above the Neckline.
+       A Head and Shoulders Bottom has formed a left shoulder, a head, and a right shoulder,
+        but price has not yet broken above the Neckline on expanding Trading Volume.
+       A Bull Flag has completed its consolidation channel, but price has not yet broken above
+        the upper boundary of the flag.
+       A Double Top has formed two highs, but price has not yet broken below the Neckline.
+
+All of these are merely Potential Patterns.
+
+A Potential Pattern can be monitored.
+
+It can be analyzed in advance.
+
+It can be included in a trading plan.
+
+But it must not be treated as a confirmed trading signal.
+
+
+
+II. What Is a Confirmed Pattern?
+
+A Confirmed Pattern is one in which price has completed the key breakout or breakdown, and
+subsequent price action supports the validity of the pattern.
+
+For bottom reversal patterns, confirmation generally requires:
+
+
+                                              - 199 -
+<PARSED TEXT FOR PAGE: 208 / 686>
+        Price breaks above the Neckline or another key resistance level.
+        Trading Volume expands during the breakout.
+        Price closes firmly above the key level.
+        Trading Volume contracts during the retest.
+        The Neckline holds as support during the retest.
+        Price resumes moving higher afterward.
+
+For top reversal patterns, confirmation generally requires:
+
+        Price breaks below the Neckline or another key support level.
+        Trading Volume expands during the breakdown.
+        The rebound fails to reclaim the former support level.
+        Price continues weakening afterward.
+
+For trend continuation patterns, confirmation generally requires:
+
+        Trading Volume contracts during the consolidation.
+        The breakout occurs in the direction of the existing trend.
+        Trading Volume expands during the breakout.
+        Price does not quickly fall back into the consolidation range after the breakout.
+
+Confirmation is not a single event.
+
+It is a process.
+
+
+
+
+                                               - 200 -
+<PARSED TEXT FOR PAGE: 209 / 686>
+Figure Description:
+
+This figure summarizes the pattern confirmation process in a flowchart format:
+
+Pattern Forms → Key Level Identified → Breakout / Breakdown → Volume Confirms → Retest
+Holds / Fails → Trend Continues
+
+
+
+III. Why Must Every Pattern Wait for Confirmation?
+
+There are three reasons why confirmation is essential.
+
+First, It Filters Out Imagination
+
+Many chart patterns continue evolving while they are still forming.
+
+A Potential Double Bottom may eventually become a Triple Bottom.
+
+A Potential Head and Shoulders Bottom may fail completely and continue moving lower.
+
+What appears to be a Bull Flag may break out in the opposite direction.
+
+
+                                             - 201 -
+<PARSED TEXT FOR PAGE: 210 / 686>
+What looks like a Double Top may instead break upward and become a continuation pattern.
+
+If you reach conclusions too early, the market will often prove you wrong.
+
+Second, It Confirms Which Side Has Gained Control
+
+A chart pattern is only a structure.
+
+The breakout is what reveals which side has actually won the battle.
+
+Before the breakout, buyers and sellers are still competing.
+
+Only after the breakout does the market begin to reveal who has taken control.
+
+When Trading Volume expands together with the breakout, it indicates that institutional capital is
+supporting that move.
+
+Third, It Defines Risk
+
+A confirmed pattern makes it much easier to define a logical stop-loss.
+
+After a bottom breakout, if the retest falls back below the Neckline, the pattern may have failed.
+
+After a top breakdown, if the rebound climbs back above the Neckline, the bearish pattern may
+have failed.
+
+After a flag breakout, if price falls back inside the flag, the continuation pattern may have failed.
+
+Every trade must define where it is wrong.
+
+If you do not know where you are wrong,
+
+then you do not have a trading plan.
+
+
+
+IV. Is It Acceptable to Buy Early?
+
+Ethan once asked me a very practical question.
+
+"If waiting for confirmation means giving up part of the profit, can I buy while the pattern is still
+developing?"
+
+The answer is:
+
+Yes.
+
+But you must understand exactly what you are doing.
+
+Buying before confirmation is a form of anticipatory trading.
+
+Its advantage is a lower entry price and greater potential upside.
+
+
+                                               - 202 -
+<PARSED TEXT FOR PAGE: 211 / 686>
+Its disadvantages are a higher probability of failure, a longer waiting period, and much greater
+psychological pressure.
+
+If you choose to enter early, several conditions are essential:
+
+       Keep the position size small.
+       Define your stop-loss clearly.
+       Never treat a Potential Pattern as though it were already a Confirmed Pattern.
+       If the pattern fails, exit immediately.
+       Never replace your original trading thesis with fundamental or emotional excuses simply
+        because the trade has gone against you.
+
+For most investors, I still recommend waiting for confirmation.
+
+Although confirmation usually means sacrificing part of the price advantage, it provides
+something far more valuable—
+
+a clearly defined risk boundary.
+
+
+
+
+Figure Description:
+
+This figure compares an early entry with a confirmation entry. It illustrates the same bottoming
+pattern, showing a high-risk early entry near the lows on the left and a confirmation entry after
+
+
+
+
+                                               - 203 -
+<PARSED TEXT FOR PAGE: 212 / 686>
+the breakout above the Neckline on the right, where the supporting evidence is significantly
+stronger.
+
+
+
+Case Review
+
+Why Did Baltic Renewables Fail?
+
+Now let's return to Baltic Renewables.
+
+Why did it fool Ethan?
+
+Because it genuinely possessed several characteristics of a Head and Shoulders Bottom.
+
+It had a left shoulder.
+
+It had a lower head.
+
+It appeared to be forming a right shoulder.
+
+It even had what looked like a reasonable Neckline.
+
+But it lacked the single most important element:
+
+Confirmation.
+
+First, price never broke above the Neckline on expanding Trading Volume.
+
+Second, after breaking above the Neckline intraday, price failed to close above it.
+
+Third, the low of the right shoulder was broken.
+
+Fourth, that breakdown occurred on expanding Trading Volume.
+
+Fifth, the overall sector trend remained weak.
+
+All of those signals indicated that the Potential Head and Shoulders Bottom had never become a
+Confirmed Pattern.
+
+If Ethan had entered the trade early, he should have exited as soon as the right shoulder failed.
+
+If he had waited for confirmation, he would never have entered the trade at all.
+
+That is the true value of waiting for confirmation.
+
+It does not guarantee profits.
+
+But it prevents you from entering many trades that have not yet fully developed.
+
+Chapter Trading Rules
+
+
+
+                                                 - 204 -
+<PARSED TEXT FOR PAGE: 213 / 686>
+That day, I asked Ethan to write down six trading rules.
+
+First, a pattern that looks complete does not mean the pattern has actually been confirmed.
+
+Second, a Potential Pattern is for observation, while a Confirmed Pattern is what belongs in a
+trading plan.
+
+Third, bottom reversal patterns should wait for a breakout above the Neckline, while top reversal
+patterns should wait for a breakdown below the Neckline.
+
+Fourth, Trading Volume must confirm every key breakout or breakdown.
+
+Fifth, the quality of a chart pattern is largely determined by what happens during the retest or
+rebound after the breakout or breakdown.
+
+Sixth, every chart pattern must define its invalidation point before the trade is entered.
+
+Then I added one more sentence.
+
+        Chart patterns are not a game of shape recognition. They are a process of
+        confirming market strength.
+
+Ethan wrote that sentence at the very top of his notes for the chapter.
+
+Later, he told me that this chapter completely changed the way he looked at charts.
+
+Before, whenever he saw a pattern, he would ask:
+
+        "Does it look like the pattern?"
+
+Later, he began asking:
+
+        "Has the pattern been confirmed?"
+
+The distance between those two questions is the distance between a beginner and a professional
+investor.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned one of the most important lessons in technical analysis:
+
+The greatest danger of chart patterns is not failing to recognize them—it is recognizing them too
+early.
+
+When a pattern has not yet broken above the Neckline, has not been confirmed by Trading
+Volume, and has not successfully passed a retest, it remains nothing more than a Potential
+Opportunity.
+
+
+
+
+                                               - 205 -
+<PARSED TEXT FOR PAGE: 214 / 686>
+A potential opportunity can be studied.
+
+It can be monitored.
+
+It can be planned for in advance.
+
+But it must not be treated as a confirmed trend.
+
+A high-quality chart pattern must do more than simply resemble the textbook illustration.
+
+It must complete the confirmation process.
+
+From this chapter onward, Ethan stopped rushing to give every chart a name.
+
+Instead, he began breaking every chart down into a series of questions:
+
+       Where is the key level?
+       Has price broken through it?
+       Has Trading Volume confirmed the move?
+       Has price closed firmly beyond the key level?
+       Did the retest hold?
+       If the pattern fails, where do I exit?
+
+Those questions transformed his technical analysis from guessing based on appearances into
+validating market structure.
+
+
+
+In the next chapter, Ethan will move one step deeper into understanding the market.
+
+He will begin learning how to identify the footprints of institutional capital through Price Action
+and Trading Volume.
+
+Because large institutions cannot complete their buying all at once.
+
+Their activity is often quietly recorded within the Market Structure, long before most investors
+notice it.
+
+
+
+
+                                              - 206 -

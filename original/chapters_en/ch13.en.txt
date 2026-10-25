@@ -1,0 +1,1159 @@
+Original Market Mist PDF pages 265–289. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 265 / 686>
+Chapter 13
+The False Breakout Trap: The Market Rewards Patience and Punishes Impulse
+
+
+After the shakeout lesson involving Aurum Semiconductor,
+
+Ethan Carter had clearly become more patient.
+
+He no longer panicked and sold at the first sign of a price decline.
+
+Nor did he automatically assume that every pullback meant the trend had failed.
+
+Instead,
+
+he learned to wait for the close,
+
+wait for Trading Volume,
+
+and wait for the market's reaction at key price levels.
+
+That was excellent progress.
+
+But the market never tests investors in only one way.
+
+If the previous chapter showed how the market frightens people through falling prices,
+
+this chapter would show how it tempts them through rising prices.
+
+In many ways,
+
+a rising market is even more dangerous than a falling one.
+
+At first,
+
+that statement sounds counterintuitive.
+
+Most investors believe declines are more frightening because falling prices produce losses.
+
+Yet for many beginners,
+
+their biggest mistakes are caused not by fear,
+
+but by excitement.
+
+Fear makes people hesitate.
+
+Excitement makes them rush in.
+
+This time,
+
+
+
+                                                 - 257 -
+<PARSED TEXT FOR PAGE: 266 / 686>
+Ethan's attention focused on an industrial software company that I will call VectorMind Systems.
+
+VectorMind Systems was a European software company providing digital factory solutions for
+manufacturing businesses.
+
+Its products included production-line data collection,
+
+predictive maintenance,
+
+industrial equipment connectivity platforms,
+
+and factory energy optimization systems.
+
+For years,
+
+industrial software had been a favorite sector among institutional investors.
+
+Unlike consumer companies,
+
+its business was less sensitive to short-term demand fluctuations.
+
+Unlike traditional manufacturers,
+
+it enjoyed relatively high profit margins.
+
+It generated recurring subscription revenue,
+
+maintained attractive gross margins,
+
+and benefited from the long-term trend toward industrial automation.
+
+However,
+
+VectorMind Systems' stock had not performed well.
+
+During the previous year,
+
+its shares had fallen sharply after becoming overvalued while growth slowed.
+
+Afterward,
+
+price spent more than four months consolidating inside a broad trading range.
+
+Resistance was located near €72.
+
+Support was located near €58.
+
+Price continued oscillating between those levels,
+
+while Trading Volume gradually contracted.
+
+The trading range was exceptionally obvious.
+
+
+
+                                               - 258 -
+<PARSED TEXT FOR PAGE: 267 / 686>
+So obvious,
+
+in fact,
+
+that nearly every technical trader could identify it.
+
+And the more obvious a level becomes,
+
+the more likely it is to become the setting for a trap.
+
+
+
+I. Everyone Was Waiting for the Breakout
+
+That morning,
+
+the research department's screens simultaneously displayed an unusual activity alert for
+VectorMind Systems.
+
+Shortly after the market opened,
+
+price began climbing rapidly.
+
+First,
+
+it broke above €70.
+
+Then it reached €71.
+
+Moments later,
+
+it moved decisively above €72.
+
+For the first time in four months,
+
+the stock had broken above the upper boundary of its trading range during the trading session.
+
+Ethan immediately noticed it.
+
+This time,
+
+unlike what he had done back in Chapter Two,
+
+he did not immediately shout,
+
+"Buy!"
+
+Instead,
+
+he first opened the daily chart,
+
+then the weekly chart,
+
+
+
+                                                - 259 -
+<PARSED TEXT FOR PAGE: 268 / 686>
+before checking the sector ETF and Trading Volume.
+
+I stood quietly behind him,
+
+saying nothing.
+
+He spoke softly to himself.
+
+"The trading range has lasted four months.
+
+Resistance is at €72.
+
+Today it's breaking out on expanding Trading Volume.
+
+The industrial software sector is also strengthening.
+
+This isn't an isolated move."
+
+He paused for several seconds.
+
+Then he added,
+
+"But we still need to see whether it can hold above the level by the close."
+
+Hearing those words,
+
+I was pleased.
+
+At least,
+
+he now remembered one important lesson:
+
+An intraday breakout is not confirmation.
+
+But the market quickly began testing him.
+
+VectorMind Systems continued rising.
+
+€72.50.
+
+€73.20.
+
+€74.10.
+
+Trading Volume expanded noticeably.
+
+News headlines soon followed.
+
+Financial media reported:
+
+          "Industrial software sector strengthened by expectations of increased
+          investment in manufacturing digitalization."
+
+
+                                              - 260 -
+<PARSED TEXT FOR PAGE: 269 / 686>
+           "VectorMind Systems breaks above its long-term consolidation range."
+
+           "Institutions reassess European industrial automation software
+           companies."
+
+The more attractive the headlines became,
+
+the more difficult it was for traders to remain patient.
+
+Ethan's hand rested on the mouse,
+
+yet he still did not click.
+
+I asked,
+
+"What do you want to do now?"
+
+"I want to buy."
+
+"Why?"
+
+"Because this breakout looks much stronger than the previous ones.
+
+The trading range has lasted long enough.
+
+Trading Volume is expanding.
+
+If I wait until the close,
+
+the price may already be much higher."
+
+"What is your trading plan?"
+
+He fell silent.
+
+That was the critical moment.
+
+Many people believe they have "found an opportunity"
+
+when all they have really noticed
+
+is that the price is rising.
+
+A genuine trading plan must answer at least these questions:
+
+          Where is the entry?
+          Where is the stop-loss?
+          Where is the target?
+          What is the position size?
+          Under what conditions has the trade failed?
+          If price closes back inside the trading range, what will you do?
+
+
+                                                 - 261 -
+<PARSED TEXT FOR PAGE: 270 / 686>
+Ethan did not answer immediately,
+
+because his emotions had already moved ahead of his plan.
+
+
+
+
+Figure Description:
+
+This figure illustrates price breaking above the upper boundary of a long-term trading range,
+attracting momentum buyers while still remaining only a Breakout Attempt rather than a
+confirmed breakout. Key labels include Resistance, Breakout Attempt, and Need Close
+Confirmation.
+
+
+II. The More Obvious the Breakout, the More Crowded the Trap
+
+By 11:00 a.m.,
+
+VectorMind Systems was up 7% for the day.
+
+The research department held a brief meeting.
+
+The entire industrial software sector was strengthening,
+
+
+
+
+                                              - 262 -
+<PARSED TEXT FOR PAGE: 271 / 686>
+and the portfolio managers wanted to know whether this represented a sector-wide signal worthy
+of increasing exposure.
+
+Ethan was asked to present his view.
+
+Standing in front of the screen, he said,
+
+"Today, VectorMind Systems has broken above the upper boundary of a four-month trading
+range on clearly expanding Trading Volume.
+
+The industrial software sector is also showing broad strength.
+
+For those reasons,
+
+this breakout deserves close attention."
+
+I asked,
+
+"Does it deserve attention—
+
+or does it deserve to be bought?"
+
+He paused.
+
+"At the moment,
+
+the breakout has not yet been confirmed by the close.
+
+So I would say it deserves attention."
+
+That answer was much more mature than before.
+
+Then a young trader spoke up.
+
+"If we wait until the close,
+
+we may never get today's price.
+
+The stock has been building a base for four months.
+
+If this breakout succeeds,
+
+it could immediately develop into a major trend."
+
+The comment was highly persuasive.
+
+Many mistakes inside a trading room happen not because people fail to understand risk,
+
+but because someone says something that sounds perfectly reasonable—
+
+yet encourages impulsive action.
+
+
+
+                                              - 263 -
+<PARSED TEXT FOR PAGE: 272 / 686>
+Ethan glanced at me.
+
+I did not answer for him.
+
+After thinking for a moment,
+
+he replied,
+
+"A trader could initiate a small exploratory position.
+
+But if price falls back inside the trading range,
+
+that must be treated as trade failure.
+
+Just because the breakout appears strong doesn't mean the stop-loss should be ignored."
+
+I nodded.
+
+That was a much more balanced answer.
+
+Aggressive traders may choose to enter early,
+
+provided they acknowledge that they are accepting greater uncertainty.
+
+The question is not whether you are allowed to buy before confirmation.
+
+The real question is whether you are genuinely willing to exit if the trade fails.
+
+Many traders describe a position as an "exploratory trade."
+
+But when the trade goes against them,
+
+that exploratory position somehow becomes a long-term investment.
+
+At the time of entry,
+
+they say,
+
+"If price falls back into the trading range,
+
+I'll sell."
+
+When price actually falls back into the range,
+
+they say,
+
+"I'll wait a little longer.
+
+Maybe it's just a false breakdown."
+
+When it falls further,
+
+
+
+
+                                                 - 264 -
+<PARSED TEXT FOR PAGE: 273 / 686>
+they say,
+
+"The company's fundamentals are still good."
+
+When it drops even more,
+
+they say,
+
+"It should recover over the long term."
+
+That is trading thesis drift.
+
+And false breakouts are especially good at punishing that behavior.
+
+
+
+III. The Afternoon Reversal
+
+At 2:00 p.m.,
+
+the behavior of VectorMind Systems began to change.
+
+Price stopped making further progress.
+
+It repeatedly tested the €74 area.
+
+Trading Volume remained heavy,
+
+yet every attempt to move higher was pushed back.
+
+Ethan frowned.
+
+"Heavy volume without further price progress."
+
+"Explain."
+
+"Trading Volume is very strong,
+
+but price is no longer advancing.
+
+That suggests a large amount of shares is changing hands.
+
+Selling pressure may be increasing."
+
+"Very good."
+
+At 3:00 p.m.,
+
+the stock slipped back to €73.
+
+By 3:30 p.m.,
+
+
+
+
+                                               - 265 -
+<PARSED TEXT FOR PAGE: 274 / 686>
+it had declined to €72.40.
+
+Price was now approaching the upper boundary of the original trading range.
+
+Ethan became visibly nervous.
+
+"If it falls below €72,
+
+that won't be good."
+
+"Why?"
+
+"Because the former Resistance has failed to become Support.
+
+The market has not accepted the breakout."
+
+At 4:15 p.m.,
+
+price fell below €72.
+
+Immediately,
+
+the atmosphere inside the trading room changed.
+
+Earlier in the day,
+
+everyone had been discussing the beginning of a breakout trend.
+
+Now,
+
+they were asking whether it had become a false breakout.
+
+By the closing bell,
+
+VectorMind Systems finished at €71.20.
+
+Trading Volume had expanded dramatically throughout the session.
+
+The daily candlestick closed with a long upper shadow.
+
+Earlier that morning,
+
+the move had looked like a powerful breakout.
+
+By the close, it looked like a classic bull trap.
+
+That is the cruelty of the market.
+
+Just because price looked strong during the day
+
+does not mean it will still look strong by the close.
+
+
+
+
+                                                    - 266 -
+<PARSED TEXT FOR PAGE: 275 / 686>
+Figure Description:
+
+This figure illustrates the complete sequence of a false breakout. Price breaks above the upper
+boundary of the trading range, attracts momentum buyers, then closes back inside the range,
+leaving a long upper shadow and confirming a failed breakout.
+
+
+
+Ethan stared at the closing chart and quietly said,
+
+"If I had bought this morning,
+
+I'd be trapped now."
+
+"Exactly."
+
+"But all the conditions looked so good this morning."
+
+"That is precisely what makes a false breakout so dangerous," I replied.
+
+"It does not look false in the beginning. At first, it usually looks completely real."
+
+IV. Why Do False Breakouts Happen?
+
+
+                                               - 267 -
+<PARSED TEXT FOR PAGE: 276 / 686>
+After the market closed,
+
+I asked Ethan to stay in the conference room.
+
+The daily chart of VectorMind Systems was still displayed on the screen.
+
+I asked him,
+
+"Who lost money today?"
+
+"The traders who chased the breakout."
+
+"And who made money?"
+
+"Perhaps those who bought near the bottom of the trading range,
+
+or those who sold into the breakout."
+
+"Anyone else?"
+
+"Traders who shorted the failed breakout."
+
+I nodded.
+
+False breakouts are not random events.
+
+They follow a very clear pattern of market behavior.
+
+The longer a trading range develops,
+
+the more traders focus on its upper and lower boundaries.
+
+When price breaks above the upper boundary,
+
+breakout traders begin buying.
+
+Short sellers may cover their positions.
+
+Algorithmic trading systems may trigger buy orders.
+
+Financial media begin reporting the breakout.
+
+Short-term traders become afraid of missing the move.
+
+As a result, Trading Volume expands sharply during the breakout.
+
+However, if selling pressure above the market is even stronger,
+
+price cannot continue advancing.
+
+Early buyers use the increased liquidity to take profits.
+
+
+
+
+                                                - 268 -
+<PARSED TEXT FOR PAGE: 277 / 686>
+Trapped investors finally seize the opportunity to exit at breakeven.
+
+Institutional investors may reduce positions into strength.
+
+Momentum traders discover that price is no longer rising,
+
+and they begin selling as well.
+
+Once price falls back below the breakout level,
+
+the traders who chased the breakout are transformed
+
+from buyers
+
+into potential sellers.
+
+That is what makes a false breakout so destructive.
+
+It doesn't merely cause traders to buy at higher prices.
+
+It also creates new selling pressure after the breakout fails.
+
+
+
+
+Figure Description:
+
+
+
+                                                - 269 -
+<PARSED TEXT FOR PAGE: 278 / 686>
+This figure explains the behavioral mechanics behind a false breakout. The breakout attracts
+momentum buyers and short-covering while simultaneously providing liquidity for early
+investors, trapped holders, and institutional sellers. Price ultimately falls back into the trading
+range.
+
+
+Ethan said,
+
+"So the essence of a false breakout is that the buying pressure after the breakout cannot absorb the
+available supply."
+
+"Exactly."
+
+I added,
+
+"That is also why expanding Trading Volume is not automatically bullish.
+
+If volume increases but price fails to continue advancing,
+
+it may simply indicate that the sellers are stronger than the buyers."
+
+Professor's Whiteboard Session
+
+False Breakouts / Failed Breakouts
+
+That evening,
+
+the topic of Ethan's whiteboard lesson was:
+
+False Breakouts and Failed Breakouts.
+
+The first sentence I wrote on the whiteboard was:
+
+           The market rewards patience and punishes impulse.
+
+False breakouts are so common because they target one of investors' greatest psychological
+weaknesses:
+
+The fear of missing out.
+
+When price breaks above an obvious resistance level,
+
+people naturally begin to feel a sense of urgency.
+
+"If I don't buy now,
+
+I'll miss the opportunity."
+
+"If I wait for confirmation,
+
+the price will already be much higher."
+
+
+
+                                                - 270 -
+<PARSED TEXT FOR PAGE: 279 / 686>
+"This breakout looks incredibly strong.
+
+It must be real."
+
+"Trading Volume is expanding.
+
+What else am I waiting for?"
+
+Those thoughts are the perfect fuel for a false breakout.
+
+
+
+I. What Is a False Breakout?
+
+A false breakout occurs when price briefly breaks above a key Resistance level—or below a key
+Support level—but fails to remain outside that structure and eventually returns to the original
+trading range.
+
+An upward false breakout usually displays the following characteristics:
+
+       Price breaks above Resistance.
+       Trading Volume expands.
+       Price rises sharply during the trading session.
+       The rally reverses before the close.
+       Price closes back below the former Resistance level.
+       Subsequent price action returns to the original trading range or chart pattern.
+
+A downward false breakdown usually displays the following characteristics:
+
+       Price breaks below Support.
+       Panic selling is triggered.
+       Buyers quickly absorb the selling pressure.
+       Price closes back above the support area.
+       The subsequent trend resumes higher.
+
+A false breakout does not necessarily lead immediately to a major decline or advance.
+
+However,
+
+it reveals one extremely important fact:
+
+        The market has not accepted the new price after the breakout.
+
+
+
+II. The Difference Between a Valid Breakout and a False Breakout
+
+A valid breakout usually has several characteristics.
+
+
+
+                                              - 271 -
+<PARSED TEXT FOR PAGE: 280 / 686>
+First, the breakout develops from a clearly defined Market Structure.
+
+Second, Trading Volume expands appropriately during the breakout.
+
+Third, price closes firmly above the key breakout level.
+
+Fourth, price does not immediately fall back into the original trading range.
+
+Fifth, when price retests the breakout level,
+
+Trading Volume contracts,
+
+and the key level continues to hold as Support.
+
+A false breakout, on the other hand,
+
+typically shows several warning signs.
+
+First, price fails to continue advancing after the breakout.
+
+Second, Trading Volume expands at the highs,
+
+but price stops making progress.
+
+Third, price closes back below the key breakout level.
+
+Fourth, price quickly returns to the original trading range.
+
+Fifth, traders who chased the breakout become trapped above the breakout level.
+
+
+
+
+                                                - 272 -
+<PARSED TEXT FOR PAGE: 281 / 686>
+Figure Description:
+
+This figure compares a Valid Breakout with a False Breakout. The left panel shows price
+breaking above resistance on expanding Trading Volume, holding above the breakout level, and
+successfully completing a low-volume retest. The right panel shows price breaking above
+resistance before falling back into the trading range and forming a long upper shadow.
+
+
+
+III. Where Do False Breakouts Most Commonly Occur?
+
+False breakouts most frequently appear in several locations.
+
+First, at the upper boundary of a long-term trading range.
+
+Because so many traders are waiting for the breakout,
+
+it naturally attracts aggressive momentum buying.
+
+Second, near significant previous highs.
+
+When price breaks above a historical or major swing high,
+
+
+
+                                              - 273 -
+<PARSED TEXT FOR PAGE: 282 / 686>
+market enthusiasm often accelerates rapidly.
+
+Third, around major round numbers.
+
+Psychological price levels such as 50, 100, and 200 often attract large concentrations of orders.
+
+Fourth, within high-level consolidation areas.
+
+If a stock has already enjoyed a prolonged advance,
+
+a failed breakout near the highs can be particularly dangerous,
+
+because it may signal distribution by larger investors.
+
+Fifth, after news-driven gap breakouts.
+
+Positive news may cause price to gap higher above Resistance.
+
+However,
+
+if price cannot maintain that strength by the close,
+
+it often suggests that the market is using the good news as an opportunity to sell.
+
+
+
+IV. How Can You Reduce the Risk of Being Trapped by a False Breakout?
+
+I gave Ethan five checkpoints.
+
+First, watch the closing price—not just the intraday high.
+
+Second, observe whether price can continue moving away from the breakout level after the
+breakout occurs.
+
+Third, after Trading Volume expands,
+
+determine whether price continues advancing or simply stalls.
+
+Fourth, observe whether the former Resistance level holds as Support during the retest.
+
+Fifth, define the trade failure conditions before entering the position.
+
+
+
+
+                                                 - 274 -
+<PARSED TEXT FOR PAGE: 283 / 686>
+Figure Description:
+
+This figure summarizes a checklist for identifying Failed Breakouts. The left side illustrates a
+failed breakout candlestick pattern, while the right side lists the five evaluation checkpoints.
+
+
+I told Ethan,
+
+"You will never completely avoid false breakouts.
+
+The market will always produce failed signals.
+
+But you can avoid chasing them without a well-defined trading plan."
+
+
+
+V. Three Possible Outcomes After a False Breakout
+
+Once a false breakout occurs,
+
+price generally follows one of three paths.
+
+First, it returns to the original trading range.
+
+
+                                                   - 275 -
+<PARSED TEXT FOR PAGE: 284 / 686>
+This is the most common outcome.
+
+After the breakout fails,
+
+price simply moves back into the range,
+
+and the market continues consolidating without choosing a new direction.
+
+Second, price quickly declines toward the lower boundary of the trading range.
+
+Once breakout buyers become trapped,
+
+selling pressure may rapidly drive price back toward the bottom of the range.
+
+Third, the false breakout develops into a complete trend reversal.
+
+If the false breakout occurs after a prolonged advance,
+
+accompanied by expanding Trading Volume, a long upper shadow, sector weakness, and a
+subsequent breakdown below Support,
+
+it may become the beginning of a major top.
+
+Therefore,
+
+a false breakout is not simply a breakout that failed to continue higher.
+
+Sometimes,
+
+it becomes a reversal signal instead.
+
+
+
+
+                                               - 276 -
+<PARSED TEXT FOR PAGE: 285 / 686>
+Figure Description:
+
+This figure illustrates the three most common outcomes following a False Breakout: a return to
+the trading range, a decline toward the lower boundary of the range, or the beginning of a new
+downward trend.
+
+
+Case Review
+
+Why Was VectorMind Systems a False Breakout?
+
+Now let's return to VectorMind Systems.
+
+Earlier that morning,
+
+it appeared to possess nearly every characteristic of a strong breakout candidate.
+
+       The trading range had developed over a long period.
+       The Resistance level was clearly defined.
+       Price broke above resistance on expanding Trading Volume during the session.
+       The entire sector was showing broad strength.
+       Financial news began supporting the move.
+
+
+                                              - 277 -
+<PARSED TEXT FOR PAGE: 286 / 686>
+       Price surged rapidly intraday.
+
+However,
+
+by the closing bell,
+
+all of the weaknesses had become obvious.
+
+First, price failed to hold above the upper boundary of the trading range.
+
+Second, despite expanding Trading Volume, price failed to continue advancing.
+
+Third, obvious selling pressure emerged near the highs.
+
+Fourth, price closed back inside the trading range.
+
+Fifth, breakout traders became trapped above the breakout level.
+
+Therefore,
+
+this was not a valid breakout.
+
+It was a failed breakout.
+
+If a trader had entered aggressively during the trading session,
+
+what would have been the correct response?
+
+The answer is simple.
+
+If the original reason for entering the trade was the breakout,
+
+then falling back below the breakout level means you must acknowledge that the trade has failed.
+
+Do not turn a breakout trade into a long-term investment.
+
+Do not explain a failed breakout as merely another shakeout.
+
+Do not delay taking action simply because the loss is still small.
+
+And do not ignore Market Structure simply because the news remains optimistic.
+
+The most dangerous mistake in trading is not being wrong.
+
+Being wrong is perfectly normal.
+
+The greatest danger is refusing to admit it.
+
+
+
+Chapter Trading Rules
+
+
+
+
+                                               - 278 -
+<PARSED TEXT FOR PAGE: 287 / 686>
+That day,
+
+I asked Ethan to write down six trading rules.
+
+First, an intraday breakout is not confirmation. A strong close above the breakout level is far
+more important.
+
+Second, after a breakout, price must continue moving away from the key level. Otherwise, remain
+alert for the possibility of a false breakout.
+
+Third, if Trading Volume expands but price stops making progress after the breakout, selling
+pressure above the market may be stronger than it appears.
+
+Fourth, if price falls back into the trading range after the breakout fails, you must immediately
+reassess your original trading thesis.
+
+Fifth, false breakouts occur most frequently at the obvious levels that everyone is watching.
+
+Sixth, before trading any breakout, clearly define the conditions that will invalidate the trade.
+
+Then I added one more sentence.
+
+         A genuine breakout never fears your waiting for confirmation.
+
+         What fears your patience is usually not opportunity—but temptation.
+
+Ethan wrote those words into his notebook with unusual determination.
+
+Later,
+
+he added another sentence beneath them.
+
+         Do not buy the breakout. Buy the acceptance.
+
+         Do not buy the breakout itself. Buy the market's acceptance of the
+         breakout.
+
+That single sentence almost summarized everything he had learned from Chapter One through
+Chapter Thirteen.
+
+
+
+Chapter Summary
+
+In this chapter,
+
+Ethan Carter finally understood the true danger of a false breakout.
+
+The most dangerous thing about a false breakout
+
+is not that it appears weak.
+
+
+                                                 - 279 -
+<PARSED TEXT FOR PAGE: 288 / 686>
+Quite the opposite.
+
+At first,
+
+it usually appears exceptionally strong.
+
+It has:
+
+           A breakout.
+           Expanding Trading Volume.
+           Supportive news.
+           Strong market attention.
+           Fear of missing out.
+
+Yet if price cannot remain above the breakout level,
+
+cannot continue advancing,
+
+and cannot gain the market's acceptance,
+
+the breakout may become nothing more than a trap.
+
+From this chapter onward,
+
+Ethan no longer asked only,
+
+            "Did price break out?"
+
+Instead,
+
+he began asking:
+
+           Has the market accepted the breakout?
+           Did price close firmly above the key level?
+           Did Trading Volume drive continuation—or merely create heavy turnover near the highs?
+           Did the retest successfully hold?
+           Where is my trade invalidation point?
+
+At last,
+
+he understood one of the market's most important lessons:
+
+The market does not reward those who rush in first.
+
+Far more often,
+
+it rewards those who are willing to wait for evidence.
+
+
+
+
+                                              - 280 -
+<PARSED TEXT FOR PAGE: 289 / 686>
+Next Chapter
+
+In the next chapter,
+
+Ethan will encounter an even more dangerous version of the false breakout.
+
+This time,
+
+it will not occur at the upper boundary of a trading range.
+
+Instead,
+
+it will appear after a prolonged advance,
+
+near the very top of the market.
+
+There,
+
+the excitement will be greatest.
+
+The stories will sound the most convincing.
+
+Trading activity will be at its busiest.
+
+And it is precisely there
+
+that the institutions' distribution banquet is about to begin.
+
+
+
+
+                                                - 281 -
