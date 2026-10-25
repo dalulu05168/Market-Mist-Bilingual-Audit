@@ -1,0 +1,1062 @@
+Original Market Mist PDF pages 564–588. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 564 / 686>
+Chapter 25
+Risk-Reward Ratio: Not Every Opportunity Is Worth Trading
+
+
+After Ethan Carter mastered Position Sizing, the mistakes he made became more sophisticated.
+
+In the beginning, he bought because of emotion.
+
+Later, he bought because of chart patterns.
+
+Then he bought because of confirmed Breakouts.
+
+Now he knew how to write a trading plan, calculate a Stop-Loss, and control his position size.
+
+But the market always presents the next challenge the moment you master the previous one.
+
+This time, the lesson was simple:
+
+A trade that looks correct is not necessarily a trade worth taking.
+
+Many investors spend their entire lives without truly understanding that sentence.
+
+They ask only:
+
+        "Will this stock go up?"
+
+        "Is this sector strong?"
+
+        "Is this chart pattern valid?"
+
+        "Is this breakout genuine?"
+
+Those questions are certainly important.
+
+But they are not enough.
+
+Professional traders must also ask:
+
+        "If I'm wrong, how much will I lose?"
+
+        "If I'm right, how much can I make?"
+
+        "Is the potential reward worth the risk I'm taking?"
+
+That is the essence of the Risk-Reward Ratio.
+
+Some opportunities in the market look excellent—but they arrive too late.
+
+The price has already risen substantially.
+
+
+                                               - 556 -
+<PARSED TEXT FOR PAGE: 565 / 686>
+The Stop-Loss is far away.
+
+The next major Resistance level is close.
+
+You might still make a small profit if you buy.
+
+But if the trade fails, the downside is even greater.
+
+Such trades are not impossible to profit from.
+
+They are simply poor bargains.
+
+Ethan did not truly understand this until he studied a European energy storage company.
+
+For the purposes of this book, I will call it Solara Storage Systems.
+
+
+
+I. A Stock That Looked Exceptionally Strong
+
+Solara Storage Systems manufactured industrial-scale energy storage systems, grid balancing
+equipment, and large battery management modules.
+
+Its customers included European utility companies, industrial parks, and renewable energy
+operators.
+
+At that time, investment in Europe's electrical grid had once again become a major market theme.
+
+Renewable energy generation remained volatile.
+
+Electricity demand patterns were changing.
+
+Power consumption from data centers continued rising.
+
+Governments across Europe were accelerating investments in grid modernization.
+
+As a result, companies involved in energy storage and grid equipment began outperforming the
+market.
+
+Solara Storage Systems was one of the strongest stocks in the sector.
+
+The stock had started near €28.
+
+It broke above €34.
+
+Then consolidated.
+
+It broke above €40.
+
+Finally, it surged rapidly to €47.
+
+By the time Ethan noticed it, the chart looked almost perfect.
+
+
+                                                 - 557 -
+<PARSED TEXT FOR PAGE: 566 / 686>
+Price was riding steadily above the 20-Day Moving Average.
+
+Trading Volume expanded during breakouts.
+
+Volume contracted during pullbacks.
+
+The sector ETF continued showing improving Relative Strength.
+
+The company's fundamentals were also supported by a strong order backlog.
+
+Almost every condition he had learned over the past several chapters appeared to be satisfied.
+
+He brought me the chart.
+
+           "Professor, this stock is very strong."
+
+I looked at it briefly.
+
+           "It certainly is."
+
+           "The trend is strong, the sector is strong, Trading Volume looks healthy,
+           and the fundamentals are solid."
+
+           "Correct."
+
+           "It has just broken above another small consolidation."
+
+           "Yes."
+
+As he spoke, his excitement became obvious.
+
+           "I want to buy it."
+
+I asked,
+
+           "Where do you intend to enter?"
+
+           "The current price is €47.20."
+
+           "Where is your Stop-Loss?"
+
+He drew a line on the chart.
+
+           "If it falls back below the consolidation, around €43.80."
+
+           "And where is your target?"
+
+He drew another line.
+
+           "The measured move target is approximately €50 to €51."
+
+
+
+                                               - 558 -
+<PARSED TEXT FOR PAGE: 567 / 686>
+I looked at him.
+
+        "Then calculate the Risk-Reward Ratio."
+
+Ethan picked up his pen.
+
+Entry Price: €47.20
+
+Stop-Loss: €43.80
+
+Risk Per Share: €3.40
+
+Target Price: €51.00
+
+Potential Reward: €3.80
+
+Risk-Reward Ratio:
+
+3.80 ÷ 3.40 = 1.12
+
+After writing the numbers down, he fell silent.
+
+The trade looked excellent.
+
+Yet its Risk-Reward Ratio was only about 1.1 : 1.
+
+In other words, he was risking €1 to pursue only about €1.10 of potential profit.
+
+That was not an outstanding trade.
+
+
+
+
+                                              - 559 -
+<PARSED TEXT FOR PAGE: 568 / 686>
+Figure Description:
+
+This figure illustrates a stock with an attractive chart pattern, strong trend, and healthy sector
+performance. However, because the entry comes too late, the Stop-Loss is relatively far away
+while the upside target is close, resulting in a poor Risk-Reward Ratio.
+
+        "The direction may be correct—but the entry price isn't worth it."
+
+        "That is the central lesson of this chapter."
+
+II. Going Up Does Not Necessarily Mean It Is Worth Buying
+
+Many investors find this idea extremely difficult to accept.
+
+They often say:
+
+        "But it really did go higher afterward."
+
+        "My market direction was correct."
+
+        "If I had bought it, I still would have made money."
+
+
+
+
+                                               - 560 -
+<PARSED TEXT FOR PAGE: 569 / 686>
+All of those statements may be true.
+
+But trading is not about proving afterward that your analysis was correct.
+
+Trading is about deciding before placing the order whether the risk is worth taking.
+
+If a trade offers only a 5% potential gain while exposing you to a 5% loss, you need a very high
+win rate to remain profitable over the long run.
+
+If another trade offers a 10% potential gain with only 3% downside risk, even a moderate win rate
+can produce a profitable trading system.
+
+That is why professional traders do not ask only,
+
+        "Will it go up?"
+
+They also ask:
+
+        "How much drawdown must I accept before the stock reaches my target?"
+
+        "If the trade fails, how much will I lose?"
+
+        "Is the potential reward sufficient to justify the risk?"
+
+        "Is there a better entry price?"
+
+        "If I'm too late now, can I wait for a Pullback?"
+
+Ethan said,
+
+        "So sometimes we pass on an opportunity—not because we're bearish, but
+        because the entry price isn't good enough."
+
+        "Exactly."
+
+        "That's different from Position Sizing."
+
+        "Correct. Position Sizing determines how much you buy. The Risk-
+        Reward Ratio determines whether the trade deserves to be taken in the
+        first place."
+
+He nodded.
+
+That distinction is extremely important.
+
+If a trade has a poor Risk-Reward Ratio, simply reducing your position size does not solve the
+underlying problem.
+
+A smaller position only reduces the size of the potential loss.
+
+
+
+                                               - 561 -
+<PARSED TEXT FOR PAGE: 570 / 686>
+It does not transform a poor trade into a good one.
+
+
+
+
+Figure Description:
+
+This figure illustrates the basic structure of the Risk-Reward Ratio, showing the relationship
+among the Entry Price, Stop-Loss, Target Price, Potential Risk, and Potential Reward.
+
+
+
+III. Late Trades Are Often the Most Dangerous
+
+The most frustrating part for Ethan was that Solara Storage Systems did continue moving higher.
+
+The following day, it rose from €47.20 to €48.10.
+
+On the third day, it reached €49.00.
+
+On the fourth day, it traded as high as €50.30.
+
+Had he bought the stock, he would indeed have made a short-term profit.
+
+But he did not buy it.
+
+
+
+
+                                              - 562 -
+<PARSED TEXT FOR PAGE: 571 / 686>
+He felt a sense of regret.
+
+           "If I had bought it, I'd already be making money."
+
+I asked,
+
+           "Where would you sell?"
+
+He replied,
+
+           "Around €51."
+
+           "And what if it never reaches €51 but suddenly reverses?"
+
+He did not answer immediately.
+
+I continued.
+
+           "Would you still execute your Stop-Loss if it fell back to €43.80?"
+
+           "Yes."
+
+           "Then you're risking €3.40 simply to make about €3 to €4. Do you believe
+           a system built on trades like that will perform well over the long run?"
+
+He shook his head.
+
+           "No."
+
+That is the trap of entering too late.
+
+The stock has already advanced significantly from its lows.
+
+The chart pattern has become obvious to everyone.
+
+The financial media has begun talking about it.
+
+Sector sentiment has turned increasingly bullish.
+
+Only then do you finally become convinced that the stock is strong.
+
+But precisely because your confirmation comes so late, the attractive Risk-Reward Ratio has
+already disappeared.
+
+Many traders buy during the final stage of a move not because they lack intelligence.
+
+They do it because by the time all the evidence becomes overwhelmingly clear, the price has
+already traveled a long way.
+
+There is a harsh reality in the market:
+
+
+
+                                              - 563 -
+<PARSED TEXT FOR PAGE: 572 / 686>
+The more evidence you have, the higher the price usually is.
+
+And the higher the price becomes, the worse the Risk-Reward Ratio often gets.
+
+Professional traders therefore seek a balance between confirmation and price.
+
+Earlier is not always better.
+
+Later is not always safer.
+
+The best trades usually occur when:
+
+The evidence is sufficiently convincing, yet the price remains close to a logical risk level.
+
+
+
+
+Figure Description:
+
+This figure demonstrates how entering too late destroys the Risk-Reward Ratio. An early entry
+after a successful pullback provides favorable risk versus reward, while chasing an extended
+breakout leaves limited upside and significantly greater downside risk.
+
+        "The same stock can become a completely different trade simply because
+        of the entry price."
+
+        "Exactly."
+
+
+
+
+                                               - 564 -
+<PARSED TEXT FOR PAGE: 573 / 686>
+        "So the quality of a trade isn't determined by the stock's name. It's
+        determined by the relationship among price, risk, and reward."
+
+        "Excellent."
+
+IV. A Measured Move Is Not a Crystal Ball
+
+Ethan asked,
+
+        "How do we determine the target price? If I simply set a higher target,
+        wouldn't the Risk-Reward Ratio improve?"
+
+That is one of the most common mistakes investors make.
+
+Many traders artificially raise their target prices simply to make a trade appear more attractive.
+
+Suppose the reasonable target is €51.
+
+If the Risk-Reward Ratio does not look attractive enough, they suddenly claim the target should
+be €55.
+
+If that still isn't enough, they stretch it to €60 and call it a long-term objective.
+
+Doing so serves no purpose.
+
+A target price is not meant to make a trade look better.
+
+It must be based on objective analysis.
+
+There are three common methods for establishing a price target.
+
+First: A previous Resistance zone.
+
+Second: A Measured Move derived from the chart pattern.
+
+Third: Ongoing trend management within a continuing trend.
+
+Why was €50–€51 the appropriate target for Solara Storage Systems?
+
+Because the stock had previously encountered a significant area of heavy trading activity there,
+and the measured move from its most recent consolidation projected into roughly the same price
+zone.
+
+Without another breakout or a fresh consolidation, simply increasing the target to €60 in order to
+improve the Risk-Reward Ratio is not analysis.
+
+It is wishful thinking.
+
+I told Ethan,
+
+
+
+
+                                                 - 565 -
+<PARSED TEXT FOR PAGE: 574 / 686>
+        "A Risk-Reward Ratio must be built on realistic price targets. You cannot
+        simply raise the target to make the trade appear more attractive."
+
+
+
+
+Figure Description:
+
+This figure explains the purpose of a Measured Move. It shows the height of a trading range
+projected upward to estimate a target zone while emphasizing that a measured move is an
+analytical estimate—not wishful thinking.
+
+        "So the target price must also be tied to the chart pattern."
+
+        "Exactly."
+
+        "The Stop-Loss marks where the trading thesis becomes invalid. The
+        target marks where the chart structure suggests price may reasonably
+        reach."
+
+        "Very good."
+
+That was a complete answer.
+
+A Stop-Loss cannot be placed arbitrarily.
+
+
+
+                                             - 566 -
+<PARSED TEXT FOR PAGE: 575 / 686>
+A target cannot be raised arbitrarily.
+
+An entry cannot be chased arbitrarily.
+
+Together, those three elements determine whether a trade is worth taking.
+
+
+
+V. Another Stock That Was Much Quieter
+
+During the same week, another stock was trading in the market.
+
+It attracted far less attention than Solara Storage Systems.
+
+For the purposes of this book, I will call it Nordic Grid Controls.
+
+Nordic Grid Controls was a small company specializing in grid control software and industrial
+sensors.
+
+Its business also benefited from grid modernization, but it received far less market attention than
+Solara.
+
+At first, Ethan was not interested in it.
+
+         "It hasn't risen nearly as much as Solara."
+
+I replied,
+
+         "Look at the chart."
+
+Nordic Grid Controls had also formed a trading range.
+
+Support was around €22.
+
+Resistance was near €26.
+
+The consolidation had lasted eight weeks.
+
+Trading Volume gradually contracted.
+
+Relative Strength had begun improving.
+
+The sector trend remained supportive.
+
+That day, the stock had just closed above €26.20.
+
+If the entry price were €26.20, with a Stop-Loss below €24.80, the risk per share would be
+approximately €1.40.
+
+The height of the trading range was €4.
+
+
+
+
+                                               - 567 -
+<PARSED TEXT FOR PAGE: 576 / 686>
+Projecting that distance upward after the breakout produced a target of approximately:
+
+€26 + €4 = €30
+
+The potential reward was therefore approximately €3.80.
+
+The Risk-Reward Ratio became:
+
+3.80 ÷ 1.40 = 2.71
+
+This was a trade with a Risk-Reward Ratio of nearly 1 : 2.7.
+
+It did not appear as exciting as Solara.
+
+But it offered a much better bargain.
+
+Ethan looked at both charts.
+
+Solara: Strong, popular—but the entry came too late.
+
+Nordic Grid: Quieter, just breaking out, with a nearby Stop-Loss and substantial upside potential.
+
+He said,
+
+        "Emotionally, I still want to buy Solara. But my trading system clearly
+        favors Nordic Grid."
+
+        "That is the difference between a trader and emotion."
+
+
+
+
+                                             - 568 -
+<PARSED TEXT FOR PAGE: 577 / 686>
+Figure Description:
+
+This figure illustrates a trade with a superior Risk-Reward Ratio. Price has just broken out from a
+trading range, the Stop-Loss is relatively close, the measured move offers substantial upside
+potential, and the Risk-Reward Ratio exceeds 1:2.5.
+
+
+Not because the stock is guaranteed to rise.
+
+But because if the trade fails, the loss is clearly defined.
+
+And if it succeeds, the potential reward is sufficient to justify the risk.
+
+That is the true value of the Risk-Reward Ratio.
+
+It cannot guarantee profits.
+
+But it helps you avoid taking trades that are fundamentally poor bargains over the long run.
+
+
+
+Professor's Whiteboard Session
+
+Measured Move and the Risk-Reward Model
+
+That evening, the topic of my whiteboard lesson with Ethan was:
+
+
+                                                 - 569 -
+<PARSED TEXT FOR PAGE: 578 / 686>
+Measured Moves and the Risk-Reward Model.
+
+The first sentence I wrote on the board was:
+
+        Trading is not about finding reasons why price might rise. It is about
+        finding risks that are worth taking.
+
+Many investors know how to analyze opportunities.
+
+Very few know how to analyze price.
+
+They can list countless bullish arguments:
+
+The industry is strong.
+
+The company is strong.
+
+The trend is strong.
+
+The chart pattern is strong.
+
+Capital inflows are strong.
+
+But ask them:
+
+        Where is your entry?
+
+        Where is your Stop-Loss?
+
+        Where is your target?
+
+        What is your Risk-Reward Ratio?
+
+And many of them have no answer.
+
+A trade without a Risk-Reward Ratio is simply risk without proper pricing.
+
+I. What Is the Risk-Reward Ratio?
+
+The Risk-Reward Ratio measures the relationship between a trade's potential profit and its
+potential loss.
+
+The formula is straightforward:
+
+Risk-Reward Ratio = Potential Reward ÷ Potential Risk
+
+Potential Risk = Entry Price − Stop-Loss
+
+Potential Reward = Target Price − Entry Price
+
+For example:
+
+
+
+                                               - 570 -
+<PARSED TEXT FOR PAGE: 579 / 686>
+Entry Price: €26.00
+
+Stop-Loss: €24.50
+
+Target Price: €30.50
+
+Potential Risk: €1.50
+
+Potential Reward: €4.50
+
+The Risk-Reward Ratio is therefore:
+
+4.50 ÷ 1.50 = 3
+
+Or expressed another way:
+
+1:3
+
+This means you are willing to risk one unit in pursuit of three units of potential reward.
+
+
+
+
+Figure Description:
+
+This figure illustrates the Risk-Reward Ratio formula using a simple price chart that highlights
+the Entry Price, Stop-Loss, Target Price, Potential Risk, and Potential Reward.
+
+
+                                               - 571 -
+<PARSED TEXT FOR PAGE: 580 / 686>
+II. Why Is the Risk-Reward Ratio So Important?
+
+Because you will never win every trade.
+
+Every trading system experiences losses.
+
+The purpose of the Risk-Reward Ratio is to allow you to maintain a long-term edge without
+requiring an extremely high win rate.
+
+Assume every trade risks one unit.
+
+If your average Risk-Reward Ratio is 1 : 3, then every winning trade earns three units, while
+every losing trade costs only one unit.
+
+Even if you win only 40% of your trades, you may still achieve positive long-term results.
+
+However, if your Risk-Reward Ratio is only 1 : 1, you need a much higher win rate to remain
+consistently profitable.
+
+If your Risk-Reward Ratio falls below 1 : 1, maintaining profitability may require an
+exceptionally high win rate, placing tremendous pressure on your trading system.
+
+That is why trading is not determined solely by your win rate.
+
+It also depends on your payoff ratio.
+
+Your win rate tells you how often you are right.
+
+Your payoff ratio tells you how much you earn when you are right—and how much you lose
+when you are wrong.
+
+Long-term performance is the product of both.
+
+
+
+
+                                             - 572 -
+<PARSED TEXT FOR PAGE: 581 / 686>
+Figure Description:
+
+This figure illustrates the relationship between Win Rate and Risk-Reward Ratio, demonstrating
+that a higher Risk-Reward Ratio reduces dependence on a high win rate, while a lower Risk-
+Reward Ratio requires a much higher win rate to remain profitable.
+
+
+
+III. Where Do Measured Move Targets Come From?
+
+A Measured Move is a method of estimating a stock's potential price objective based on its chart
+structure.
+
+Common methods include:
+
+1. Trading Range Measured Move
+
+Measure the height of the trading range:
+
+Height = Resistance − Support
+
+After a confirmed Breakout, project that height upward from the breakout level.
+
+For example:
+
+Support: €22
+
+
+                                             - 573 -
+<PARSED TEXT FOR PAGE: 582 / 686>
+Resistance: €26
+
+Height: €4
+
+Projected upside target after the breakout:
+
+Approximately €30
+
+2. Flag Pattern Measured Move
+
+For a Bull Flag, project the height of the flagpole upward.
+
+For a Bear Flag, project the height of the flagpole downward.
+
+3. Double Bottom or Inverse Head and Shoulders
+
+Measure the distance from the lowest point to the Neckline, then project that distance upward
+from the breakout.
+
+4. Double Top or Triple Top
+
+Measure the distance from the top of the pattern to the Neckline, then project that distance
+downward after the breakdown.
+
+A Measured Move is not a prediction.
+
+It is simply a practical method for estimating potential price movement and evaluating whether
+the resulting Risk-Reward Ratio is attractive.
+
+
+
+
+                                              - 574 -
+<PARSED TEXT FOR PAGE: 583 / 686>
+Figure Description:
+
+This figure summarizes four common Measured Move techniques: Trading Range, Bull Flag,
+Double Bottom, and Double Top. Each example illustrates how the height of the pattern is
+measured and projected to estimate a potential price target.
+
+
+
+IV. The Minimum Standard for a Good Risk-Reward Ratio
+
+Different trading strategies require different Risk-Reward Ratios.
+
+However, for most swing trading strategies, I expected Ethan to pursue at least:
+
+1:2
+
+In other words, the potential reward should be at least twice the potential risk.
+
+Even better opportunities should approach:
+
+1:3
+
+At the same time, I reminded him of something equally important.
+
+
+                                               - 575 -
+<PARSED TEXT FOR PAGE: 584 / 686>
+Never become mechanically obsessed with numbers.
+
+Some high-probability strategies can justify a lower Risk-Reward Ratio.
+
+Some lower-probability breakout strategies require a much higher one.
+
+When market conditions deteriorate, your standards should become more demanding.
+
+When market conditions are exceptionally strong, you may allow yourself slightly more
+flexibility.
+
+But regardless of the environment, trades with a Risk-Reward Ratio below 1 : 1 are generally not
+worth taking—
+
+unless you have an unusually specialized system with an exceptionally high win rate.
+
+Ethan asked,
+
+         "What if a trade only offers a Risk-Reward Ratio of 1.2, but I'm extremely
+         bullish on it?"
+
+I replied,
+
+         "Then wait for a better price."
+
+         "What if the opportunity never comes?"
+
+         "Then let it go."
+
+He frowned.
+
+I continued.
+
+         "Missing a trade is not a loss. Taking a trade that isn't worth the risk is
+         what turns into a loss."
+
+
+
+V. The Risk-Reward Ratio Changes as Price Changes
+
+The Risk-Reward Ratio is never fixed.
+
+The very same stock can offer completely different Risk-Reward Ratios at different prices.
+
+Buying near Support usually provides a nearby Stop-Loss and a more distant target, creating an
+attractive Risk-Reward Ratio.
+
+Buying after a confirmed Breakout may still offer a reasonable balance.
+
+Chasing an extended move, however, often causes the Risk-Reward Ratio to deteriorate rapidly.
+
+
+
+                                             - 576 -
+<PARSED TEXT FOR PAGE: 585 / 686>
+That is why every meaningful price change requires you to recalculate the trade.
+
+A stock that represented an excellent opportunity yesterday is not automatically an excellent
+opportunity today.
+
+Solara Storage Systems illustrates this perfectly.
+
+When it first broke above its small consolidation and successfully completed its Retest, the Risk-
+Reward Ratio may have been highly attractive.
+
+But by the time Ethan noticed it, the price had already approached its measured move target.
+
+Buying at that stage simply no longer offered favorable odds.
+
+
+
+
+Figure Description:
+
+This figure demonstrates how the Risk-Reward Ratio changes depending on the entry price for
+the same stock. Buying near the lows, buying on the breakout, and chasing an extended move
+each produce dramatically different risk and reward profiles.
+
+Case Review
+
+What Was the Difference Between Solara and Nordic Grid?
+
+
+
+                                               - 577 -
+<PARSED TEXT FOR PAGE: 586 / 686>
+Now let's return to Solara Storage Systems and Nordic Grid Controls.
+
+These two examples are ideal for comparison.
+
+Solara was the stronger stock.
+
+It was more popular.
+
+It generated far more media attention.
+
+Its trend was more obvious.
+
+But by the time Ethan noticed it, the stock was already approaching its short-term target zone.
+
+Its Stop-Loss was relatively far away, while its remaining upside was limited.
+
+The resulting Risk-Reward Ratio was only about 1.1 : 1.
+
+That does not mean Solara would fail to rise.
+
+In fact, it did continue moving higher afterward.
+
+But as a new trade, it was no longer attractive.
+
+Nordic Grid Controls was far less popular.
+
+Yet it had just broken out of an eight-week trading range.
+
+Its Stop-Loss was clearly defined.
+
+Its measured move target offered substantial upside.
+
+The potential reward was approximately €3.80, while the potential risk was only about €1.40,
+producing a Risk-Reward Ratio of nearly 1 : 2.7.
+
+That trade was not guaranteed to succeed either.
+
+But it offered a far more attractive balance between risk and reward.
+
+In the end, Ethan chose not the strongest stock—
+
+but the trade with the more favorable Risk-Reward Ratio.
+
+That decision demonstrated that he had finally begun to understand something essential:
+
+The best opportunities in the market are not always the ones attracting the most attention.
+
+
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down seven rules.
+
+
+
+                                                - 578 -
+<PARSED TEXT FOR PAGE: 587 / 686>
+Rule 1: A stock that is likely to rise is not automatically worth buying. The Entry Price
+determines the Risk-Reward Ratio.
+
+Rule 2: Before placing every trade, clearly define your Entry Price, Stop-Loss, and Target Price.
+
+Rule 3: Risk-Reward Ratio = Potential Reward ÷ Potential Risk.
+
+Rule 4: Every measured move target must be based on Market Structure. Never inflate a target
+simply to improve the appearance of a trade.
+
+Rule 5: For most swing trades, pursue a minimum Risk-Reward Ratio of 1 : 2.
+
+Rule 6: The same stock can evolve from an excellent trade into a poor one simply because the
+price has changed.
+
+Rule 7: Passing on a trade with poor risk-reward characteristics is not a loss—it is discipline.
+
+Then I added one more sentence.
+
+        Investing is not about finding every asset that will rise. It is about selecting
+        the opportunities that are worth the risk.
+
+Ethan copied the sentence into his notebook.
+
+Then he added one of his own.
+
+        A good stock is not always a good trade.
+
+A good stock is not always a good trade.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter finally developed a true understanding of the Risk-Reward Ratio.
+
+He realized that a trade cannot be evaluated solely by:
+
+       Market direction.
+       Chart patterns.
+       Company fundamentals.
+       The strength of the trend.
+
+To determine whether a trade is truly worth taking, he must evaluate all of the following together:
+
+       Entry Price
+       Stop-Loss
+       Target Price
+       Potential Risk
+
+
+
+                                               - 579 -
+<PARSED TEXT FOR PAGE: 588 / 686>
+       Potential Reward
+       Risk-Reward Ratio
+
+From this chapter onward, Ethan no longer felt compelled to buy a stock simply because it looked
+strong.
+
+Instead, he first asked himself:
+
+Am I entering too early, at the right time, or too late?
+
+Where is my Stop-Loss?
+
+Is my target realistic?
+
+Does the potential reward adequately compensate for the risk?
+
+Is there a better entry opportunity?
+
+If the Risk-Reward Ratio isn't attractive enough, am I willing to walk away?
+
+These questions completed another critical piece of his trading system.
+
+At last, he began to understand that mature investors do not participate in every opportunity.
+
+They participate only in opportunities where risk, reward, and planning are all aligned.
+
+In the next chapter, Ethan will begin integrating everything he has learned so far.
+
+Fundamental Analysis.
+
+Technical Analysis.
+
+Capital Flow Analysis.
+
+Market Sentiment Analysis.
+
+He will learn how to combine them into a complete Four-Dimensional Analysis Framework.
+
+
+
+
+                                                - 580 -

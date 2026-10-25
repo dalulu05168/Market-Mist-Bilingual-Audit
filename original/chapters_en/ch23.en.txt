@@ -1,0 +1,962 @@
+Original Market Mist PDF pages 514–536. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 514 / 686>
+Chapter 23
+Stop-Loss Is Not Defeat: It Is an Investor's Seat Belt
+Many investors claim they always use Stop-Losses.
+
+But when the moment finally arrives to execute one, they suddenly become remarkably patient.
+
+Before entering a trade, they say:
+
+        "If it breaks below this level, I'll get out."
+
+After buying, when price actually breaks below that level, they begin saying:
+
+        "Let's wait a little longer. It could just be a False Breakdown."
+
+        "The overall market is weak today. That doesn't count."
+
+        "The company's fundamentals haven't changed."
+
+        "I'm investing for the long term anyway."
+
+        "It's only a small loss. It'll recover eventually."
+
+As a result, what could have remained a small, controlled loss gradually turns into a devastating
+one.
+
+The most expensive mistake in the market is not being wrong.
+
+Being wrong is perfectly normal.
+
+The most expensive mistake is refusing to admit you are wrong.
+
+Ethan Carter did not truly learn how to use a Stop-Loss during his biggest losing trade.
+
+Quite the opposite.
+
+He learned it during a trade that lost only a very small amount.
+
+There was nothing dramatic about that trade.
+
+Nothing exciting.
+
+It made no profit.
+
+Yet it taught him something for the first time.
+
+A Stop-Loss is not failure.
+
+A Stop-Loss is what allows you to stay in the game long enough to participate in the next
+opportunity.
+
+
+
+                                                  - 506 -
+<PARSED TEXT FOR PAGE: 515 / 686>
+I. A Trade That Looked Almost Perfect
+
+The stock was one I will refer to as Vega Cloud Infrastructure.
+
+Vega Cloud Infrastructure was a European provider of cloud infrastructure services, specializing
+in enterprise cloud hosting, hybrid cloud deployment, data backup security, and edge computing
+solutions.
+
+It was not the market's most glamorous cloud computing company, but it had a stable business
+model. Most of its clients were medium-sized and large enterprises, and a significant portion of
+its revenue came from long-term contracts and subscription services.
+
+At that time, institutional capital had begun returning to the cloud infrastructure sector.
+
+There were three primary reasons.
+
+Corporate IT spending was increasing again.
+
+Artificial intelligence applications were driving demand for computing power and data storage.
+
+And after a prolonged correction, valuations across several cloud service providers had become
+far more reasonable.
+
+The chart of Vega Cloud was equally attractive.
+
+Following a prolonged decline, the stock spent seven weeks consolidating between €42 and €48.
+
+Trading Volume gradually contracted.
+
+The 20-Day Moving Average flattened out.
+
+The 50-Day Moving Average stopped declining.
+
+The sector ETF was outperforming the broader market.
+
+Everything suggested that the stock was preparing for a Breakout from a trading range.
+
+Ethan added it to his Watchlist.
+
+This time, he did not act impulsively.
+
+Instead, he completed the trading plan template we had discussed in the previous chapter.
+
+Trade Thesis:
+The cloud infrastructure sector is strengthening, and Vega Cloud has formed a seven-week
+trading range with clearly defined Resistance at €48.
+
+Confirmation Signal:
+A daily close above €48, accompanied by Trading Volume above the 20-day average.
+
+
+
+
+                                               - 507 -
+<PARSED TEXT FOR PAGE: 516 / 686>
+Entry Method:
+Initiate a small position after the confirmed close above resistance. Consider adding to the
+position only if price successfully retests €48 and holds.
+
+Stop-Loss:
+If price falls back below €48 and breaks below the breakout day's low, the breakout is considered
+invalid.
+
+Maximum Risk:
+0.7% of total account capital.
+
+First Target:
+€52
+
+Second Target:
+The measured move projection from the trading range, approximately €54.
+
+After reading his plan, I said,
+
+        "This is a well-prepared trading plan."
+
+Ethan smiled.
+
+        "For once, you didn't criticize it first."
+
+        "Don't be so sure," I replied. "The market will criticize it for me."
+
+At the time, he thought I was joking.
+
+The market soon proved otherwise.
+
+
+
+
+                                                 - 508 -
+<PARSED TEXT FOR PAGE: 517 / 686>
+Figure Description:
+
+This figure explains the true meaning of a Stop-Loss. A stop-loss is neither an act of fear nor an
+admission of failure. It is the decision to exit when the market proves that the original trading
+thesis is no longer valid.
+
+
+II. A Successful Breakout That Failed Almost Immediately
+
+On Wednesday, Vega Cloud broke above €48 on strong Trading Volume.
+
+It was an impressive breakout.
+
+The stock moved above €48 during the morning session.
+
+It held above that level throughout the afternoon.
+
+It closed at €49.10.
+
+Trading Volume finished approximately 50% above its 20-day average.
+
+Following his trading plan, Ethan entered the position.
+
+His position size was modest.
+
+He did not add to the trade because he was still waiting for a successful Retest.
+
+
+                                              - 509 -
+<PARSED TEXT FOR PAGE: 518 / 686>
+The next day, the stock continued higher, reaching €49.80.
+
+Everything appeared to be unfolding exactly as planned.
+
+Ethan remained calm and disciplined.
+
+But on the third day, the overall market weakened.
+
+The technology sector pulled back, and several cloud computing companies declined
+simultaneously.
+
+Vega Cloud opened lower and quickly fell back to €48.40.
+
+Ethan looked at his trading plan.
+
+        "It's still above €48."
+
+        "Correct."
+
+At 11:00 a.m., the stock slipped to €48.05.
+
+During the afternoon session, it finally fell below €48.
+
+But an intraday move below support does not automatically confirm a failed breakout.
+
+Ethan already understood that.
+
+He did not rush to sell.
+
+Instead, he waited for the closing price.
+
+During the final thirty minutes of trading, Vega Cloud failed to reclaim €48.
+
+Instead, it declined further to €47.60.
+
+More importantly, it broke below the low of the breakout day.
+
+Trading Volume expanded noticeably.
+
+His trading plan had stated this very clearly:
+
+        If price falls back below €48 and breaks below the breakout day's low, the
+        breakout has failed.
+
+Now every condition had been met.
+
+He had to sell.
+
+But when the moment finally arrived, he hesitated.
+
+His mouse hovered over the Sell button.
+
+
+
+                                                 - 510 -
+<PARSED TEXT FOR PAGE: 519 / 686>
+         "Maybe it's just the overall market pulling back," he said.
+
+I remained silent.
+
+He continued.
+
+         "The company's fundamentals haven't changed."
+
+I still said nothing.
+
+Then he added,
+
+         "The loss isn't very big. Should I give it one more day?"
+
+I looked at him.
+
+         "Are you analyzing the market—or are you pleading with it?"
+
+That question stopped him immediately.
+
+He lowered his head and looked back at his trading plan.
+
+Then he sold.
+
+The loss was very small.
+
+His account declined by approximately 0.7%, exactly as planned.
+
+But he did not look relieved.
+
+Because executing a Stop-Loss never feels comfortable.
+
+Even a very small loss is emotionally unpleasant.
+
+The hardest part of using a Stop-Loss is not the technical analysis.
+
+It is being willing to admit with your own hand:
+
+         This time, I was wrong.
+
+
+
+
+                                               - 511 -
+<PARSED TEXT FOR PAGE: 520 / 686>
+Figure Description:
+
+This figure illustrates the execution of a Stop-Loss after a failed breakout. Within two trading
+days of breaking above Resistance, price falls back below the breakout level, breaks below the
+low of the breakout day, and triggers the planned stop-loss.
+
+
+
+III. The Hardest Part Comes After the Stop-Loss
+
+The following day, Vega Cloud rebounded.
+
+This is one of the market's favorite psychological traps.
+
+The day after Ethan exited the trade, Vega Cloud rallied from €47.40 to €48.20.
+
+Although it still failed to reclaim the breakout level, the stock had undeniably moved higher.
+
+Ethan stared at the screen.
+
+His expression darkened.
+
+           "If I hadn't sold yesterday, my loss would already be smaller."
+
+I asked,
+
+
+
+                                                - 512 -
+<PARSED TEXT FOR PAGE: 521 / 686>
+        "So... do you regret selling?"
+
+He did not answer immediately.
+
+After a long pause, he finally replied,
+
+        "A little."
+
+        "That's perfectly normal."
+
+Watching a stock rebound immediately after your Stop-Loss is one of the toughest psychological
+tests every trader faces.
+
+You begin believing you sold too early.
+
+You start wondering whether your Stop-Loss was too strict.
+
+You feel tempted to buy the stock again.
+
+And you gradually forget why the stop-loss was triggered in the first place.
+
+Then I told Ethan,
+
+        "You cannot judge whether a stop-loss was correct simply by looking at what the
+        stock does the next day."
+
+He looked at me.
+
+I continued.
+
+        "The only correct way to judge a stop-loss is whether it followed your trading
+        plan."
+
+The original thesis for Vega Cloud was a Breakout from a trading range.
+
+The stock fell back into the range.
+
+It also broke below the low of the breakout day.
+
+That meant the breakout had failed.
+
+As long as that trading logic remained true, executing the Stop-Loss was the correct decision.
+
+Even if the stock rebounded the next day, that did not prove the previous day's stop-loss was a
+mistake.
+
+Because the rebound itself might simply become a failed retest.
+
+The real questions were:
+
+Could price reclaim €48?
+
+
+
+                                              - 513 -
+<PARSED TEXT FOR PAGE: 522 / 686>
+Could it recover with expanding Trading Volume?
+
+Could it break out again and earn genuine market acceptance?
+
+If not, yesterday's stop-loss had done exactly what it was supposed to do.
+
+It had protected his capital.
+
+
+
+
+Figure Description:
+
+This figure shows price staging a brief rebound after a stop-loss but failing to reclaim the original
+breakout level. It emphasizes that the correctness of a stop-loss should never be judged by the
+stock's movement on the following day.
+
+
+As it turned out, Vega Cloud declined again on the third day.
+
+This time, it fell to €46.20.
+
+On the fourth day, it continued lower to €45.00.
+
+
+
+
+                                               - 514 -
+<PARSED TEXT FOR PAGE: 523 / 686>
+On the fifth day, although the overall market rebounded, Vega Cloud recovered only to €46.50,
+still well below the original breakout level.
+
+Looking at the chart, Ethan finally let out a sigh of relief.
+
+        "If I hadn't taken the stop-loss, my loss would be much larger now."
+
+        "Exactly."
+
+        "And I probably would have kept inventing reasons to continue holding it."
+
+        "That is the greatest risk of all."
+
+Many investors do not lose because of their first losing trade.
+
+They lose because of the explanations they create afterward.
+
+They refuse to accept a Stop-Loss, so they are forced to invent a new justification.
+
+At first, it was a Breakout Trade.
+
+After the breakout failed, it suddenly became a long-term investment.
+
+As the stock continued falling, it transformed into a value investment.
+
+When it declined even further, it became a position they were simply waiting to "get back to
+breakeven."
+
+Step by step, the original trading thesis became completely distorted.
+
+Eventually, they were no longer managing a position.
+
+They were managing their emotions.
+
+IV. The Difference Between a Normal Pullback and a Failed Pattern
+
+Ethan asked a very important question.
+
+        "How can I tell the difference between a normal pullback and a failed pattern?"
+
+Every trader must answer that question.
+
+Because if your Stop-Loss is too loose, your losses become unnecessarily large.
+
+If it is too tight, ordinary market fluctuations will force you out of perfectly good trades.
+
+I drew two charts on the whiteboard.
+
+The chart on the left showed a healthy pullback.
+
+After breaking above €48, price pulled back on lighter Trading Volume.
+
+
+
+                                                - 515 -
+<PARSED TEXT FOR PAGE: 524 / 686>
+The decline stopped near €48.
+
+The stock closed back above the breakout level and then resumed its advance.
+
+The chart on the right showed a failed breakout.
+
+After breaking above €48, price fell back below the breakout level.
+
+Trading Volume expanded.
+
+The stock broke below the low of the breakout day.
+
+Its subsequent attempt to reclaim €48 failed.
+
+The two charts differed by only a few candlesticks.
+
+Yet their meanings were completely different.
+
+The defining characteristic of a healthy pullback is this:
+
+A key price level is tested—but it successfully holds.
+
+The defining characteristic of a failed pattern is this:
+
+A key price level is lost, and the market cannot reclaim it.
+
+
+
+
+                                                - 516 -
+<PARSED TEXT FOR PAGE: 525 / 686>
+Figure Description:
+
+This figure compares a healthy pullback with a failed pattern. The left panel shows price
+successfully retesting the breakout level on lighter Trading Volume before continuing higher. The
+right panel shows price falling back into the trading range on expanding volume and failing to
+reclaim the breakout level.
+
+
+
+I told Ethan,
+
+        "A Stop-Loss is not triggered simply because price declines. It is triggered
+        because the reason you entered the trade has been invalidated."
+
+If you entered on a Breakout, then falling back below the breakout level becomes your warning
+signal.
+
+If you entered on a Pullback, then breaking below the pullback low becomes your warning signal.
+
+If you entered on a Bull Flag Breakout, then falling back inside the flag becomes your warning
+signal.
+
+
+
+
+                                              - 517 -
+<PARSED TEXT FOR PAGE: 526 / 686>
+If you entered on a Double Bottom Breakout, then falling back below the Neckline becomes your
+warning signal.
+
+If you entered during a pullback within an uptrend, then breaking the trend structure and the key
+Moving Averages becomes your warning signal.
+
+Your Stop-Loss must always correspond to the reason you entered the trade.
+
+A stop-loss that is unrelated to your trading thesis is nothing more than a random exit.
+
+Random stop-losses will repeatedly shake you out of good trades.
+
+But trading without any stop-loss at all allows a single mistake to drag your account into disaster.
+
+
+
+Professor's Whiteboard Session
+
+Failed Pattern and Stop-Loss Execution
+
+That evening, the topic of my whiteboard lesson with Ethan was:
+
+Failed Patterns and Stop-Loss Execution.
+
+The first sentence I wrote on the board was:
+
+        A Stop-Loss is not about predicting the future. It is about recognizing that your
+        current trading thesis is no longer valid.
+
+Many traders misunderstand the purpose of a Stop-Loss.
+
+They believe using one means:
+
+        "I don't think this stock will ever go higher."
+
+        "I'm admitting the company is no good."
+
+        "I'm admitting that I failed."
+
+        "I'm turning a paper loss into a real loss."
+
+None of those interpretations is correct.
+
+A Stop-Loss means only one thing.
+
+The reason you entered the trade has been proven invalid by the market.
+
+Whether the stock eventually rises in the future is an entirely different question from whether this
+particular trade should still be held.
+
+
+
+
+                                               - 518 -
+<PARSED TEXT FOR PAGE: 527 / 686>
+I. What Is a Failed Pattern?
+
+A failed pattern occurs when price fails to move in the direction implied by the chart pattern and
+instead returns to—or breaks through—the pattern's critical price levels, invalidating the original
+trading thesis.
+
+Common examples include:
+
+       A breakout from a trading range that falls back into the range.
+       A breakout above a Neckline that fails and drops back below it.
+       A Bull Flag Breakout that falls back inside the flag.
+       A Double Bottom Breakout that breaks back below the Neckline.
+       An Inverse Head and Shoulders breakout that falls back below the Neckline.
+       A Double Top Breakdown that quickly recovers back above the Neckline.
+
+A failed pattern is not an ordinary price fluctuation.
+
+It is the invalidation of a critical Market Structure.
+
+Therefore, before entering any trade, you must already know:
+
+Where is the confirmation level?
+
+Where is the invalidation level?
+
+Which movements are merely normal price fluctuations?
+
+And at what point must you exit?
+
+
+
+
+                                                - 519 -
+<PARSED TEXT FOR PAGE: 528 / 686>
+Figure Description:
+
+This figure summarizes the common invalidation levels for major chart patterns, including failed
+trading range breakouts, failed Neckline breakouts, failed Bull Flag breakouts, and failed Double
+Bottom breakouts.
+
+
+II. Three Types of Stop-Losses
+
+Stop-losses can generally be divided into three categories.
+
+1. Structural Stop-Loss
+
+This is the most important type of stop-loss.
+
+It is based on Market Structure.
+
+For example:
+
+       Breaking below Support.
+       Falling back into a trading range.
+       Breaking below a Neckline.
+
+
+                                                - 520 -
+<PARSED TEXT FOR PAGE: 529 / 686>
+       Falling back inside a Bull Flag.
+       Breaking below the previous swing low.
+
+The greatest advantage of a structural stop-loss is that it is directly tied to your original trading
+thesis.
+
+2. Account Risk Stop-Loss
+
+This type of stop-loss is determined by your overall account risk.
+
+For example, limiting the maximum loss on any single trade to 0.5%, 1%, or 2% of total account
+equity.
+
+Its purpose is to prevent one trade from causing significant damage to your account.
+
+3. Time Stop-Loss
+
+Sometimes a trade never reaches the stop-loss level, yet it still fails to perform as expected.
+
+If, after a breakout, price fails to continue higher for an extended period, Trading Volume
+continues declining, the sector weakens, and capital efficiency deteriorates, it may be appropriate
+to exit the trade.
+
+A Time Stop-Loss is designed for trades that have not lost much money—but also have not
+developed according to the original plan.
+
+
+
+
+                                                - 521 -
+<PARSED TEXT FOR PAGE: 530 / 686>
+Figure Description:
+
+This figure illustrates the three major categories of stop-losses—Structural Stop-Loss, Account
+Risk Stop-Loss, and Time Stop-Loss—with a simple visual example and explanation for each.
+
+
+
+III. Why Must the Stop-Loss Be Written Before You Enter the Trade?
+
+A Stop-Loss must be defined before you enter a trade.
+
+Never afterward.
+
+The reason is simple.
+
+Before entering a position, your judgment is relatively objective.
+
+After entering the trade, your position begins influencing your thinking.
+
+Owning the stock changes the way your brain processes information.
+
+You become more willing to believe favorable news.
+
+You become more likely to ignore warning signs.
+
+You begin interpreting ordinary rebounds as hope.
+
+You explain obvious breakdowns as temporary shakeouts.
+
+That is why your Stop-Loss must be written in advance.
+
+Writing it down will not eliminate emotion completely.
+
+But when emotions inevitably appear, it gives you an objective standard to return to.
+
+I told Ethan,
+
+        "A Stop-Loss is not a tool you need only after the market starts falling. It is the
+        seat belt you fasten before you begin the journey."
+
+No one waits until after a car crashes into a wall before putting on a seat belt.
+
+
+
+IV. Why Are Small Losses So Important?
+
+Small losses are simply the cost of doing business.
+
+Large losses are disasters.
+
+A small loss will not destroy your account.
+
+
+
+                                               - 522 -
+<PARSED TEXT FOR PAGE: 531 / 686>
+A large loss can destroy your confidence.
+
+A series of small losses can be analyzed, reviewed, and corrected.
+
+One catastrophic loss may permanently damage your ability to execute your trading system.
+
+I showed Ethan a simple table.
+
+A 10% loss requires approximately an 11% gain just to recover.
+
+A 20% loss requires a 25% gain.
+
+A 30% loss requires approximately a 43% gain.
+
+A 50% loss requires a 100% gain.
+
+The larger the loss, the harder it becomes to recover.
+
+That is why a Stop-Loss is not a conservative tool.
+
+It is part of your offensive capability.
+
+Only by protecting your capital do you preserve the ability to take advantage of future
+opportunities.
+
+
+
+
+Figure Description:
+
+
+                                              - 523 -
+<PARSED TEXT FOR PAGE: 532 / 686>
+This figure compares small and large losses by illustrating the nonlinear relationship between the
+size of a loss and the percentage gain required to recover it, using either a table or a bar chart.
+
+
+Ethan studied the table.
+
+        "So a Stop-Loss isn't really for this one trade. It's for protecting the entire
+        account."
+
+        "Exactly."
+
+        "If I allow every loss to grow larger, then even if I'm right several times, one
+        mistake can erase everything."
+
+        "That's what risk management is all about."
+
+
+
+V. Reviewing a Trade After a Stop-Loss
+
+A Stop-Loss is not the end of the trading process.
+
+After every stop-loss, you should conduct a review.
+
+But a review is not about blaming yourself.
+
+It should answer five questions.
+
+First: Was the original trading thesis reasonable?
+
+Second: Was the confirmation signal sufficient?
+
+Third: Was the Stop-Loss placed appropriately?
+
+Fourth: Did you execute the trade according to your plan?
+
+Fifth: Should any trading rules be improved before the next trade?
+
+If the trade thesis was reasonable, the stop-loss was appropriate, and execution followed the plan,
+then the loss was a qualified loss.
+
+A qualified loss is not something to regret.
+
+It is simply part of a properly functioning trading system.
+
+The losses that deserve serious attention are unqualified losses.
+
+For example:
+
+       Entering a trade without a plan.
+       Chasing price after it has already become extended.
+
+
+                                                - 524 -
+<PARSED TEXT FOR PAGE: 533 / 686>
+       Failing to define a Stop-Loss before entering.
+       Delaying the exit after the invalidation level has already been broken.
+       Turning a short-term trade into a long-term investment simply because it is losing money.
+
+Losses themselves are not frightening.
+
+Uncontrolled losses are.
+
+
+
+
+Figure Description:
+
+This figure presents a post-stop-loss review checklist designed to help traders distinguish between
+qualified losses and unqualified losses.
+
+
+Case Review
+
+Why Was the Stop-Loss in Vega Cloud the Correct Decision?
+
+Now let's return to Vega Cloud Infrastructure.
+
+The trade ultimately ended with a loss.
+
+Yet it was a qualified trade.
+
+
+                                              - 525 -
+<PARSED TEXT FOR PAGE: 534 / 686>
+The reasons were straightforward.
+
+First, a complete trading plan had been prepared before entering the position.
+
+Second, the breakout signal was genuine. Price closed above €48, accompanied by expanding
+Trading Volume.
+
+Third, the position size was properly controlled, and the maximum account risk had been
+determined in advance.
+
+Fourth, the Stop-Loss was directly tied to the original trading thesis.
+
+Fifth, price fell back below €48 and broke below the low of the breakout day, invalidating the
+breakout.
+
+Sixth, Ethan followed his trading plan exactly. He did not transform a short-term Breakout Trade
+into a long-term investment simply because it moved against him.
+
+Seventh, the stock continued declining afterward, confirming that the stop-loss had at least
+prevented a much larger loss.
+
+Even if the stock had eventually recovered later, that would not have invalidated the stop-loss.
+
+Because the purpose of a Stop-Loss is not to sell at the exact bottom—or to predict the future.
+
+Its purpose is to protect your capital once your original trading thesis has been invalidated.
+
+The greatest lesson Ethan gained from this trade was not that he had "lost a little less."
+
+It was something far more important.
+
+For the first time, he personally executed a decision that felt uncomfortable—but was
+unquestionably correct.
+
+That lesson was worth more than making a profit.
+
+Because profits sometimes come from luck.
+
+Discipline comes only from following your trading plan.
+
+
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down seven rules.
+
+Rule 1: A Stop-Loss is not an admission of defeat. It is the proper exit once the original trading
+thesis has been invalidated.
+
+Rule 2: Every Stop-Loss must be defined before entering the trade—not invented afterward.
+
+
+
+
+                                               - 526 -
+<PARSED TEXT FOR PAGE: 535 / 686>
+Rule 3: The Stop-Loss must always correspond to the reason for entering the trade. It should
+never be placed arbitrarily.
+
+Rule 4: A normal pullback tests a key price level. A failed pattern loses that key price level.
+
+Rule 5: A temporary rebound after a stop-loss does not mean the stop-loss was a mistake.
+
+Rule 6: Small losses are a normal cost of trading. Large losses are what destroy accounts.
+
+Rule 7: Every stop-loss must be followed by a review that distinguishes between qualified losses
+and unqualified losses.
+
+Then I added one more sentence.
+
+         A Stop-Loss is not there to prove you were wrong. It is there to prevent one
+         mistake from becoming an unrecoverable one.
+
+Ethan copied the sentence into his notebook.
+
+Then he added one of his own.
+
+         A small loss keeps me in the game.
+
+A small loss allows me to stay in the game.
+
+That was his true growth in Chapter 23.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned what it truly means to execute a Stop-Loss.
+
+He came to understand that:
+
+A trading plan is not designed to guarantee profits.
+
+A trading plan exists so that you know exactly what to do when the market refuses to cooperate.
+
+A Stop-Loss is not an emotional decision.
+
+It is a logical one.
+
+When a Breakout fails, a Neckline breaks down, a Bull Flag collapses, Support fails, or the
+market invalidates your original trading thesis, exiting the trade is the correct decision.
+
+From this chapter onward, Ethan no longer viewed a Stop-Loss as failure.
+
+He began seeing it as part of his account's safety system.
+
+He understood that:
+
+
+
+                                               - 527 -
+<PARSED TEXT FOR PAGE: 536 / 686>
+As long as losses remain controlled, there will always be another opportunity.
+
+As long as capital is preserved, another decision can always be made.
+
+As long as discipline remains intact, true failure has not occurred.
+
+In the next chapter, Ethan will move deeper into the subject of Risk Management:
+
+Position Sizing.
+
+He will discover that two traders can identify exactly the same opportunity—
+
+yet one earns consistent profits while the other destroys the account.
+
+The difference often lies not in the analysis—
+
+but in the Position Size.
+
+
+
+
+                                               - 528 -

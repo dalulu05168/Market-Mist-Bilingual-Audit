@@ -1,0 +1,1083 @@
+Original Market Mist PDF pages 489–513. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 489 / 686>
+Chapter 22
+Five Questions Before You Buy: Real Trading Begins Before You Place the Order
+Many investors believe that trading begins the moment they click the Buy button.
+
+It doesn't.
+
+Real trading begins long before you ever place an order.
+
+The moment a particular stock first catches your attention, the trade has already begun.
+
+The moment you draw your first Support and Resistance levels on the chart, the trade has already
+begun.
+
+The moment you start imagining how high the stock might rise, the trade has already begun.
+
+And the moment you begin convincing yourself, "This looks like a good opportunity," your
+decision-making has entered its most dangerous stage.
+
+Because before you actually place an order, the market has not yet caused you any financial loss.
+
+Your losses often begin in your mind first.
+
+You first accept a vague reason for buying.
+
+Then you tolerate an unclear entry point.
+
+Next, you ignore the absence of a clearly defined stop-loss.
+
+Finally, you end the entire decision-making process by telling yourself,
+
+         "I'll just buy a small position and see what happens."
+
+Many bad trades do not become bad after the purchase.
+
+They were already destined to be difficult to manage before the order was ever placed.
+
+Ethan Carter truly understood this lesson while studying a cybersecurity company.
+
+For the purposes of this book, I will call it NordShield Cybersecurity.
+
+NordShield Cybersecurity is a European enterprise cybersecurity software company specializing
+in zero-trust access, cloud identity authentication, industrial network protection, and ransomware
+monitoring. Its clients include financial institutions, manufacturing companies, healthcare
+organizations, and government contractors.
+
+At that time, cybersecurity was one of the market's hottest themes.
+
+
+
+
+                                               - 481 -
+<PARSED TEXT FOR PAGE: 490 / 686>
+Artificial intelligence, cloud computing, digital transformation, and geopolitical risks were all
+encouraging businesses to increase their cybersecurity spending.
+
+Compared with many high-valuation growth stocks, cybersecurity companies generally enjoyed
+more stable revenue streams.
+
+A large percentage of their revenue came from subscriptions, and customer renewal rates
+remained healthy.
+
+NordShield itself had solid fundamentals.
+
+Its revenue had grown steadily during the previous quarter, cash flow had improved, and
+management had raised its full-year subscription revenue guidance.
+
+But what truly caught Ethan's attention was not the news.
+
+It was the chart.
+
+After a strong advance, the stock had consolidated sideways for eight weeks.
+
+Resistance was located near €64.
+
+Support was near €56.
+
+Throughout the consolidation, Trading Volume gradually declined.
+
+The 20-Day and 50-Day Moving Averages steadily converged, while price consistently held
+above the 50-Day Moving Average.
+
+Meanwhile, the Cybersecurity ETF continued outperforming the broader market.
+
+Everything about the chart suggested a textbook breakout candidate.
+
+Ethan was excited.
+
+But this time, instead of saying,
+
+        "Professor, I want to buy it,"
+
+he printed out the chart, wrote several notes, and walked into my office.
+
+        "I think NordShield may be approaching a breakout."
+
+I glanced at the chart.
+
+        "It could."
+
+He looked surprised.
+
+Normally, I would have responded by asking questions.
+
+
+
+
+                                               - 482 -
+<PARSED TEXT FOR PAGE: 491 / 686>
+This time, my simple answer made him even more uncomfortable.
+
+Then I continued.
+
+        "So how do you plan to trade it?"
+
+He stopped.
+
+That was the real question.
+
+Finding an opportunity is only the first step.
+
+Turning that opportunity into a complete trading plan is what separates professionals from
+everyone else.
+
+
+
+I. An Opportunity Is Not a Trade
+
+NordShield's chart certainly looked attractive.
+
+From a chart pattern perspective, it had formed a well-defined trading range near the highs.
+
+From a Trading Volume perspective, selling pressure had gradually diminished throughout the
+consolidation.
+
+From a sector perspective, cybersecurity was clearly outperforming the broader market.
+
+From a fundamental perspective, the company also had a reasonable long-term growth story.
+
+But even when all these factors are combined, they tell us only one thing:
+
+The stock deserves our attention.
+
+They do not tell us:
+
+That it should be bought immediately.
+
+This is one of the most common mistakes investors make.
+
+A Watchlist is not the same thing as a trade.
+
+A stock may deserve extensive research without offering a valid entry.
+
+A company may be outstanding, while its current price is not.
+
+A chart pattern may look beautiful, yet still lack breakout confirmation.
+
+A sector may be extremely strong, while the individual stock offers an unfavorable Risk-Reward
+Ratio.
+
+I asked Ethan,
+
+
+                                                 - 483 -
+<PARSED TEXT FOR PAGE: 492 / 686>
+        "Why do you want to buy it?"
+
+He answered,
+
+        "It's one of the strongest stocks in the cybersecurity sector. The consolidation has
+        lasted long enough. Resistance is clearly defined. If it breaks above €64, it could
+        begin another leg higher."
+
+        "That's a description of an opportunity," I replied. "It isn't a trading plan."
+
+He looked at me.
+
+I continued asking questions.
+
+        "Where do you plan to enter?"
+
+        "On a breakout above €64."
+
+        "An intraday breakout—or a closing breakout?"
+
+He paused.
+
+        "Preferably after it closes above €64."
+
+        "Do you require volume confirmation?"
+
+        "Yes. Trading Volume should be at least above its recent average."
+
+        "Where is your stop-loss?"
+
+He looked down at his notes.
+
+        "If price falls back into the trading range... I might need to exit."
+
+        "What do you mean by 'might'?"
+
+He said nothing.
+
+Vague decisions are where future losses begin to grow.
+
+I told him,
+
+        "A trading plan cannot contain the word 'might.' It can contain conditions. It can
+        contain exceptions. But it cannot contain emotions."
+
+
+
+
+                                                - 484 -
+<PARSED TEXT FOR PAGE: 493 / 686>
+Figure Description:
+
+This figure illustrates the difference between a stock that belongs on a Watchlist and a complete
+trading plan. The left panel shows an attractive chart pattern that has not yet confirmed a breakout,
+labeled "Watchlist Idea." The right panel presents a complete trading plan, including Entry, Stop
+Loss, Target, and Position Size.
+
+
+
+II. Five Questions Before You Buy
+
+I asked Ethan to sit down and place his chart on the desk.
+
+Then I wrote five questions on the whiteboard.
+
+First: What is my reason for buying?
+
+Second: What is my confirmation signal?
+
+Third: If I'm wrong, where will the market prove that I'm wrong?
+
+Fourth: What is the maximum amount I am willing to lose?
+
+
+
+                                              - 485 -
+<PARSED TEXT FOR PAGE: 494 / 686>
+Fifth: If I am right, where will I take profits?
+
+Then I told him,
+
+        "Until you can answer all five questions clearly, you are not allowed to place the
+        order."
+
+Ethan looked at the whiteboard and frowned.
+
+        "Isn't that a little too slow?"
+
+        "Moving slowly is far better than trying to think after you've already lost money."
+
+Most traders work in exactly the wrong order.
+
+They buy first.
+
+Then they search for reasons.
+
+Then the stock declines.
+
+Then they begin thinking about a stop-loss.
+
+Then they discover that their position size is too large.
+
+Finally, they start praying for a rebound.
+
+Professional traders do the exact opposite.
+
+First, define the reason.
+
+Then define the confirmation.
+
+Then define the invalidation point.
+
+Then determine the position size.
+
+Only after all of that do they place the order.
+
+Trading is not a game of reaction.
+
+It is a game of preparation.
+
+
+
+
+                                                   - 486 -
+<PARSED TEXT FOR PAGE: 495 / 686>
+Figure Description:
+
+This figure summarizes the five essential questions every trader should answer before entering a
+position. It is presented as a checklist alongside a breakout chart labeled Entry, Stop, and Target.
+
+
+III. The Greatest Danger in Breakout Trading Is Chasing Emotion
+
+The following morning, NordShield Cybersecurity gradually strengthened after the market
+opened.
+
+Price rose from €62.80 to €63.50.
+
+At 10:30 a.m., it reached €64.
+
+Fifteen minutes later, price broke above €64.20 intraday.
+
+Ethan immediately sat up straighter.
+
+I could see his physical reaction.
+
+
+
+
+                                               - 487 -
+<PARSED TEXT FOR PAGE: 496 / 686>
+Although he had already written his trading plan, the moment price actually broke out, his
+emotions immediately resurfaced.
+
+That is the reality of trading.
+
+A trading plan does not eliminate emotion.
+
+It simply tells you whose voice to follow when emotion appears.
+
+NordShield continued climbing to €64.70.
+
+Trading Volume also began increasing.
+
+Ethan asked,
+
+         "Should I wait until today's close above €64 before buying?"
+
+         "That's what you wrote in your own trading plan."
+
+         "But if I wait until the close, the price might already be at €65."
+
+         "That's also part of your plan."
+
+He fell silent.
+
+By 11:30 a.m., the stock had rallied to €65.10.
+
+Someone on the trading desk shouted,
+
+         "NordShield has broken out!"
+
+Several short-term traders immediately turned their attention to it.
+
+At the same time, a news headline appeared:
+
+         "Cybersecurity Stocks Gain as Enterprise Software Demand Improves."
+
+This was exactly the most dangerous moment.
+
+Price had broken out.
+
+The news supported the move.
+
+The sector was strong.
+
+The trading desk was buzzing with discussion.
+
+Market enthusiasm was rising.
+
+Ethan's hand slowly moved back toward the mouse.
+
+
+
+
+                                                - 488 -
+<PARSED TEXT FOR PAGE: 497 / 686>
+I did not stop him.
+
+Instead, I asked one question.
+
+        "If you buy now, are you following your plan—or are you buying because you're
+        afraid of missing out?"
+
+He slowly pulled his hand away.
+
+        "Because I'm afraid of missing out."
+
+        "Then it isn't a trade."
+
+
+
+
+Figure Description:
+
+This figure compares a planned entry with an emotionally driven chase. The left panel illustrates
+a disciplined entry based on a closing confirmation or a successful retest. The right panel shows a
+trader chasing price during a rapid intraday rally out of FOMO (Fear of Missing Out).
+
+
+
+IV. The Intraday Breakout Failed
+
+
+
+                                               - 489 -
+<PARSED TEXT FOR PAGE: 498 / 686>
+That afternoon, NordShield's price action began to change.
+
+After holding above €65 for nearly an hour, the stock started to weaken.
+
+It first slipped to €64.80.
+
+Then to €64.30.
+
+By 3:00 p.m., it had fallen back to around €64.
+
+Trading Volume remained relatively heavy, but price was no longer making progress.
+
+Ethan's expression became noticeably tense.
+
+        "If it can't hold above €64 into the close, the breakout has failed."
+
+"Exactly."
+
+By the closing bell, NordShield finished at €63.85.
+
+Below €64.
+
+The breakout had occurred intraday.
+
+But it had failed by the close.
+
+Had Ethan chased the stock near €65 that morning, he would already have found himself in a
+difficult position before the end of the day.
+
+He stared at the closing chart and let out a long breath.
+
+        "The trading plan saved me today."
+
+        "No," I replied. "You saved yourself by following the trading plan."
+
+A trading plan has no power by itself.
+
+Rules written on paper cannot stop anyone from clicking the Buy button.
+
+The real power comes from your willingness to respect those rules—even when the market
+tempts you to ignore them.
+
+
+
+
+                                               - 490 -
+<PARSED TEXT FOR PAGE: 499 / 686>
+Figure Description:
+
+This figure illustrates an intraday breakout that ultimately fails by the close. Price briefly breaks
+above €64 Resistance, but closes back below that level, demonstrating that the market has
+rejected the breakout.
+
+
+
+V. The Real Breakout
+
+After the first failed breakout, NordShield did not collapse.
+
+That was important.
+
+Instead, it spent another three days consolidating near the upper boundary of the trading range.
+
+Trading Volume gradually declined.
+
+Price never fell back toward the middle of the range.
+
+The Cybersecurity ETF remained strong.
+
+The 20-Day Moving Average continued rising toward price.
+
+
+                                                - 491 -
+<PARSED TEXT FOR PAGE: 500 / 686>
+All of this suggested that selling pressure had not gained complete control after the first failed
+breakout.
+
+On the fourth day, NordShield tested €64 once again.
+
+This time, the price action was different.
+
+After breaking above €64 in the morning, the stock did not surge immediately.
+
+Instead, it traded back and forth between €64.20 and €64.60, allowing ownership to change hands
+in an orderly manner.
+
+Trading Volume expanded steadily.
+
+During the afternoon, price gradually advanced toward €65.
+
+By the close, the stock finished at €64.90.
+
+Trading Volume was approximately 45% above its 20-day average.
+
+This was exactly the confirmation signal Ethan had written into his trading plan.
+
+He did not chase the stock at €65 during the session.
+
+Instead, he followed his plan and entered a partial position shortly before the market closed.
+
+The position was intentionally modest.
+
+His plan also stated that if price later retested €64 successfully, he would add to the position.
+
+His trading journal recorded everything clearly.
+
+Entry Reason: Eight-week trading range breakout with expanding Trading Volume and strong
+sector Relative Strength.
+
+Confirmation Signal: Daily close above €64 with Trading Volume exceeding the 20-day average.
+
+Initial Stop-Loss: A daily close back below €64 combined with a break below the breakout day's
+low.
+
+Maximum Risk: 0.8% of total account equity.
+
+First Target: €68.
+
+Second Target: €72, based on the measured move projection.
+
+Add-On Condition: A successful low-volume retest of €64, followed by renewed upward
+momentum.
+
+This was a qualified breakout trading plan.
+
+
+
+
+                                               - 492 -
+<PARSED TEXT FOR PAGE: 501 / 686>
+Figure Description:
+
+This figure presents a complete breakout trading plan, including the trading range, Resistance,
+breakout entry, Stop-Loss, first profit target, second measured move target, and the add-on entry
+following a successful retest.
+
+
+VI. The Retest Is the Real Test
+
+After Ethan entered the trade, NordShield did not immediately surge higher.
+
+The following day, it rose modestly to €65.40.
+
+On the third day, the overall market pulled back, and NordShield declined to €64.20.
+
+This time, Ethan did not panic.
+
+He knew this was exactly the retest his trading plan had anticipated.
+
+The important questions were:
+
+Could price hold above €64?
+
+
+
+                                              - 493 -
+<PARSED TEXT FOR PAGE: 502 / 686>
+Would Trading Volume contract?
+
+Would the Cybersecurity sector remain intact?
+
+Would the stock close back inside the trading range?
+
+That day, Trading Volume was noticeably lower than it had been on the breakout day.
+
+Price briefly dipped to €63.95, but later recovered and closed at €64.30.
+
+It was not a perfect price action.
+
+But it remained well within acceptable limits.
+
+On the fourth day, NordShield rebounded from €64.20 to €65.10.
+
+Following his plan, Ethan added modestly to his position.
+
+It was the first time he had completed an entire breakout trade exactly as planned:
+
+Observe.
+
+Wait.
+
+Resist the temptation of the intraday move.
+
+Wait for the closing confirmation.
+
+Control position size.
+
+Verify the retest.
+
+Add to the position.
+
+Define profit targets and exit conditions.
+
+The trade eventually performed well.
+
+Price first reached €68, where Ethan sold part of his position.
+
+After several days of consolidation, it continued advancing toward €72.
+
+As price approached €72, he reduced another portion of his position based on the measured move
+target and the overhead Resistance level.
+
+It was not an extraordinary winning trade.
+
+But I consider it one of the most important trades in Ethan's development.
+
+Because it proved that he had finally learned how to turn being right into trading correctly.
+
+
+
+
+                                                 - 494 -
+<PARSED TEXT FOR PAGE: 503 / 686>
+Figure Description:
+
+This figure illustrates a successful breakout retest and add-on entry. After breaking above €64,
+price pulls back to retest the former Resistance level. Trading Volume contracts during the
+pullback, price holds above support, and the subsequent advance provides an opportunity to
+increase the position.
+
+
+
+Professor's Whiteboard Session
+
+Breakout Trading Plan
+
+That evening, the topic of my whiteboard session with Ethan was:
+
+The Breakout Trading Plan.
+
+The first sentence I wrote on the board was:
+
+        A breakout is not a reason to buy. A breakout trading plan is.
+
+Many investors buy the moment they see a breakout.
+
+But a breakout is simply a form of Price Action.
+
+It may become a valid Breakout.
+
+
+                                               - 495 -
+<PARSED TEXT FOR PAGE: 504 / 686>
+Or it may become a False Breakout.
+
+It may mark the beginning of a new trend.
+
+Or it may simply be institutional buying designed to attract late buyers.
+
+It may represent institutional accumulation.
+
+Or it may represent distribution near the highs.
+
+That is why every breakout trade must begin with a plan.
+
+
+
+I. The Basic Structure of a Breakout Trading Plan
+
+A complete breakout trading plan should include at least seven components.
+
+First: Market Environment
+
+Does the overall market support new long positions?
+
+Is the sector demonstrating Relative Strength?
+
+Is overall market risk appetite stable?
+
+Second: Trade Thesis
+
+Does the company—or the ETF's investment theme—have reasonable fundamental support?
+
+Or is the move simply driven by a single news event?
+
+Third: Price Structure
+
+Is the breakout emerging from a trading range, a Bull Flag, a bottoming pattern, or a previous
+Resistance level?
+
+Fourth: Confirmation Requirements
+
+Will an intraday breakout be sufficient?
+
+Or is a confirmed daily close required?
+
+Must Trading Volume expand?
+
+Should the sector confirm the move as well?
+
+Fifth: Entry Method
+
+Will you buy the breakout itself?
+
+Or wait for a successful retest?
+
+
+
+                                               - 496 -
+<PARSED TEXT FOR PAGE: 505 / 686>
+Will you enter the full position immediately?
+
+Or build the position gradually?
+
+Sixth: Risk Definition
+
+What will you do if price falls back below the breakout level?
+
+What if it closes back inside the trading range?
+
+Where is your Stop-Loss?
+
+What is your maximum acceptable loss?
+
+Seventh: Exit Plan
+
+Where is your first profit target?
+
+Where is your second target?
+
+What will you do if the advance begins losing momentum?
+
+Will you reduce your position after reaching your target?
+
+Without these elements, a breakout trade is nothing more than chasing price.
+
+II. Three Breakout Entry Methods
+
+There are three common ways to enter a breakout trade.
+
+1. Enter Immediately on the Breakout
+
+The advantage is that you are less likely to miss a powerful move.
+
+The disadvantage is that it carries the highest risk of a False Breakout and makes it easy to buy at
+the peak of market emotion.
+
+This approach is suitable only for highly experienced traders with strong discipline and the ability
+to execute stop-losses without hesitation.
+
+2. Enter After the Closing Confirmation
+
+The advantage is that it filters out some intraday false breakouts.
+
+The disadvantage is that your entry price may be higher.
+
+For most traders, this is the more appropriate approach.
+
+3. Enter After a Successful Retest
+
+The advantage is that the risk level becomes much clearer.
+
+
+
+                                                - 497 -
+<PARSED TEXT FOR PAGE: 506 / 686>
+The disadvantage is that exceptionally strong trends may never provide a retest opportunity.
+
+This method is better suited to more conservative investors.
+
+
+
+
+Figure Description:
+
+This figure illustrates three common breakout entry methods: Immediate Breakout Entry, Closing
+Confirmation Entry, and Retest Confirmation Entry. Each method highlights its primary
+advantages and associated risks.
+
+
+
+III. Designing the Stop-Loss for a Breakout Trade
+
+The most common mistake in breakout trading is focusing only on the profit target while ignoring
+the stop-loss.
+
+I wanted Ethan to remember one principle:
+
+        The stop-loss for a breakout trade must always be tied to the logic behind the
+        breakout.
+
+If your reason for buying is a breakout above Resistance, then price falling back below that
+resistance level becomes a warning signal.
+
+
+
+
+                                              - 498 -
+<PARSED TEXT FOR PAGE: 507 / 686>
+If your reason for buying is a breakout from a trading range, then price returning to the range
+signals that the breakout has failed.
+
+If your reason for buying is a Bull Flag breakout, then price moving back inside the flag
+invalidates the trade.
+
+If your reason for buying is a Neckline Breakout, then price falling back below the Neckline
+invalidates the setup.
+
+A stop-loss should never be placed at an arbitrary percentage.
+
+It belongs at the point where the trading thesis is proven wrong.
+
+Of course, normal price volatility must also be considered.
+
+If the stop-loss is placed too close, ordinary market fluctuations may trigger it prematurely.
+
+If it is placed too far away, the potential loss becomes too large, requiring a smaller position size.
+
+That is why Stop-Loss placement and Position Size should always be designed together.
+
+
+
+
+Figure Description:
+
+
+
+
+                                               - 499 -
+<PARSED TEXT FOR PAGE: 508 / 686>
+This figure illustrates the relationship between Entry, Stop-Loss, and Position Size. The farther
+the stop-loss is from the entry, the smaller the position size should be. Conversely, a tighter stop-
+loss allows for a relatively larger position, provided it is not placed unrealistically close.
+
+
+
+IV. Setting Profit Targets for a Breakout Trade
+
+Profit targets in breakout trading generally come from three sources.
+
+First: Previous Resistance Areas
+
+If there is an obvious overhead resistance zone or a previous high, it may serve as the first profit
+target.
+
+Second: Measured Move Targets
+
+The height of a trading range, the length of a flagpole, or the size of a bottoming pattern can all be
+used to estimate the potential upside.
+
+Third: Trailing Exits
+
+If the breakout develops into a strong trend, there is no need to sell the entire position
+immediately.
+
+Instead, the remaining position can be managed using the 20-Day Moving Average, the previous
+swing low, or the prevailing trendline.
+
+A profit target is not a prediction of the future.
+
+Its purpose is to help you determine:
+
+When to reduce your position.
+
+When to protect your profits.
+
+And when the Risk-Reward Ratio is no longer favorable.
+
+
+
+V. The Complete Five-Question Pre-Trade Template
+
+I designed a simple template for Ethan.
+
+Before placing any order, he had to complete it.
+
+Question One: Why am I buying this stock?
+
+Write your core investment thesis in no more than three sentences.
+
+If you cannot explain it clearly, you are probably being attracted by price rather than opportunity.
+
+
+
+                                                 - 500 -
+<PARSED TEXT FOR PAGE: 509 / 686>
+Question Two: What confirms my idea?
+
+Specify the exact price level, Trading Volume, closing condition, and sector confirmation
+required.
+
+Never write:
+
+        "It looks good."
+
+Question Three: Where will the market prove that I am wrong?
+
+Clearly define the invalidation point.
+
+Never write:
+
+        "I'll sell if it drops too much."
+
+Question Four: What is my maximum acceptable loss?
+
+Specify your account risk, stop-loss distance, and position size.
+
+Never buy based on intuition.
+
+Question Five: How will I exit?
+
+Define your first profit target, second target, scaling-out rules, and failed-trade exit rules.
+
+Never write:
+
+        "I'll decide after it goes up."
+
+
+
+
+                                                - 501 -
+<PARSED TEXT FOR PAGE: 510 / 686>
+Figure Description:
+
+This figure presents a reusable pre-trade planning template. It is designed as a worksheet covering
+five key sections: Trade Thesis, Confirmation, Invalidation, Position Size, and Exit Strategy.
+
+
+Case Review
+
+Why Was the NordShield Cybersecurity Trade a Qualified Trade?
+
+Now let's return to NordShield Cybersecurity.
+
+This trade was not necessarily the most profitable one.
+
+But it was the first breakout trade Ethan executed by following a complete trading plan from
+beginning to end.
+
+It was a qualified trade—not because the stock eventually went higher.
+
+It was a qualified trade because every critical question had already been answered before the
+order was placed.
+
+First, the reason for buying was clear.
+
+
+
+
+                                              - 502 -
+<PARSED TEXT FOR PAGE: 511 / 686>
+The cybersecurity sector was showing Relative Strength, the company's fundamentals were stable,
+and the stock had formed an eight-week trading range.
+
+Second, the confirmation requirements were clearly defined.
+
+Price had to close above €64, and Trading Volume had to exceed its recent average.
+
+Third, the failure conditions were clearly defined.
+
+If price fell back below €64 after the breakout and closed back inside the trading range, the
+trading thesis would be invalid.
+
+Fourth, the position risk was clearly defined.
+
+The maximum risk on the trade was limited to 0.8% of total account equity.
+
+Fifth, the exit plan was clearly defined.
+
+€68 served as the first profit target.
+
+€72, based on the measured move projection, served as the second target.
+
+A successful retest also allowed for a modest add-on position.
+
+More importantly, Ethan avoided the first False Breakout.
+
+He did not chase the stock when it surged to €65.
+
+Instead, he waited for the closing confirmation on the second breakout.
+
+That demonstrated that his decisions were no longer driven by emotion.
+
+They were driven by a plan.
+
+
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down seven rules.
+
+Rule 1: An opportunity worth watching is not automatically a trade.
+
+Rule 2: Before placing any order, you must answer five questions: your reason for buying, your
+confirmation signal, your invalidation point, your maximum acceptable loss, and your exit plan.
+
+Rule 3: In breakout trading, intraday price action alone is not enough. A confirmed closing
+breakout carries far greater significance.
+
+Rule 4: Every breakout must be supported by Trading Volume. Without volume confirmation,
+always remain alert for a False Breakout.
+
+
+
+
+                                                 - 503 -
+<PARSED TEXT FOR PAGE: 512 / 686>
+Rule 5: Your Stop-Loss belongs at the point where your trading thesis becomes invalid—not at an
+arbitrary price level.
+
+Rule 6: Position Size must always be determined by your maximum acceptable loss and the
+distance to your Stop-Loss.
+
+Rule 7: A well-written trading plan has value only if you have the discipline to follow it.
+
+Then I added one more sentence.
+
+        Professional traders do not lack impulses.
+
+        They simply refuse to let those impulses place orders on their behalf.
+
+Ethan copied that sentence into his notebook.
+
+Then he added one line of his own.
+
+        Plan the trade before the market tests you.
+
+Plan your trade before the market puts you to the test.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter learned the five most important questions to answer before buying
+any stock.
+
+He came to understand that:
+
+Trading does not begin when you click the Buy button.
+
+It begins with the plan.
+
+Even a great opportunity can become a poor trade if it lacks confirmation, a clearly defined
+invalidation point, proper position sizing, and a well-prepared exit strategy.
+
+Likewise, an ordinary opportunity can become a qualified trade when risk is clearly defined and
+execution remains disciplined.
+
+From this chapter onward, Ethan no longer asked only:
+
+        "Will this stock go higher?"
+
+Instead, he began asking:
+
+        "Why am I buying it?"
+
+        "What confirms my idea?"
+
+
+
+
+                                                - 504 -
+<PARSED TEXT FOR PAGE: 513 / 686>
+         "Where will the market prove that I'm wrong?"
+
+         "What is the maximum amount I am willing to lose?"
+
+         "If I'm right, how will I sell?"
+
+Those five questions transformed him from an analyst into a trader.
+
+Because an analyst only needs to judge direction.
+
+A trader must manage the consequences.
+
+The next chapter will confront Ethan with a question that every trader must eventually face:
+
+When the market proves you wrong, can you accept it?
+
+The subject of that chapter is Stop-Losses.
+
+He will learn that a stop-loss is not an admission of defeat.
+
+It is an investor's seat belt.
+
+
+
+
+                                               - 505 -

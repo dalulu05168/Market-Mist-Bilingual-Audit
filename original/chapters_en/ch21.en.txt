@@ -1,0 +1,1024 @@
+Original Market Mist PDF pages 467–488. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 467 / 686>
+Chapter 21
+Earnings Season on Trial: Why the Market Rejects Good Numbers
+
+
+Earnings season is like a public trial.
+
+Companies step onto the stage and present their revenue, profits, gross margins, cash flow, order
+backlog, forward guidance, and management's explanations.
+
+Analysts sit in the front row, rapidly updating their financial models.
+
+Fund managers sit behind them, reassessing their portfolio allocations.
+
+Traders watch the order flow, studying how capital responds.
+
+Retail investors open the headlines wanting only one answer:
+
+Good or bad?
+
+But the market never judges only the past.
+
+What it truly judges is the future.
+
+That is also what makes earnings season so confusing for many investors.
+
+Some companies report outstanding results, yet their stock prices fall.
+
+Others miss earnings expectations, yet their shares rally.
+
+Some companies report slowing revenue growth, but their stock surges higher.
+
+Others deliver earnings well above expectations, only to gap higher at the open before selling off
+throughout the day.
+
+Ethan Carter first truly understood this lesson while studying a European payment technology
+company.
+
+For the purposes of this book, I will call it Mercury Payments.
+
+Mercury Payments provides payment solutions for European small and medium-sized businesses,
+cross-border e-commerce merchants, and digital subscription platforms. Its services include
+online payment processing, cross-border settlement, fraud prevention systems, merchant lending,
+and data analytics.
+
+During the previous two years, it had become one of the market's favorite growth stocks.
+
+Revenue was growing rapidly.
+
+
+
+
+                                               - 459 -
+<PARSED TEXT FOR PAGE: 468 / 686>
+Profit margins continued to improve.
+
+Customer retention remained high.
+
+Digital payment adoption still had considerable room to expand.
+
+Management also excelled at telling a compelling growth story.
+
+The stock had climbed from €38 to €72, and later advanced again from €72 to €104.
+
+This was not a speculative company with weak fundamentals.
+
+Its growth was genuine.
+
+The problem was this:
+
+The market had already paid a very high price for that growth.
+
+Before the earnings announcement, Mercury Payments had risen steadily for three consecutive
+months.
+
+Most analysts expected another strong earnings report.
+
+Across social media, many investors described it as "one of Europe's highest-quality fintech
+platforms."
+
+Several investment funds had also disclosed larger positions during the previous quarter.
+
+In other words, long before the earnings release, the market had already cast its vote.
+
+Ethan was very bullish on the company.
+
+And he had every reason to be.
+
+Fundamentally, it was an outstanding business.
+
+Technically, price remained above both the 20-Day and 50-Day Moving Averages.
+
+Its Relative Strength was clearly outperforming the FinTech ETF.
+
+Previous breakouts had also been supported by healthy Trading Volume.
+
+Based on everything available before earnings were released, it appeared to be a textbook
+example of a leading growth stock.
+
+But this is exactly where earnings season becomes dangerous.
+
+The market is not asking whether a company is good.
+
+It is asking whether the company is better than what the market has already expected.
+
+
+
+
+                                              - 460 -
+<PARSED TEXT FOR PAGE: 469 / 686>
+I. Good Earnings, Bad Reaction
+
+Mercury Payments released its earnings after the market closed on Wednesday.
+
+On the surface, the results looked outstanding.
+
+Quarterly revenue increased 28% year over year.
+
+Adjusted profit margins improved.
+
+Earnings per share exceeded analysts' expectations.
+
+Merchant payment volume continued growing.
+
+Management reaffirmed its full-year revenue guidance.
+
+The financial headlines were equally positive:
+
+        "Mercury Payments Beats Earnings Expectations."
+
+        "Revenue Growth Remains Strong."
+
+        "Digital Payment Demand Stays Resilient."
+
+That evening, Ethan sent me a message.
+
+        "Professor, Mercury's earnings look excellent. It could gap higher
+        tomorrow."
+
+I replied with only one sentence.
+
+        "Tomorrow, watch how the market delivers its verdict."
+
+The following morning, Mercury Payments did indeed gap higher.
+
+The previous day's closing price had been €104.
+
+It opened immediately at €112.
+
+Shortly after the open, it briefly reached €116.
+
+Someone on the trading desk said,
+
+        "The market clearly approves of the earnings."
+
+Ethan was beginning to feel excited.
+
+Standing beside him, I asked,
+
+        "Has the market accepted the earnings—or is this only an opening gap?"
+
+
+
+                                               - 461 -
+<PARSED TEXT FOR PAGE: 470 / 686>
+He paused for a moment.
+
+        "We can't know yet. We need to see whether price can hold."
+
+"Exactly."
+
+He no longer treated a strong opening as the market's final verdict.
+
+After 10:00 a.m., the chart began changing.
+
+Price stopped making further progress.
+
+It repeatedly tested the €115–116 area, but every rally was met with renewed selling pressure.
+
+Trading Volume was exceptionally heavy.
+
+By 11:00 a.m., price had fallen back to €112.
+
+Around midday, it declined to €109.
+
+By 2:00 p.m., it had broken below €106.
+
+Shortly before the close, it had fallen back to €103.
+
+It eventually closed at €102.80, below the previous day's closing price.
+
+In other words:
+
+A leading growth stock had reported excellent earnings.
+
+It gapped higher by more than 8% at the open.
+
+At one point it was up more than 11% intraday.
+
+Yet it finished the session in negative territory.
+
+This is a classic Earnings Gap Failure.
+
+A failed earnings gap higher.
+
+
+
+
+                                                - 462 -
+<PARSED TEXT FOR PAGE: 471 / 686>
+Figure Description:
+
+This figure illustrates a failed earnings gap higher. Following a strong earnings report, price gaps
+sharply upward at the open, but persistent selling pressure emerges throughout the session. Price
+eventually closes below the previous day's close, leaving a long upper shadow that signals
+rejection of higher prices.
+
+
+Ethan stared at the closing chart in silence for a long time.
+
+        "The earnings were clearly excellent," he finally said.
+
+"They were."
+
+        "Revenue exceeded expectations. Earnings exceeded expectations as
+        well."
+
+"They did."
+
+        "Then why didn't the market buy it?"
+
+
+
+                                               - 463 -
+<PARSED TEXT FOR PAGE: 472 / 686>
+I looked at him.
+
+        "Because the market buys expectations—not headlines."
+
+
+
+II. Why Does the Market Sell Good News?
+
+After the market closed, the research department held an emergency review meeting.
+
+The FinTech analyst still believed that the long-term quality of Mercury Payments remained
+intact.
+
+He listed several positive factors:
+
+Revenue growth remained strong.
+
+Profit margins continued improving.
+
+Merchant transaction volume remained healthy.
+
+The company had not lowered its full-year guidance.
+
+But the trading desk offered a different perspective.
+
+        "The good news had already been priced in."
+
+That sentence is extremely important.
+
+Before earnings, Mercury Payments had already rallied significantly.
+
+Market expectations had become exceptionally high.
+
+Many investors had bought the stock in advance, expecting strong earnings.
+
+Once those earnings were actually released, if the results were merely good, rather than far better
+than expected, early buyers had every reason to lock in profits.
+
+This was not because the company had become a poor business.
+
+It was because the market no longer had a new reason to pay an even higher price.
+
+More subtly, during the earnings conference call, management mentioned several additional
+points:
+
+Marketing expenses could increase during the second half of the year.
+
+Competitive pressure on certain cross-border transaction fees was increasing.
+
+Growth in the merchant lending business would become more conservative.
+
+
+
+
+                                              - 464 -
+<PARSED TEXT FOR PAGE: 473 / 686>
+None of these comments represented major negative news.
+
+But for a richly valued growth stock, even small imperfections can become an excuse for
+investors to take profits.
+
+Ethan said,
+
+        "So the market isn't saying the company is bad. It's saying the current
+        price had already become too optimistic."
+
+"Exactly."
+
+I asked another question.
+
+        "What does today's Trading Volume tell you?"
+
+He studied the volume bars.
+
+        "It's the highest Trading Volume in the past three months."
+
+        "And what about the price?"
+
+        "It went from a strong gap higher to a complete intraday reversal, finishing
+        below yesterday's close."
+
+        "So what happened during today's session?"
+
+After thinking for a moment, he answered slowly.
+
+        "A huge amount of shares changed hands near the highs. Early buyers
+        were probably selling into the good news, while traders chasing the
+        earnings gap became trapped near the top."
+
+I nodded.
+
+That is one of the most common topping behaviors during earnings season.
+
+Good News, Bad Reaction.
+
+The news is positive.
+
+The price reaction is not.
+
+
+
+
+                                            - 465 -
+<PARSED TEXT FOR PAGE: 474 / 686>
+Figure Description:
+
+This figure explains the concept of Good News, Bad Reaction during earnings season. The left
+side highlights earnings results that exceeded expectations, while the right side shows price
+gapping higher before reversing lower, illustrating that market expectations had already become
+excessively optimistic.
+
+
+
+III. Volume Climax: Heavy Activity Hides Heavy Distribution
+
+The Trading Volume on Mercury Payments' earnings day was extraordinary.
+
+This was not simply a high-volume session.
+
+It was a Volume Climax.
+
+A Volume Climax should never be interpreted as bullish or bearish based on volume alone.
+
+It must always be evaluated together with price location and the final candlestick.
+
+If a stock surges on exceptionally high Trading Volume after breaking out from a long-term base,
+the Volume Climax may indicate aggressive institutional buying.
+
+
+
+
+                                              - 466 -
+<PARSED TEXT FOR PAGE: 475 / 686>
+If a stock rallies to new highs on extremely heavy Trading Volume but then reverses sharply
+lower, the Volume Climax may signal institutional distribution.
+
+If a stock forms a long lower shadow near a panic low on massive Trading Volume, it may
+represent selling exhaustion followed by strong buying interest.
+
+If a stock gaps higher on good earnings after a prolonged advance, forms a long upper shadow,
+and closes weakly, investors should be alert to distribution.
+
+Mercury Payments belonged to the last category.
+
+After a long advance, it used positive earnings as the catalyst for a gap higher.
+
+The opening rally attracted a large number of momentum buyers.
+
+Yet price failed to continue advancing.
+
+Instead, it declined steadily throughout the day.
+
+By the close, it had fallen below the previous day's closing price.
+
+This tells us that exceptionally heavy Trading Volume was unable to keep price at higher levels.
+
+Buying demand was absorbed by aggressive selling.
+
+Ethan said,
+
+        "Trading Volume was huge, but the closing price was terrible. That means
+        the sellers were stronger."
+
+"Exactly."
+
+        "It feels very similar to a false breakout."
+
+        "The underlying principle is the same," I replied. "The only difference is
+        that this time, the catalyst was the earnings report."
+
+
+
+
+                                               - 467 -
+<PARSED TEXT FOR PAGE: 476 / 686>
+Figure Description:
+
+This figure illustrates a Volume Climax at a market top. After a prolonged advance, price gaps
+higher on positive earnings, Trading Volume surges dramatically, but price forms a long upper
+shadow and closes weakly, signaling heavy distribution near the highs.
+
+
+I then told Ethan,
+
+        "Earnings days often provide institutional investors with their best
+        opportunity to redistribute large positions."
+
+        "Because liquidity is at its highest?"
+
+"Exactly."
+
+        "On an ordinary day, selling a large position could drive the price sharply
+        lower. But on earnings day, there is news, attention, momentum buyers,
+        analyst reports, and a flood of new orders. For investors looking to sell, it
+        becomes a perfect liquidity window."
+
+He nodded.
+
+
+
+
+                                             - 468 -
+<PARSED TEXT FOR PAGE: 477 / 686>
+        "So the more excitement there is, the more important it becomes to see
+        whether price can actually hold."
+
+        "You've heard that lesson many times before."
+
+He laughed.
+
+        "Every chapter teaches it in a different disguise."
+
+I smiled as well.
+
+        "The market is remarkably patient."
+
+IV. The Second Day Matters Even More
+
+The long upper shadow on earnings day was already a serious warning sign.
+
+But I did not allow Ethan to reach a final conclusion immediately.
+
+Instead, I said,
+
+        "Tomorrow will be even more important."
+
+He asked,
+
+        "Why?"
+
+        "Because the first day may simply reflect emotional volatility. The second
+        day tells you whether the market is willing to buy the stock back."
+
+After an Earnings Gap Failure, the following trading day generally leads to one of three outcomes.
+
+First, price quickly recovers the high of the earnings-day reversal, suggesting that the first day's
+volatility was simply an intense exchange of ownership.
+
+Second, price stabilizes near the previous day's closing level and enters a period of consolidation
+while the market reassesses the situation.
+
+Third, price continues declining, breaks below a key Support level, and confirms that the market's
+post-earnings reaction has turned negative.
+
+Mercury Payments followed the third path.
+
+On the second day, it opened slightly lower.
+
+During the morning session, it attempted to rebound toward €104, but sellers quickly pushed it
+back down.
+
+By midday, price had fallen below €101.
+
+
+
+
+                                               - 469 -
+<PARSED TEXT FOR PAGE: 478 / 686>
+During the afternoon, it broke below €100.
+
+It eventually closed at €98.60.
+
+That was extremely important.
+
+The €100 level was not only a psychological round number, but also the lower boundary of the
+stock's short-term consolidation over the previous several weeks.
+
+Breaking below €100 signaled that the failed earnings gap was no longer just a one-day emotional
+reaction.
+
+The market had begun repricing the stock.
+
+On the third day, Mercury Payments attempted to retest the €100 level.
+
+Trading Volume was noticeably lighter.
+
+Price briefly reached €100.40, but closed below €99 once again.
+
+Former Support had now become new Resistance.
+
+This was the point at which the post-earnings top reversal became much clearer.
+
+
+
+
+Figure Description:
+
+
+
+                                             - 470 -
+<PARSED TEXT FOR PAGE: 479 / 686>
+This figure illustrates the confirmation of a failed earnings gap. Price continues declining on the
+second day, breaks below short-term Support, and later fails to reclaim that level during a retest,
+confirming that the risk of a top reversal has increased.
+
+
+Ethan said,
+
+        "Now we can no longer say this was just earnings-day volatility."
+
+"Correct."
+
+        "It has broken below Support and failed on the retest."
+
+        "Exactly. That's when the Price Structure begins confirming that the
+        market has rejected higher prices."
+
+
+
+V. From a Great Company to a Bad Trade
+
+Over the following two weeks, Mercury Payments continued to decline.
+
+It fell from around €104 to €96.
+
+Then it dropped to €91.
+
+Eventually, it approached €86.
+
+Nothing disastrous had happened to the company.
+
+There was no accounting fraud.
+
+No major customer losses.
+
+No management resignations.
+
+No severe regulatory penalties.
+
+Yet the stock price kept falling.
+
+Ethan found this difficult to understand.
+
+        "The company's fundamentals haven't deteriorated enough to justify this
+        kind of decline."
+
+        "Perhaps they haven't."
+
+        "So is the market overreacting?"
+
+        "Possibly."
+
+
+
+                                              - 471 -
+<PARSED TEXT FOR PAGE: 480 / 686>
+         "Then should we buy it?"
+
+I did not answer directly.
+
+Instead, I asked,
+
+         "Are you buying the company—or are you buying the Price Structure?"
+
+He fell silent.
+
+That is one of the most important questions investors must ask after earnings season.
+
+A great company may remain a great company after an Earnings Gap Failure.
+
+But in the short term, it may no longer be a good trade.
+
+Why?
+
+Because market expectations are being repriced.
+
+Because early investors are taking profits and reducing their positions.
+
+Because an elevated valuation needs time to reset.
+
+Because the chart has already suffered technical damage.
+
+Because trapped investors may sell into every rebound.
+
+A great company becomes a poor trade not because the business suddenly deteriorates.
+
+It becomes a poor trade because the market priced in the good news too early, too completely,
+and with excessive optimism.
+
+Ethan quietly said,
+
+         "So after earnings, we shouldn't read only the numbers. We also need to
+         read the market's reaction."
+
+"Exactly."
+
+         "The numbers tell us what the company delivered. The price tells us
+         whether the market is satisfied."
+
+"Very good."
+
+
+
+
+                                              - 472 -
+<PARSED TEXT FOR PAGE: 481 / 686>
+Figure Description:
+
+This figure illustrates why a great company does not always represent a good trade. The left panel
+highlights the company's continued fundamental strength, while the right panel shows price
+breaking below Support after earnings and entering a corrective phase.
+
+
+Professor's Whiteboard Session
+
+Earnings Gap Failure / Volume Climax / Top Reversal
+
+That evening, the topic of my whiteboard session with Ethan was:
+
+Earnings Gap Failure, Volume Climax, and Top Reversals.
+
+The first sentence I wrote on the board was:
+
+        An earnings report reveals the past. Price reflects expectations.
+
+The mistake investors make most often during earnings season is assuming that earnings results
+and stock price reactions should always move in the same direction.
+
+
+
+
+                                               - 473 -
+<PARSED TEXT FOR PAGE: 482 / 686>
+Good earnings should mean a higher stock price.
+
+Bad earnings should mean a lower stock price.
+
+In reality, the market is far more complicated than that.
+
+The market trades the gap between expectations and reality.
+
+If expectations were originally very low, an earnings report that is simply less bad than expected
+may still drive the stock higher.
+
+If expectations were already extremely high, an earnings report that is merely good may still send
+the stock lower.
+
+Therefore, the most important questions during earnings season are not:
+
+        "What did the company report?"
+
+Instead, ask:
+
+        "What was the market expecting?"
+
+        "How much of that expectation had already been priced in?"
+
+        "How did institutional capital react after the announcement?"
+
+
+
+I. Four Types of Earnings Reactions
+
+There are four common market reactions following an earnings announcement.
+
+First: Good Numbers, Good Reaction
+
+The company reports results above expectations.
+
+The stock rises on expanding Trading Volume and holds its gains into the close.
+
+This is the most straightforward bullish reaction.
+
+Second: Good Numbers, Bad Reaction
+
+The company delivers strong earnings, but the stock rallies initially before reversing lower, or
+even closes below the previous day's close.
+
+This often indicates that market expectations had already become too optimistic, or that
+institutional investors are taking profits on the good news.
+
+Third: Bad Numbers, Bad Reaction
+
+The company misses expectations.
+
+
+
+                                               - 474 -
+<PARSED TEXT FOR PAGE: 483 / 686>
+The stock declines sharply on heavy Trading Volume.
+
+This is the most direct bearish outcome.
+
+Fourth: Bad Numbers, Good Reaction
+
+The company reports disappointing results, yet the stock opens lower before recovering
+strongly—or even finishes higher.
+
+This may indicate that the bad news had already been fully priced in, or that the market believes
+the worst is already behind the company.
+
+
+
+
+Figure Description:
+
+This figure summarizes the four most common price reactions following an earnings
+announcement: Good Numbers, Good Reaction, Good Numbers, Bad Reaction, Bad Numbers,
+Bad Reaction, and Bad Numbers, Good Reaction.
+
+
+
+II. What Is an Earnings Gap Failure?
+
+
+
+
+                                              - 475 -
+<PARSED TEXT FOR PAGE: 484 / 686>
+An Earnings Gap Failure occurs when a company reports earnings, the stock gaps sharply higher
+at the open, but fails to hold those gains and eventually falls back into the gap—or even below the
+previous day's closing price.
+
+It typically has several characteristics.
+
+First, the stock has already advanced significantly before the earnings announcement.
+
+Second, market expectations are unusually high.
+
+Third, price gaps higher immediately after the earnings release.
+
+Fourth, heavy selling pressure appears during the trading session.
+
+Fifth, Trading Volume expands dramatically.
+
+Sixth, the stock closes with a long upper shadow or finishes below the previous day's close.
+
+Seventh, price later breaks below short-term Support.
+
+The key point of an Earnings Gap Failure is not that the earnings report was poor.
+
+In many cases, the earnings report is actually very good.
+
+The real issue is that the market refuses to accept a higher price.
+
+
+
+III. What Is a Volume Climax at the Top?
+
+A Volume Climax refers to a trading session with exceptionally heavy Trading Volume.
+
+However, it must always be interpreted within its market context.
+
+A Volume Climax at the top typically occurs after a prolonged uptrend.
+
+If price rallies during the session but then reverses lower, forming a long upper shadow or a large
+bearish candlestick on heavy Trading Volume, it suggests that a significant transfer of shares is
+taking place near the highs.
+
+This may indicate:
+
+       Early investors taking profits.
+       Institutional investors selling into abundant liquidity.
+       Momentum traders buying near the top.
+       Short-term market enthusiasm reaching an extreme.
+       Market expectations becoming overly stretched.
+
+A Volume Climax is not automatically bearish.
+
+
+
+
+                                               - 476 -
+<PARSED TEXT FOR PAGE: 485 / 686>
+But when it appears near a market top together with a failed candlestick pattern, investors should
+exercise extreme caution.
+
+
+
+IV. Confirmation Requirements for an Earnings Top Reversal
+
+I asked Ethan to memorize six confirmation conditions.
+
+First, the stock has already risen substantially before earnings.
+
+Second, market expectations and valuation have become highly optimistic.
+
+Third, the stock gaps higher after earnings but fails to hold those gains.
+
+Fourth, Trading Volume expands dramatically.
+
+Fifth, the stock closes poorly, forming either a long upper shadow or a close below the previous
+day's closing price.
+
+Sixth, price later breaks below a key Support level or fails during a retest.
+
+The sixth condition is the most important.
+
+A one-day reversal is only a warning.
+
+A breakdown that follows is the confirmation.
+
+V. What Should You Watch After an Earnings Report?
+
+After an earnings announcement, don't focus only on the news headlines.
+
+Instead, pay attention to five things.
+
+First, watch the opening direction.
+
+Did the stock gap higher or gap lower?
+
+Second, watch the intraday price action.
+
+After a gap higher, can price continue rising?
+
+After a gap lower, does buying demand begin to appear?
+
+Third, watch where the stock closes.
+
+Does it finish near the high, the middle, or the low of the day's range?
+
+Fourth, watch the Trading Volume.
+
+When volume expands, is it driving price higher—or is it simply being absorbed by selling
+pressure?
+
+
+                                                 - 477 -
+<PARSED TEXT FOR PAGE: 486 / 686>
+Fifth, watch the next two to three trading days.
+
+Does the market's reaction continue?
+
+Does price break below—or reclaim—key technical levels?
+
+Is any retest successful?
+
+Trading earnings is not simply about trading the numbers.
+
+It is about trading expectations, positioning, and the market's price reaction.
+
+
+
+Case Review
+
+Why Did the Market Reject Mercury Payments?
+
+Now let's return to Mercury Payments.
+
+Why is it such an excellent earnings-season case study?
+
+Because the earnings themselves were not disappointing.
+
+Revenue exceeded expectations.
+
+Profit exceeded expectations.
+
+Management did not lower its guidance.
+
+The business continued to grow.
+
+Yet the market still sold the stock.
+
+The reasons were not limited to a single factor.
+
+First, the stock had already advanced significantly before earnings.
+
+Second, market expectations had become exceptionally high.
+
+Third, the company's valuation had already reflected strong future growth.
+
+Fourth, management mentioned higher operating costs and increasing competitive pressure.
+
+Fifth, the earnings gap higher attracted momentum buyers.
+
+Sixth, Trading Volume exploded near the highs, yet price failed to hold its gains.
+
+Seventh, the stock closed below the previous day's closing price.
+
+Eighth, it continued falling the next day, breaking below the important €100 Support level.
+
+
+
+
+                                               - 478 -
+<PARSED TEXT FOR PAGE: 487 / 686>
+Ninth, the subsequent retest of €100 failed, turning former Support into new Resistance.
+
+All of this suggests that the market was not rejecting the company's underlying business.
+
+It was repricing its growth expectations.
+
+During his review, Ethan wrote a single sentence:
+
+        "The report was good. The reaction was bad. The reaction wins."
+
+The earnings report was good.
+
+The market's reaction was bad.
+
+And in the end, the reaction is what matters.
+
+I believe this is one of the most important conclusions in this chapter.
+
+
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down seven trading rules.
+
+Rule 1: An earnings report reflects the past. The stock price reflects expectations.
+
+Rule 2: Good earnings do not always lead to higher prices, and poor earnings do not always lead
+to lower prices.
+
+Rule 3: The greater the advance before earnings, the higher market expectations usually become.
+
+Rule 4: A gap higher that fails to hold is an important warning sign of an Earnings Gap Failure.
+
+Rule 5: A Volume Climax near the highs, combined with a long upper shadow, should raise
+concerns about institutional distribution.
+
+Rule 6: A one-day reversal is only a warning. A subsequent break below Support is the true
+confirmation.
+
+Rule 7: After earnings, don't read only the numbers. Read the market's price reaction even more
+carefully.
+
+I then added one final sentence.
+
+        "The market is not a teacher grading companies based on effort."
+
+        "It asks only one question: Is this result worth today's price?"
+
+Ethan copied the sentence into his notebook.
+
+Then he added one more line beneath it.
+
+
+
+                                                - 479 -
+<PARSED TEXT FOR PAGE: 488 / 686>
+        "Numbers tell the story. Price gives the verdict."
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter came to understand the harsh reality of earnings season.
+
+He learned that good earnings do not guarantee a rising stock price.
+
+A great company does not necessarily represent a safe trade.
+
+When market expectations become excessively high, even good news can become a reason to sell.
+
+The enormous Trading Volume on earnings day may simply represent an ideal opportunity for
+institutional investors to exchange ownership.
+
+A failed gap higher after earnings is an important warning signal.
+
+A subsequent break below Support confirms that the market structure has weakened.
+
+From this chapter onward, Ethan no longer asked only:
+
+        "Were the earnings good?"
+
+Instead, he began asking:
+
+        "What had the market already expected?"
+
+        "How much had the stock already risen before earnings?"
+
+        "Could price hold after the gap?"
+
+        "Was Trading Volume driving the advance—or being absorbed by selling
+        pressure?"
+
+        "Did the market follow through on the second day?"
+
+        "Has key Support been broken?"
+
+Earnings season is not simply an exam of good or bad results.
+
+It is the market's judgment of expectations.
+
+In the next chapter, Ethan begins one of the most important lessons in trading:
+
+Before buying any stock, ask yourself five questions.
+
+Because real trading does not begin when you click the Buy button.
+
+It begins in the moment before you place the order.
+
+
+                                               - 480 -

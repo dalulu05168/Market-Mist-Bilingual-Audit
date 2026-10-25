@@ -1,0 +1,1170 @@
+Original Market Mist PDF pages 615–641. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 615 / 686>
+Chapter 27
+The Truth Inside the Review Room: Losing Trades Are the Greatest Teacher
+
+Many investors enjoy reviewing their winning trades.
+
+Because profitable trades feel good.
+
+They open their charts, look repeatedly at the point where they entered the position, and tell
+themselves:
+
+        "That was an excellent entry."
+
+        "I identified that breakout correctly."
+
+        "My judgment on that retest was spot on."
+
+        "This trade proves my method works."
+
+Winning trades are certainly worth reviewing.
+
+But the trades that truly shape an investor are often not the profitable ones.
+
+They are the losing trades.
+
+Because losses expose the truth.
+
+They reveal whether you had a plan.
+
+They reveal whether you followed your rules.
+
+They reveal whether you chased price.
+
+They reveal whether you were afraid of missing out.
+
+They reveal whether you mistook a potential pattern for a confirmed one.
+
+They reveal whether you searched for excuses instead of honoring your Stop-Loss.
+
+The market will never comfort you simply because you lost money.
+
+But every loss points directly to the weakest part of your trading system—
+
+provided you are willing to look.
+
+Ethan Carter truly entered the review room on a quiet Friday evening.
+
+There were no major economic releases.
+
+No earnings announcements.
+
+
+
+
+                                               - 607 -
+<PARSED TEXT FOR PAGE: 616 / 686>
+No breaking news.
+
+The trading floor was quieter than usual.
+
+I called him into the conference room, turned off the live market screens, and left only a few
+charts from his previous trades.
+
+He assumed I was about to introduce another chart pattern.
+
+Instead, I said,
+
+        "Today we won't learn anything new."
+
+He looked surprised.
+
+        "Then what are we going to study?"
+
+        "Your old mistakes."
+
+His expression immediately became uncomfortable.
+
+That was perfectly normal.
+
+No one enjoys looking at their own mistakes—
+
+especially the ones that could have been avoided.
+
+But I told him,
+
+        "Your greatest teacher is not me. It's your own trading record."
+
+
+
+I. Reviewing Trades Is Not About Blaming Yourself
+
+Many investors dislike reviewing losing trades because they mistake review for self-criticism.
+
+They say things like:
+
+        "I was so foolish."
+
+        "How could I possibly have bought there?"
+
+        "I should have sold sooner."
+
+        "I'll never make that mistake again."
+
+That kind of review serves no purpose.
+
+Because it contains emotion, but no structure.
+
+
+
+
+                                              - 608 -
+<PARSED TEXT FOR PAGE: 617 / 686>
+A proper review is not about blaming yourself.
+
+It is about taking a trade apart—just as a doctor examines a medical case—to identify exactly
+where the problem occurred.
+
+On the whiteboard, I wrote four words:
+
+Setup
+
+Execution
+
+Risk
+
+Review
+
+Trade Setup.
+
+Trade Execution.
+
+Risk Management.
+
+Review and Improvement.
+
+I told Ethan,
+
+         "A losing trade is not necessarily a bad trade."
+
+He looked up.
+
+         "What do you mean?"
+
+         "If you entered according to your plan, honored your Stop-Loss exactly as
+         planned, and kept the loss under control, that is a Qualified Loss."
+
+         "Like Vega Cloud?"
+
+         "Exactly."
+
+         "But if I chased the stock higher, traded without a Stop-Loss, and allowed
+         the loss to become much larger, then it's a bad trade."
+
+         "Correct."
+
+Those two situations must never be confused.
+
+Many investors treat every loss as a personal failure, which causes them to fear losing.
+
+Others blame every loss on the market, which prevents them from learning anything.
+
+The first step of a professional trade review is to distinguish between two possibilities:
+
+
+
+                                               - 609 -
+<PARSED TEXT FOR PAGE: 618 / 686>
+Was this loss simply the normal cost of the trading system?
+
+Or was it the result of breaking my own rules?
+
+
+
+
+Figure Description:
+
+This figure illustrates the core concept of the Trading Review Room. Instead of watching live
+market prices, the trader returns to past trading records and evaluates four key areas: Setup,
+Execution, Risk, and Review.
+
+
+
+II. The First Review: Chasing HelioGrid
+
+I opened one of Ethan's earliest simulated trades.
+
+HelioGrid.
+
+It was the same trade from Chapter 2.
+
+At that time, he saw an intraday breakout in a renewable energy equipment stock.
+
+
+
+
+                                              - 610 -
+<PARSED TEXT FOR PAGE: 619 / 686>
+Excited by the move and afraid of missing out, he chased the stock after it had already surged
+sharply.
+
+By the close, however, the stock had fallen back into the trading range, producing a False
+Breakout.
+
+I asked Ethan,
+
+        "What was the biggest problem with this trade?"
+
+He answered,
+
+        "I chased the price."
+
+        "Be more specific."
+
+        "I didn't wait for the daily close to confirm the breakout."
+
+        "More specific."
+
+        "I treated an intraday breakout as a confirmed breakout."
+
+        "Go deeper."
+
+He paused for a moment.
+
+        "I didn't have a trading plan. I never defined my Entry, Stop-Loss, Target,
+        or Position Size before placing the trade."
+
+I nodded.
+
+That was the real issue.
+
+Chasing price was only the visible symptom.
+
+The underlying problem was:
+
+No trading plan.
+
+Without a plan, the market needs only a little excitement to pull you into a trade.
+
+We classified this trade as follows:
+
+Setup: Incomplete.
+
+Execution: Emotional.
+
+Risk: No clearly defined Stop-Loss.
+
+Review: Trading rules missing.
+
+
+
+                                              - 611 -
+<PARSED TEXT FOR PAGE: 620 / 686>
+Ethan wrote in his trading journal:
+
+        Mistake Type: FOMO Breakout Chase
+
+Error Type: Chasing a breakout out of the fear of missing out.
+
+
+
+
+Figure Description:
+
+This figure illustrates one of the most important comparisons in trade review: the chart seen
+before entering the trade versus the fully completed chart after the trade ended. The left panel
+shows the temptation of the intraday breakout, while the right panel shows price closing back
+inside the trading range, confirming a False Breakout.
+
+
+I told Ethan,
+
+        "When reviewing a trade, you cannot look only at the completed chart."
+
+        "Why not?"
+
+        "Because afterward you know everything. You know the breakout failed.
+        You know price fell back into the range. You know exactly where you
+
+
+
+                                              - 612 -
+<PARSED TEXT FOR PAGE: 621 / 686>
+           were wrong. But when the trade actually happened, you knew none of
+           that."
+
+That is the most common mistake in trade review:
+
+Using perfect hindsight to criticize decisions made under uncertainty.
+
+A truly effective review requires preserving two charts.
+
+The first is the chart you saw before placing the trade.
+
+The second is the completed chart after the trade ended.
+
+Only then can you fairly evaluate:
+
+Was the evidence truly sufficient at the time?
+
+Did you overlook an important risk?
+
+Did you violate your trading plan?
+
+Did the market genuinely provide enough confirmation to justify the trade?
+
+Otherwise, trade review becomes nothing more than hindsight bias.
+
+III. The Second Review: Baltic Renewables and the Potential Pattern
+
+The second chart was Baltic Renewables.
+
+It was the potential Inverse Head and Shoulders pattern discussed in Chapter 10.
+
+At the time, Ethan saw the outline of the left shoulder, the head, and the developing right shoulder,
+and wanted to buy before the pattern was confirmed.
+
+However, price never broke above the Neckline.
+
+Instead, it later fell below the low of the right shoulder, and the potential pattern failed.
+
+I asked,
+
+           "If you had bought this trade at the time, where would the mistake have
+           been?"
+
+Ethan answered immediately,
+
+           "I treated a potential pattern as a confirmed pattern."
+
+           "What else?"
+
+           "I didn't wait for the Neckline breakout, I didn't have Trading Volume
+           confirmation, and I never waited for a Retest."
+
+
+                                                 - 613 -
+<PARSED TEXT FOR PAGE: 622 / 686>
+        "Go one level deeper."
+
+He studied the chart for a moment.
+
+        "I wanted to buy at a lower price, so I lowered my standards for
+        confirmation."
+
+That sentence was extremely important.
+
+Many trading mistakes are not caused by a lack of understanding.
+
+They are caused by the desire to buy cheaply.
+
+The desire to buy cheaply leads investors to reach conclusions too early.
+
+It causes them to mistake an unfinished pattern for a completed one.
+
+It encourages them to ignore confirmation.
+
+And it persuades them to accept greater uncertainty while believing they are actually reducing
+risk.
+
+We classified this type of mistake as:
+
+Premature Pattern Recognition
+
+Recognizing a pattern before it has actually been confirmed.
+
+
+
+
+                                                - 614 -
+<PARSED TEXT FOR PAGE: 623 / 686>
+Figure Description:
+
+This figure illustrates the Pattern Review System. The review process follows six stages: Pattern
+Candidate → Confirmation Signal → Entry → Invalidation Level → Outcome → Lesson. It
+emphasizes that every pattern-based trade should be reviewed through the same structured
+process.
+
+
+I told Ethan,
+
+        "From today onward, every pattern trade must answer six questions."
+
+First: At the time of entry, was it merely a pattern candidate, or had it already been confirmed?
+
+Second: What was the confirmation signal?
+
+Third: Was the trade entered at the planned price?
+
+Fourth: Had the invalidation level been defined before entering?
+
+Fifth: What was the actual outcome?
+
+
+
+
+                                              - 615 -
+<PARSED TEXT FOR PAGE: 624 / 686>
+Sixth: What rule should be added or modified in the trading system as a result of this trade?
+
+The purpose of trade review is not to prove that you were foolish.
+
+The purpose is to turn mistakes into trading rules.
+
+If a mistake never becomes a rule, it is very likely to happen again.
+
+
+
+IV. The Third Review: VectorMind's False Breakout
+
+The third chart belonged to VectorMind Systems.
+
+It was the False Breakout example from Chapter 13.
+
+The industrial software stock broke above the upper boundary of a four-month trading range.
+
+Intraday gains were substantial.
+
+Trading Volume expanded significantly.
+
+But by the close, price had fallen back inside the trading range, leaving a long upper shadow.
+
+I asked Ethan,
+
+        "What made this trade so deceptive?"
+
+He replied,
+
+        "At first, it looked completely genuine."
+
+        "Exactly."
+
+The real danger of a False Breakout is not that it looks weak from the beginning.
+
+It is that it initially looks extremely strong.
+
+Price breaks out.
+
+Trading Volume expands.
+
+The news appears supportive.
+
+The sector is strengthening.
+
+The market is full of optimistic discussion.
+
+All of those factors convince traders that the breakout is real.
+
+But the closing price tells a different story.
+
+
+
+
+                                                  - 616 -
+<PARSED TEXT FOR PAGE: 625 / 686>
+The market has not accepted the higher price following the breakout.
+
+Ethan wrote the following notes in his review journal:
+
+Setup: A clearly defined trading range with a valid breakout candidate.
+
+Execution: Buying intraday would have been premature execution.
+
+Risk: Exit immediately if price falls back inside the trading range.
+
+Outcome: Failed close. False Breakout.
+
+Lesson: Breakout trades must be judged by market acceptance at the close—not by intraday
+excitement.
+
+Then I asked him to write another sentence beside it.
+
+        Do not buy the breakout. Buy the acceptance.
+
+He had written those words before.
+
+But writing them again during the review had a completely different meaning.
+
+The first time, he understood the concept.
+
+The second time, he remembered the lesson.
+
+
+
+
+                                              - 617 -
+<PARSED TEXT FOR PAGE: 626 / 686>
+Figure Description:
+
+This figure distinguishes between a Qualified Loss and a Rule Violation. The left panel illustrates
+a properly planned trade that exits through a disciplined Stop-Loss with only a small loss. The
+right panel shows an undisciplined breakout chase without a plan or Stop-Loss, resulting in a
+much larger loss.
+
+
+I told Ethan,
+
+        "Don't put every losing trade into the same category."
+
+He nodded.
+
+        "Losses should be classified as well."
+
+        "Exactly."
+
+There are two types of losses.
+
+The first is a Qualified Loss.
+
+
+
+
+                                              - 618 -
+<PARSED TEXT FOR PAGE: 627 / 686>
+This type of loss comes from normal market probabilities.
+
+You had a plan.
+
+You waited for confirmation.
+
+You defined your Stop-Loss.
+
+You controlled your position size.
+
+The market simply failed to behave as expected.
+
+You exited according to your plan.
+
+This type of loss is simply the cost of operating the trading system.
+
+The second is a Rule Violation.
+
+This type of loss comes from incorrect behavior.
+
+You had no plan.
+
+You chased price.
+
+You failed to wait for confirmation.
+
+You traded an oversized position.
+
+You ignored your Stop-Loss.
+
+You changed your trading thesis after entering the trade.
+
+This kind of loss must be treated seriously.
+
+Because it is not a market expense.
+
+It is a breakdown in discipline.
+
+
+
+V. The Fourth Review: Vega Cloud and a Qualified Loss
+
+The final chart was Vega Cloud Infrastructure.
+
+It was the Stop-Loss example from Chapter 23.
+
+That trade lost money.
+
+But it was still a Qualified Trade.
+
+Ethan waited patiently for the trading range breakout.
+
+
+
+
+                                               - 619 -
+<PARSED TEXT FOR PAGE: 628 / 686>
+The stock closed above Resistance.
+
+Trading Volume confirmed the move.
+
+Position size had been calculated in advance.
+
+The Stop-Loss had already been written into the trading plan.
+
+When the breakout failed, he exited exactly according to the plan.
+
+I asked,
+
+           "Does this losing trade require us to change the trading system?"
+
+Ethan thought for a moment.
+
+           "Not necessarily."
+
+           "Why?"
+
+           "Because it wasn't an execution error. The breakout signal was valid at the
+           time. It simply failed afterward. I honored my Stop-Loss, and the loss
+           remained under control."
+
+           "Very good."
+
+Many traders review a losing trade and immediately conclude that the trading system itself is
+flawed.
+
+That is a mistake.
+
+Every trading system produces losses.
+
+If a trade followed every rule of the system and simply resulted in a loss, the system does not
+necessarily need to be changed.
+
+If you rewrite your rules every time you lose money, your trading system will never become
+stable.
+
+Trade review is not about changing your rules every time a trade loses money.
+
+Instead, you must determine:
+
+Did the loss come from normal probability—or from a flaw in the trading rules?
+
+If it came from normal probability, accept it.
+
+If it exposed a weakness in the rules, improve the system.
+
+If it resulted from poor execution, train your execution.
+
+
+
+                                                 - 620 -
+<PARSED TEXT FOR PAGE: 629 / 686>
+Figure Description:
+
+This figure categorizes trading losses into five groups: Normal Probability, Analytical Errors,
+Execution Errors, Risk Management Errors, and Emotional Errors.
+
+
+Ethan stared at the classification chart for a long time.
+
+Finally, he said,
+
+        "I used to think every losing trade meant failure."
+
+        "And now?"
+
+        "Now the first question I ask is: What kind of loss was it?"
+
+That was the moment his review system truly began to take shape.
+
+
+
+Professor's Whiteboard Session
+
+Pattern Review System
+
+
+                                                - 621 -
+<PARSED TEXT FOR PAGE: 630 / 686>
+That evening, the topic of my whiteboard lesson for Ethan was:
+
+The Pattern Review System.
+
+The first sentence I wrote on the board was:
+
+        Trading experience without review is merely repeated experience. Only
+        reviewed losses become real skill.
+
+Many people spend ten years in the market without making meaningful progress.
+
+Not because they lack experience.
+
+But because they never transform experience into knowledge.
+
+The market gives everyone data.
+
+Only those who review their trades turn that data into rules.
+
+
+
+I. Why Build a Trade Review System?
+
+A review system serves four important purposes.
+
+First: Identify recurring mistakes.
+
+If a mistake happens once, it may simply be an accident.
+
+If it happens three times, it has become a pattern.
+
+If you repeatedly lose money by chasing intraday breakouts, the problem is not a particular stock.
+
+If you consistently hesitate to execute your Stop-Loss, the problem is not market volatility.
+
+If you repeatedly buy after good news near the highs, the problem is not the earnings report.
+
+Trade review brings recurring mistakes to the surface.
+
+Second: Distinguish different types of losses.
+
+Not every loss should be eliminated.
+
+A Qualified Loss is simply the cost of the trading system.
+
+A Rule Violation is what deserves your attention.
+
+Third: Improve trading rules.
+
+Trade review helps you discover whether your rules are too loose, too strict, or incomplete.
+
+For example:
+
+
+                                                 - 622 -
+<PARSED TEXT FOR PAGE: 631 / 686>
+Should you require confirmation at the close?
+
+Should you add a Trading Volume filter?
+
+Should you avoid opening new positions immediately before earnings announcements?
+
+Should you limit total exposure to stocks within the same sector?
+
+Fourth: Improve execution.
+
+Trade review forces you to confront whether you actually followed your trading plan.
+
+Many trading problems are not knowledge problems.
+
+They are execution problems.
+
+
+
+II. What Should Be Recorded During a Trade Review?
+
+A complete trade review should contain at least ten items.
+
+First: Trade date.
+
+Second: Asset name.
+
+Third: Trade type.
+
+Fourth: Reason for entering the trade.
+
+Fifth: Confirmation signal.
+
+Sixth: Entry price.
+
+Seventh: Stop-Loss level.
+
+Eighth: Target price.
+
+Ninth: Final outcome.
+
+Tenth: Review conclusion.
+
+But even that is not enough.
+
+I required Ethan to preserve two additional charts.
+
+The chart before entering the trade.
+
+And the chart after exiting the trade.
+
+Only then could he truly see the uncertainty he faced at the time the decision was made.
+
+
+
+
+                                              - 623 -
+<PARSED TEXT FOR PAGE: 632 / 686>
+- 624 -
+<PARSED TEXT FOR PAGE: 633 / 686>
+Figure Description:
+
+This figure presents a Trade Review Journal Template, including trade information, the reason for
+entry, confirmation signals, the risk management plan, the final outcome, and the review
+conclusion.
+
+
+
+III. The Four Layers of Trade Review
+
+I designed a four-layer review process for Ethan.
+
+Layer One: Was the pattern valid?
+
+Was it a confirmed pattern or merely a potential one?
+
+Were the key price levels clearly defined?
+
+Did Trading Volume support the pattern?
+
+Did the pattern have sufficient time to develop?
+
+Did the overall market environment support the trade?
+
+Layer Two: Was the entry appropriate?
+
+Did you enter according to your plan?
+
+Did you chase price?
+
+Did you enter too early?
+
+Did you wait for confirmation at the close?
+
+Did emotion change your entry decision?
+
+Layer Three: Was risk clearly defined?
+
+Was the Stop-Loss determined before entry?
+
+Was Position Size calculated according to risk?
+
+Was the Risk-Reward Ratio acceptable?
+
+Did you consider portfolio correlation?
+
+Layer Four: Was execution disciplined?
+
+Did you honor your Stop-Loss?
+
+Did you reduce the position according to your target plan?
+
+
+
+                                              - 625 -
+<PARSED TEXT FOR PAGE: 634 / 686>
+Did you change your trading thesis after entering?
+
+Did fear or greed cause you to modify your trading plan?
+
+These four layers are far more important than simply asking,
+
+"Did I make money or lose money?"
+
+Because profitable trades may simply reflect good luck.
+
+And losing trades may still represent excellent execution.
+
+What truly deserves review is the quality of the process.
+
+
+
+
+Figure Description:
+
+This figure illustrates the Four Layers of Trade Review: Setup Quality, Entry Quality, Risk
+Quality, and Execution Quality.
+
+
+
+IV. Outcome Bias: Making Money Does Not Mean You Were Right
+
+
+
+
+                                              - 626 -
+<PARSED TEXT FOR PAGE: 635 / 686>
+I told Ethan that one of the most dangerous psychological biases in trade review is called
+Outcome Bias.
+
+It means judging the quality of a decision solely by its outcome.
+
+If the trade makes money, you assume you were right.
+
+If the trade loses money, you assume you were wrong.
+
+That is extremely dangerous.
+
+Because the market contains a great deal of short-term randomness.
+
+You may make money for the wrong reasons.
+
+You may also lose money despite following the correct process.
+
+For example:
+
+You chase a breakout without a plan, and the stock continues rising that day.
+
+You make money.
+
+That is not a good trade.
+
+On the other hand:
+
+You wait patiently for confirmation.
+
+You follow your trading plan.
+
+You honor your Stop-Loss exactly as planned.
+
+You lose a small amount of money.
+
+That may be an excellent trade.
+
+If profit and loss become your only measure of success, you will reward bad behavior and punish
+good behavior.
+
+Over time, your entire trading system will become distorted.
+
+
+
+
+                                              - 627 -
+<PARSED TEXT FOR PAGE: 636 / 686>
+Figure Description:
+
+This figure explains Outcome Bias using a four-quadrant framework: Good Process + Profit,
+Good Process + Loss, Poor Process + Profit, and Poor Process + Loss. It emphasizes that the
+focus of trade review should always be the quality of the process—not simply the financial result.
+
+
+When Ethan looked at the quadrant labeled Poor Process + Profit, he smiled.
+
+        "That really is the most dangerous one."
+
+        "Why?"
+
+        "Because it makes me believe that a bad method actually works."
+
+        "Exactly."
+
+Sometimes the market rewards bad habits.
+
+That is precisely what makes them so dangerous.
+
+One profitable breakout chase without a plan may encourage you to chase the next one.
+
+
+
+                                             - 628 -
+<PARSED TEXT FOR PAGE: 637 / 686>
+One position that eventually recovers after you ignored your Stop-Loss may tempt you to ignore
+future Stop-Losses.
+
+One oversized position that happens to succeed may persuade you to take even larger positions
+later.
+
+A profitable trade built on a poor process is the market's sweetest poison.
+
+A proper review must recognize it.
+
+
+
+V. From Trade Review to Trading Rules
+
+Trade review cannot end with a summary.
+
+It must be transformed into rules.
+
+I required Ethan to finish every review by writing one final sentence:
+
+Next Rule
+
+The next trading rule.
+
+For example:
+
+The review of HelioGrid produced this rule:
+
+An intraday breakout alone can never justify an entry. Wait for confirmation at the close, or
+follow clearly defined intraday trading rules.
+
+The review of Baltic Renewables produced this rule:
+
+A bottoming pattern that has not broken above the Neckline belongs only on the watchlist. It must
+never be traded as a confirmed pattern.
+
+The review of VectorMind Systems produced this rule:
+
+If price closes back inside the trading range after a breakout, treat it as a failed breakout and
+immediately abandon the breakout thesis.
+
+The review of Vega Cloud produced this rule:
+
+A small loss taken exactly according to plan does not require changes to the trading system.
+Record it simply as a Qualified Loss.
+
+Those rules became the lasting value created by each losing trade.
+
+If a losing trade produces no new rule, it remains nothing more than a loss.
+
+If a losing trade makes the trading system clearer, it becomes tuition well spent.
+
+
+
+                                                - 629 -
+<PARSED TEXT FOR PAGE: 638 / 686>
+Figure Description:
+
+This figure illustrates how trade review is transformed into practical trading rules through the
+following process: Losing Trade → Review → Mistake Type → Rule Update → Future Checklist.
+
+Case Review
+
+What Did Ethan Learn from His Four Trades?
+
+Now let's return to Ethan's four reviewed trades.
+
+The first was HelioGrid.
+
+It taught him this:
+
+Chasing a breakout without a trading plan is the easiest way to become trapped by a False
+Breakout.
+
+The second was Baltic Renewables.
+
+It taught him this:
+
+
+
+
+                                              - 630 -
+<PARSED TEXT FOR PAGE: 639 / 686>
+A potential pattern is not a confirmed pattern. The more eager you are to buy at a lower price, the
+more cautious you must be about drawing conclusions too early.
+
+The third was VectorMind Systems.
+
+It taught him this:
+
+The breakout itself is not the buy signal. Market acceptance of the breakout is the real buy signal.
+
+The fourth was Vega Cloud Infrastructure.
+
+It taught him this:
+
+A losing trade is not necessarily a mistake. A small loss taken according to plan is simply the cost
+of the trading system.
+
+Each of these four trades was more valuable than the one before.
+
+Not because they made money.
+
+But because they made Ethan's trading system clearer.
+
+He began to understand which mistakes he was most likely to make.
+
+He tended to become overly excited during breakouts.
+
+He tended to imagine completion while a pattern was still only developing.
+
+He was easily tempted by strong intraday price action.
+
+He also found himself hesitating briefly when it was time to execute a Stop-Loss.
+
+There was nothing embarrassing about recognizing those weaknesses.
+
+On the contrary—
+
+that was the beginning of becoming a professional trader.
+
+Someone who does not know his own weaknesses will repeatedly allow the market to exploit
+them.
+
+Only someone who understands those weaknesses can design rules to protect himself.
+
+
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down eight rules.
+
+Rule 1: Trade review is not about blaming yourself. It is about identifying weaknesses in the
+trading system.
+
+
+
+                                              - 631 -
+<PARSED TEXT FOR PAGE: 640 / 686>
+Rule 2: Losing trades must be separated into Qualified Losses and Rule Violations. Never place
+them in the same category.
+
+Rule 3: Preserve both the chart before entering the trade and the completed chart after exiting.
+
+Rule 4: Every trade review should evaluate four dimensions: Pattern, Entry, Risk, and Execution.
+
+Rule 5: A profitable trade does not necessarily mean the process was correct, and a losing trade
+does not necessarily mean the process was wrong.
+
+Rule 6: A profitable trade produced by a poor process is the most dangerous outcome, because it
+reinforces bad habits.
+
+Rule 7: Every trade review must produce one new, actionable trading rule.
+
+Rule 8: If the same mistake occurs three times, the trading system must be revised.
+
+Then I added one final sentence.
+
+        The market will not let you graduate simply because you have paid tuition.
+        Only when tuition becomes a rule have you truly learned the lesson.
+
+Ethan copied the sentence into his notebook.
+
+Then he added one of his own.
+
+        A reviewed loss becomes a rule.
+
+A reviewed loss becomes a rule.
+
+That was the real growth he achieved in Chapter 27.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter truly entered the world of systematic trade review.
+
+He came to understand that:
+
+A trading record is not kept to prove whether you were right or wrong.
+
+It exists to uncover recurring patterns in your own behavior.
+
+Losing trades are not frightening.
+
+What is truly dangerous is failing to review them afterward.
+
+Even worse is allowing the same mistake to happen again and again without ever turning it into a
+trading rule.
+
+
+
+
+                                               - 632 -
+<PARSED TEXT FOR PAGE: 641 / 686>
+From this chapter onward, Ethan no longer judged trades solely by profit and loss.
+
+Instead, he began evaluating the quality of the process.
+
+Was the pattern genuinely valid?
+
+Was the confirmation sufficient?
+
+Was the entry executed according to plan?
+
+Was the Stop-Loss defined in advance?
+
+Was the Position Size appropriate?
+
+Was the Risk-Reward Ratio attractive?
+
+Did the execution follow the trading rules?
+
+Was the outcome produced by the trading system—or merely by luck?
+
+He also finally understood:
+
+Winning trades bring satisfaction.
+
+Losing trades create growth.
+
+Provided that you are willing to examine them honestly.
+
+In the next chapter—the final lesson—Ethan will bring together everything he has learned
+throughout the book:
+
+Price Action. Trading Volume. Chart Patterns. Market Trends. Capital Flow. Market Sentiment.
+Position Sizing. Stop-Losses. Trade Review.
+
+He will return to the very first question that started this journey:
+
+What is price, really?
+
+And there, I will finally reveal the answer this book has been building toward from the very
+beginning.
+
+
+
+
+                                                - 633 -

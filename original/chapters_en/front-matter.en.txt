@@ -1,0 +1,277 @@
+Original Market Mist PDF pages 3–8. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 3 / 686>
+                                        Market Mist
+       — A Complete Investment Guide from Market Behavior to Trading System —
+
+                                 Author: Jonathan Richard Hayes
+
+Preface
+Why I Wrote This Book
+
+To Everyone Who Has Ever Been Lost in the Mist
+
+I have seen too many intelligent people become unlike themselves in front of the market.
+
+They think clearly in the boardroom and can break down a company's business model into more
+than a dozen parts. They can read complex financial statements, explain the relationships
+among interest rates, inflation, exchange rates, and industry cycles, and even persuade everyone
+ at an investment conference with eloquent presentations.
+
+Yet the moment prices begin to move rapidly across the screen, they become nervous, hesitant,
+impulsive, and even irrational.
+
+A single strong bullish candlestick can make them forget valuation.
+
+A sudden bearish candlestick can make them forget logic.
+
+A single news headline can make them abandon an investment plan they spent three months
+preparing.
+
+This is not because they are not intelligent enough.
+
+On the contrary, many people fail in the market not because they lack intelligence, but because
+they have never truly understood one thing:
+
+Price is not the answer. Price is only the entrance to the mist.
+
+When you see a stock rising, the truly important question is not:
+
+“It has gone up. Should I buy it?”
+But rather:
+
+“Why is it rising?”
+
+“Who is buying?”
+
+“What happened before the advance?”
+
+“Does volume confirm the move?”
+
+“Is this a genuine breakout or a bull trap?”
+
+“If I am wrong, where will the market tell me so?”
+<PARSED TEXT FOR PAGE: 4 / 686>
+Likewise, when you see a stock falling, the truly important question is not:
+
+“It has fallen. Should I sell?”
+
+But rather:
+
+“Is this a broken trend or a healthy pullback?”
+
+“Is this panic selling or institutional accumulation?”
+
+“Has the decline broken below a key support level?”
+
+“Does volume confirm the rebound?”
+
+“Is this pattern preparing for the next trend, or completing a distribution phase?”
+
+The greatest challenge in investment education is that the market never writes the answers
+directly on the chart.
+
+It only leaves clues—and those clues are often hidden in the mist.
+
+Price is a clue.
+
+Volume is a clue.
+
+Support and resistance are clues.
+
+Breakouts and retests are clues.
+
+Top and bottom patterns are also clues.
+
+The investor’s task is to learn how to read those clues through the mist.
+
+I did not write this book to tell you about some magical indicator, nor to persuade you that any
+particular chart pattern will always work. There is no pattern that works forever, and there is
+no model that is always right.
+
+What I truly want to share is a way of observing the market through the mist.
+
+It begins with price, but does not stop at price.
+
+It uses technical analysis, but does not worship chart patterns.
+
+It studies fundamentals, but does not ignore timing.
+
+It respects market psychology and understands the logic behind institutional capital.
+
+Many years ago, at an international investment research firm, I met a young research analyst.
+
+His name was Ethan Carter.
+
+He was intelligent, hardworking, quick to learn, and he also had the most common weakness of
+young investors: he was too impatient, too confident in himself, and too easily led by price.
+
+He believed investing was about finding answers.
+<PARSED TEXT FOR PAGE: 5 / 686>
+Later he realized that investing is more about asking better questions in the mist.
+
+This book is the story of the journey that Ethan Carter and I experienced together through the
+market mist.
+
+You will see how he chased rising prices, panicked, misread chart patterns, became confused
+despite excellent financial statements, grew overconfident in bull markets, doubted himself in
+bear markets, and gradually learned to connect price, volume, chart patterns, capital flows,
+sentiment, and risk.
+
+After every story, I would bring him back to the whiteboard.
+
+There, we did not discuss emotions—we discussed structure.
+
+We did not argue about predictions—we examined evidence.
+
+We did not search for perfect answers—we built better frameworks for judgment.
+
+Because a truly mature investor is not someone who is always right.
+
+It is someone who knows why they were wrong when the market proves them wrong, and knows
+ why an opportunity exists when the market presents one.
+
+That is what Market Mist hopes to accomplish.
+
+It is not a cold technical analysis textbook.
+
+Nor is it merely an inspirational investment story.
+
+It is a classroom about the market.
+
+And when you close this book, I hope you will remember not only Ethan Carter’s story, nor
+merely a WBottom, Triple Top, Flag Pattern, or V-Shaped Reversal.
+
+More importantly, I hope that whenever you see price again, you will ask one more question:
+
+“What is really happening behind the mist?”
+<PARSED TEXT FOR PAGE: 6 / 686>
+                                                    Contents
+
+
+Chapter 1 ------------------------------------------------------------------------------------------------------ - 1 -
+
+     Day One in the Research Department: Price Is Not the Answer—It Is the Question ------- - 1 -
+
+Chapter 2 ---------------------------------------------------------------------------------------------------- - 23 -
+
+     The Candlestick That Chased the Price: The Trap Beginners Fall Into Most Easily ------ - 23 -
+
+Chapter 3 ---------------------------------------------------------------------------------------------------- - 49 -
+
+     Mr. Market's Temper: Why the Market Always Moves Against Human Nature ---------- - 49 -
+
+Chapter 4 ---------------------------------------------------------------------------------------------------- - 62 -
+
+     The First Research Report: Fundamentals Are Not a Master Key --------------------------- - 62 -
+
+Chapter 5 ---------------------------------------------------------------------------------------------------- - 83 -
+
+     The Steering Wheel of Trend: Why the Market Moves with Momentum. ------------------- 83 -
+
+Chapter 6 ---------------------------------------------------------------------------------------------------- 104 -
+
+     Support and Resistance: The Footprints Left by Market Memory. -------------------------- 104 -
+
+Chapter 7 ---------------------------------------------------------------------------------------------------- 125 -
+
+     The Whisper of Volume: Is There Real Strength Behind the Price? ----------------------- - 125 -
+
+Chapter 8 ---------------------------------------------------------------------------------------------------- 147 -
+
+     Candlesticks Are Not Candles—They Are Records of the Battlefield ---------------------- 147 -
+
+Chapter 9 ---------------------------------------------------------------------------------------------------- 166 -
+
+     The Temperature of Moving Averages: How Market Cost Becomes the Track of a Trend- 166 -
+
+Chapter 10 ------------------------------------------------------------------------------------------------- - 185 -
+
+     The Trap of Chart Patterns: They May Look the Same, Yet Lead to Completely Different
+     Outcomes -------------------------------------------------------------------------------------------- - 185 -
+
+Chapter 11 ------------------------------------------------------------------------------------------------- - 207 -
+
+     Institutional Footprints: Why Large Capital Cannot Buy Quietly -------------------------- - 207 -
+
+Chapter 12 ------------------------------------------------------------------------------------------------- - 234 -
+<PARSED TEXT FOR PAGE: 7 / 686>
+     The Art of the Shakeout: Why Even Great Stocks Can Intentionally Frighten Investors- 234 -
+
+Chapter 13 ------------------------------------------------------------------------------------------------- - 257 -
+
+     The False Breakout Trap: The Market Rewards Patience and Punishes Impulse -------- - 257 -
+
+Chapter 14 ------------------------------------------------------------------------------------------------- - 282 -
+
+     The Institutions' Distribution Banquet: The Market Is Often Most Dangerous When It Is
+     Most Exciting --------------------------------------------------------------------------------------- - 282 -
+
+Chapter 15 ------------------------------------------------------------------------------------------------- - 311 -
+
+     Institutional Capital Inside ETFs: Index Products Have Their Own Personality ---------- 311 -
+
+Chapter 16 ------------------------------------------------------------------------------------------------- - 334 -
+
+     The Bull Market's Champagne Tower: How Rising Prices Make Investors Forget Risk- 334 -
+
+Chapter 17 ------------------------------------------------------------------------------------------------- - 374 -
+
+     The Bear Market Elevator: Why Declines Always Move Faster Than Advances ------- - 374 -
+
+Chapter 18 ------------------------------------------------------------------------------------------------- - 394 -
+
+     The Sideways Market Maze: The Hardest Market Is Not the Decline—It's the Endless
+     Whipsaws --------------------------------------------------------------------------------------------- 394 -
+
+Chapter 19 ------------------------------------------------------------------------------------------------- - 415 -
+
+     The Night of the Black Swan: When Every Model Stops Working ------------------------ - 415 -
+
+Chapter 20 ------------------------------------------------------------------------------------------------- - 438 -
+
+     The Baton of Sector Rotation: Where Capital Comes From—and Where It Goes Next - 438 -
+
+Chapter 21 ------------------------------------------------------------------------------------------------- - 459 -
+
+     Earnings Season on Trial: Why the Market Rejects Good Numbers ------------------------ 459 -
+
+Chapter 22 ------------------------------------------------------------------------------------------------- - 481 -
+
+     Five Questions Before You Buy: Real Trading Begins Before You Place the Order --- - 481 -
+
+Chapter 23 ------------------------------------------------------------------------------------------------- - 506 -
+
+     Stop-Loss Is Not Defeat: It Is an Investor's Seat Belt ---------------------------------------- - 506 -
+
+Chapter 24 ------------------------------------------------------------------------------------------------- - 529 -
+<PARSED TEXT FOR PAGE: 8 / 686>
+     The Chessboard of Position Sizing: Why Two Traders Can Be Right Yet End Up With
+     Completely Different Results -------------------------------------------------------------------- - 529 -
+
+Chapter 25 ------------------------------------------------------------------------------------------------- - 556 -
+
+     Risk-Reward Ratio: Not Every Opportunity Is Worth Trading ----------------------------- - 556 -
+
+Chapter 26 ------------------------------------------------------------------------------------------------- - 581 -
+
+     The Four-Dimensional Analysis Framework: Fundamentals, Technical Structure, Capital
+     Flow, and Market Sentiment --------------------------------------------------------------------- - 581 -
+
+Chapter 27 ------------------------------------------------------------------------------------------------- - 607 -
+
+     The Truth Inside the Review Room: Losing Trades Are the Greatest Teacher ------------ 607 -
+
+Chapter 28 ------------------------------------------------------------------------------------------------- - 634 -
+
+     The Final Lesson: The Truth Behind Price ------------------------------------------------------ 634 -
+
+Afterword -------------------------------------------------------------------------------------------------- - 661 -
+
+     To Those Who Are Still Learning in the Market ---------------------------------------------- - 661 -
+
+Final Summary --------------------------------------------------------------------------------------------- 677 -
+
+     The Truth Behind Price began with a simple question: -------------------------------------- - 677 -
+
+     What is price? --------------------------------------------------------------------------------------- - 677 -

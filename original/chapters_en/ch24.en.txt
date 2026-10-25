@@ -1,0 +1,1198 @@
+Original Market Mist PDF pages 537–563. Text extraction, diagrams excluded.
+
+<PARSED TEXT FOR PAGE: 537 / 686>
+Chapter 24
+The Chessboard of Position Sizing: Why Two Traders Can Be Right Yet End Up
+With Completely Different Results
+After Ethan Carter learned how to use Stop-Losses, I thought he would become a more cautious
+trader.
+
+For a while, he did.
+
+But the market soon presented him with another challenge.
+
+This time, it was not testing whether he could accept a stop-loss.
+
+It was testing whether he had the discipline to control his position size.
+
+Many investors believe that as long as they correctly predict market direction, everything else
+will take care of itself.
+
+They often say:
+
+        "I was right about that stock."
+
+        "That sector really did rally later."
+
+        "I knew it was going to break out."
+
+But the market does not reward you simply because your directional analysis is correct.
+
+Two traders can identify exactly the same opportunity.
+
+One earns consistent profits.
+
+Another makes only a small gain.
+
+A third still loses money—or even blows up the account.
+
+What makes the difference?
+
+Position Size.
+
+Position sizing is one of the most underestimated aspects of trading.
+
+Because it is not as visually obvious as a chart.
+
+It is not as logical as financial statements.
+
+It is not as exciting as breaking news.
+
+And it is certainly not as emotionally satisfying as clicking the Buy button.
+
+
+
+                                                - 529 -
+<PARSED TEXT FOR PAGE: 538 / 686>
+Yet position sizing determines how much risk you actually assume.
+
+Your market analysis tells you what might happen.
+
+Your position sizing determines how much you lose if you are wrong.
+
+And how much you make if you are right.
+
+I often tell my research team:
+
+        Trading is not a game of predicting direction. It is a game of managing the
+        size of your bets.
+
+Ethan truly understood that lesson while studying a European industrial software company.
+
+For the purposes of this book, I will call it AsterWorks Automation.
+
+AsterWorks Automation provides industrial process control software, predictive maintenance
+systems, and smart factory data platforms for European manufacturers. Its clients include
+automotive parts suppliers, machinery manufacturers, and large industrial groups.
+
+The company was not one of the market's hottest names, but it had a very clear investment thesis.
+
+After facing rising production costs, European manufacturers were becoming increasingly
+focused on automation and efficiency improvements.
+
+Rather than expanding production capacity, many companies were investing in software to reduce
+energy consumption, minimize downtime, and improve production-line efficiency.
+
+AsterWorks was gradually increasing the proportion of its subscription-based revenue, while its
+profit margins continued to improve.
+
+From a technical perspective, the chart was equally attractive.
+
+Following a strong advance, the stock formed a six-week consolidation near its highs.
+
+During the consolidation, Trading Volume gradually contracted.
+
+The 20-Day Moving Average continued rising.
+
+The 50-Day Moving Average also maintained a steady upward slope.
+
+Relative to the Industrial Software ETF, the stock continued outperforming the broader market.
+
+The entire industrial automation sector was also one of the market's leadership groups during the
+current phase of sector rotation.
+
+Everything pointed to a textbook high-quality Bull Flag.
+
+Ethan spotted it almost immediately.
+
+
+
+                                              - 530 -
+<PARSED TEXT FOR PAGE: 539 / 686>
+When he brought me the chart, he sounded far more confident than before.
+
+        "Professor, this is a very high-quality pattern."
+
+I looked at the chart.
+
+        "Tell me why."
+
+He replied,
+
+        "The previous advance created a strong flagpole. The pullback is shallow.
+        Trading Volume has contracted during the consolidation, while price
+        continues holding above the 20-Day Moving Average. Sector Relative
+        Strength is still improving. If price breaks above the upper boundary of the
+        flag, the uptrend could resume."
+
+I nodded.
+
+        "Very good."
+
+Then he added,
+
+        "This time, I want to take a larger position."
+
+I looked up.
+
+That sentence was even more important than the chart itself.
+
+
+
+I. A Great Opportunity Does Not Automatically Justify a Large Position
+
+Ethan's thinking was perfectly natural.
+
+He had recently completed several well-planned trades and had successfully executed his stop-
+losses.
+
+Now he had found what appeared to be an even higher-quality setup.
+
+Naturally, he wanted to increase his position size.
+
+This is a stage that many traders eventually go through.
+
+At first, they trade without a plan.
+
+Later, they learn to wait for confirmation.
+
+Eventually, they learn to use stop-losses.
+
+Then they begin asking themselves:
+
+
+
+                                              - 531 -
+<PARSED TEXT FOR PAGE: 540 / 686>
+        "If this opportunity is better than the others, why shouldn't I buy more?"
+
+The real question is not whether you should increase your position.
+
+The real questions are:
+
+Increase it by how much?
+
+Based on what criteria?
+
+What is the maximum acceptable loss?
+
+If the trade fails, can your account comfortably absorb the loss?
+
+How does this position relate to the rest of your portfolio?
+
+Position sizing is not a reward for confidence.
+
+You cannot simply increase your position because you feel certain about a trade.
+
+One of the most dangerous sentences in the market is:
+
+        "I'm sure about this one."
+
+I asked Ethan,
+
+        "How large a position do you want to take?"
+
+He answered,
+
+        "Twenty-five percent of my simulated account."
+
+        "Why twenty-five percent?"
+
+He hesitated.
+
+        "Because the pattern is high quality."
+
+        "A high-quality pattern may justify a larger position," I replied. "But why
+        25% instead of 15%? Why not 18%? Or 30%?"
+
+He had no answer.
+
+So I continued.
+
+        "If you buy a 25% position and your stop-loss is triggered, how much will
+        you lose?"
+
+He looked back at the chart.
+
+
+
+
+                                               - 532 -
+<PARSED TEXT FOR PAGE: 541 / 686>
+His planned entry was around €76.
+
+His Stop-Loss was just below €72.
+
+That meant the risk was approximately €4 per share.
+
+Assume the simulated account was worth €1,000,000.
+
+A 25% position would represent €250,000.
+
+At an entry price of €76, he could purchase approximately 3,289 shares.
+
+If the stop-loss were triggered, the loss would be:
+
+3,289 × €4 = €13,156
+
+That represented approximately 1.32% of the total account.
+
+By itself, that was not catastrophic.
+
+But there was another problem.
+
+AsterWorks was not his only position.
+
+He also owned two ETFs related to industrial automation, along with another industrial software
+company.
+
+Those positions were highly correlated.
+
+If the entire industrial automation sector declined, they could all fall together.
+
+So I asked him,
+
+         "Have you calculated the risk of this trade—or the risk of your entire
+         portfolio?"
+
+He fell silent.
+
+This is one of the most overlooked aspects of Position Sizing.
+
+A single trade may appear to carry only modest risk.
+
+But several positions in the same direction, the same sector, or the same investment theme can
+combine into a very large exposure.
+
+You may believe you own four different investments.
+
+In reality, you have simply placed four bets on the same idea.
+
+
+
+
+                                                - 533 -
+<PARSED TEXT FOR PAGE: 542 / 686>
+Figure Description:
+
+This figure illustrates that position sizing resembles a chessboard rather than a single move. It
+emphasizes how individual positions, portfolio correlation, and overall risk exposure must all be
+managed together across the entire portfolio.
+
+
+
+I told Ethan,
+
+        "You're not allocating risk to one chart. You're allocating risk across your
+        entire account."
+
+He looked down at his portfolio.
+
+        "So even if this setup is excellent, I can't evaluate it by itself."
+
+        "Exactly. Position sizing must always consider both individual trade risk
+        and total portfolio risk."
+
+
+
+II. Pattern Quality Determines Position Size—Not Emotion
+
+I asked Ethan to project the AsterWorks chart onto the meeting room screen.
+
+It truly was an excellent Bull Flag.
+
+
+                                             - 534 -
+<PARSED TEXT FOR PAGE: 543 / 686>
+The initial advance was strong.
+
+The consolidation was shallow.
+
+Trading Volume contracted steadily.
+
+The sector continued showing Relative Strength.
+
+The 20-Day Moving Average supported the price.
+
+The upper boundary of the flag was clearly defined.
+
+From a technical standpoint, it qualified as a high-quality pattern.
+
+But I reminded him,
+
+        "A high-quality pattern does not guarantee success."
+
+Every chart pattern has a probability of failure.
+
+A high-quality pattern simply offers a higher probability of success and, potentially, a better Risk-
+Reward Ratio.
+
+It may justify increasing your position size.
+
+It never justifies abandoning your risk limits.
+
+I drew a simple grading system on the whiteboard.
+
+Grade A Pattern: Standard position size is appropriate.
+
+Grade B Pattern: Half-sized or reduced position.
+
+Grade C Pattern: Small exploratory position—or simply place it on the Watchlist.
+
+Grade D Pattern: Do not trade it.
+
+Ethan asked,
+
+        "Would AsterWorks qualify as an A-rated pattern?"
+
+        "Almost."
+
+        "Why only almost?"
+
+        "Because it is already highly correlated with your existing holdings."
+
+He nodded.
+
+That is how the real world works.
+
+Viewed in isolation, a trade may deserve an A rating.
+
+
+                                                  - 535 -
+<PARSED TEXT FOR PAGE: 544 / 686>
+Within the context of your portfolio, it may deserve only a B-sized position.
+
+Because risk never exists in isolation.
+
+
+
+
+Figure Description:
+
+This figure presents a scorecard for evaluating pattern quality. Scoring categories include Trend
+Background, Pattern Duration, Trading Volume, Relative Strength, Breakout Location, Stop-Loss
+Distance, Market Environment, and Portfolio Correlation.
+
+
+
+I asked Ethan to score AsterWorks.
+
+Trend Background: A
+
+Pattern Duration: B+
+
+Trading Volume: A
+
+Relative Strength: A
+
+Breakout Location: A
+
+
+
+                                              - 536 -
+<PARSED TEXT FOR PAGE: 545 / 686>
+Stop-Loss Distance: B
+
+Market Environment: B+
+
+Portfolio Correlation: C
+
+Overall, it was not a position that justified aggressive sizing.
+
+It was a high-quality pattern.
+
+But because of its high correlation with the rest of the portfolio, the position size needed to be
+reduced.
+
+Looking at the scorecard, Ethan said,
+
+        "This is much more objective than simply saying a setup looks good."
+
+        "That's exactly the point."
+
+Traders cannot manage risk with adjectives.
+
+What exactly does good mean?
+
+What qualifies as very good?
+
+When does a setup deserve a large position?
+
+When should it be traded with only a small allocation?
+
+Those standards must be clearly defined.
+
+Otherwise, your position size will eventually be determined by emotion rather than discipline.
+
+III. Position Size Is Not Determined by How Much You Want to Buy—It Is Determined by How
+Much You Can Afford to Lose
+
+When calculating position size, many investors ask:
+
+        "How much should I buy?"
+
+That is an incomplete question.
+
+A more professional question is:
+
+        "If I'm wrong, what is the maximum amount I am willing to lose?"
+
+Position size is not determined by how much you hope to make.
+
+It is determined by how much you are willing to lose.
+
+I wrote a simple formula on the whiteboard:
+
+
+
+                                                - 537 -
+<PARSED TEXT FOR PAGE: 546 / 686>
+        Position Size = Account Risk ÷ Risk per Share
+
+Suppose the account size is €1,000,000.
+
+If Ethan limits the maximum risk on any single trade to 1%, then the maximum acceptable loss is
+€10,000.
+
+AsterWorks has a planned entry price of €76.
+
+Its Stop-Loss is €72.
+
+That means the Risk per Share is €4.
+
+The maximum position size would therefore be:
+
+€10,000 ÷ €4 = 2,500 shares
+
+The capital required would be:
+
+2,500 × €76 = €190,000
+
+Or approximately 19% of the account.
+
+Notice what this means.
+
+It does not mean Ethan must buy a 19% position.
+
+It simply means that, given a 1% account risk and a €4 Stop-Loss, 19% represents the theoretical
+maximum position size.
+
+If portfolio correlation is taken into account, he may decide to risk only 0.6% of the account.
+
+That reduces the maximum acceptable loss to €6,000.
+
+The calculation then becomes:
+
+€6,000 ÷ €4 = 1,500 shares
+
+The required capital would be approximately €114,000, or roughly 11.4% of the account.
+
+That is how position sizing is calculated.
+
+Not by intuition.
+
+Not by courage.
+
+Not by saying,
+
+        "This is a great opportunity."
+
+But by allocating a predefined risk budget.
+
+
+
+                                               - 538 -
+<PARSED TEXT FOR PAGE: 547 / 686>
+Figure Description:
+
+This figure illustrates the position sizing formula by identifying the Entry Price, Stop-Loss, Risk
+per Share, Maximum Account Risk, and the resulting Position Size.
+
+
+
+Ethan studied the formula for a long time.
+
+        "So the same stock can require a different position size simply because the
+        stop-loss distance is different."
+
+        "Exactly."
+
+        "If the stop-loss is farther away, I can't buy as many shares."
+
+        "Correct."
+
+        "And if I want a larger position, I shouldn't simply increase the position
+        size. I either have to reduce my account risk—or wait for a better entry
+        with a tighter stop-loss."
+
+        "Excellent."
+
+
+
+
+                                              - 539 -
+<PARSED TEXT FOR PAGE: 548 / 686>
+That is the essence of position sizing.
+
+Many traders ignore their stop-loss simply because they want to own more shares.
+
+Professional traders never do that.
+
+Instead, they wait for an opportunity that offers a better Risk-Reward Ratio.
+
+
+
+IV. Why Do Traders Get Different Results Even When They Are Right?
+
+Eventually, AsterWorks broke above the upper boundary of the Bull Flag.
+
+The stock advanced from €76 to €79.
+
+Several days later, it successfully retested €77.
+
+Then it continued climbing to €84.
+
+Ethan's market analysis had been correct.
+
+But I deliberately gave him an exercise.
+
+I asked him to imagine three traders who all correctly predicted the direction of this trade.
+
+Trader A: Had no trading plan, chased the breakout with 40% of the account, and used only a
+vague stop-loss.
+
+Trader B: Bought a fixed 20% position but never calculated risk based on the stop-loss distance.
+
+Trader C: Calculated position size based on a maximum account risk of 0.6%, waited for
+confirmation before entering, and used a clearly defined Stop-Loss.
+
+If price moved straight higher, all three traders would make money.
+
+But what if the stock first produced a False Breakout, triggered everyone's stop-loss, and only
+later staged a successful breakout?
+
+The results would be completely different.
+
+Trader A might suffer such a large drawdown that he loses confidence after the first pullback.
+
+Trader B might lose far more than expected, reducing his ability to participate in future
+opportunities.
+
+Trader C would lose only a small amount of capital and remain fully prepared for the next
+confirmation signal.
+
+All three traders were correct about the market direction.
+
+
+
+
+                                               - 540 -
+<PARSED TEXT FOR PAGE: 549 / 686>
+Yet they experienced completely different outcomes.
+
+Because the market rarely follows the path that feels most comfortable.
+
+Even if a stock eventually rallies, it may first retest support, shake out weak holders, produce a
+False Breakout, or spend weeks consolidating.
+
+Traders with positions that are too large often never survive long enough to benefit from
+ultimately being right.
+
+Their analysis was not wrong.
+
+Their Position Size simply prevented them from enduring the journey.
+
+
+
+
+Figure Description:
+
+This figure compares three traders who all correctly predict the market direction but experience
+dramatically different account volatility and psychological pressure because of different position
+sizes.
+
+
+
+Looking at the three equity curves, Ethan said,
+
+
+
+                                               - 541 -
+<PARSED TEXT FOR PAGE: 550 / 686>
+        "A position that's too large can turn a correct analysis into a terrible
+        trading experience."
+
+        "That's an excellent observation."
+
+He immediately wrote it down.
+
+Many people in the market are perfectly capable of identifying the right direction.
+
+Their real problem is different.
+
+When they are right, they never profit consistently.
+
+When they are wrong, they lose far too much.
+
+Several small gains are eventually erased by one large loss.
+
+That is not a problem of market analysis.
+
+It is a problem of the position sizing system.
+
+V. Adding to a Position Also Requires Rules
+
+After breaking out, AsterWorks completed a successful retest and continued moving higher.
+
+Ethan asked,
+
+        "If it successfully retests the breakout level and keeps rising, can I add to
+        my position?"
+
+        "Yes."
+
+        "How much should I add?"
+
+        "According to rules—not emotions."
+
+Adding to an existing position is often more dangerous than making the initial purchase.
+
+Because by then, the trade is already showing a profit.
+
+People begin telling themselves:
+
+        "I already have a profit cushion."
+
+        "The trend has already proven itself."
+
+        "Buying a little more won't hurt."
+
+        "This time I can make a much bigger profit."
+
+But every additional purchase must still be governed by a risk management plan.
+
+
+                                                 - 542 -
+<PARSED TEXT FOR PAGE: 551 / 686>
+I told Ethan that there are three rules for adding to a position.
+
+First, only add after the trade has developed as expected.
+
+Never add to a losing position.
+
+The only exception is when your original trading plan specifically calls for scaling into the
+position, with each entry carrying its own clearly defined risk.
+
+Second, every additional purchase must be based on a new confirmation signal.
+
+For example:
+
+       A successful retest after the breakout.
+       A second breakout from a Bull Flag.
+       A pullback on lighter Trading Volume after reaching a new high.
+
+Never add simply because the stock has gone higher.
+
+Third, your total portfolio risk must remain under control after adding to the position.
+
+If price falls back below a key level after you add shares, you must already know:
+
+How much will the entire position lose?
+
+Does the total risk still remain within your account's risk limits?
+
+
+
+
+                                                - 543 -
+<PARSED TEXT FOR PAGE: 552 / 686>
+Figure Description:
+
+This figure illustrates the rules for adding to an existing position. An initial entry is made on the
+breakout, followed by an additional purchase after a successful retest, and another modest add-on
+after a subsequent breakout. With each additional purchase, the risk management level is adjusted
+upward accordingly.
+
+
+
+Ethan said,
+
+        "So I don't add because I'm more excited. I add because the market has
+        provided new confirmation."
+
+        "Exactly."
+
+        "And if price breaks the new market structure, I should also reduce my
+        position."
+
+        "Correct."
+
+Position size is never fixed after the initial purchase.
+
+It should evolve as the market provides new evidence.
+
+
+
+                                                - 544 -
+<PARSED TEXT FOR PAGE: 553 / 686>
+When the evidence becomes stronger, you may increase exposure appropriately.
+
+When the evidence weakens, you should reduce risk.
+
+And when the original trading thesis is invalidated, you must exit.
+
+That is what dynamic position management means.
+
+
+
+Professor's Whiteboard Session
+
+Position Sizing by Pattern Quality
+
+That evening, the topic of my whiteboard session with Ethan was:
+
+Position Sizing by Pattern Quality.
+
+The first sentence I wrote on the board was:
+
+        Position size is not an expression of confidence. It is a calculation of risk.
+
+Many traders treat position size as a vote of confidence.
+
+The more optimistic they become, the more they buy.
+
+The more excited they feel, the more they buy.
+
+The more desperate they are to recover previous losses, the more they buy.
+
+The rarer they believe the opportunity is, the more they buy.
+
+That approach is extremely dangerous.
+
+Position size should be determined by three factors:
+
+Pattern Quality.
+
+Stop-Loss Distance.
+
+Account Risk.
+
+And there is one additional factor that traders often overlook:
+
+Portfolio Correlation.
+
+
+
+I. What Determines Pattern Quality?
+
+Pattern quality is not simply whether a chart "looks good."
+
+
+
+
+                                               - 545 -
+<PARSED TEXT FOR PAGE: 554 / 686>
+It is determined by multiple factors.
+
+First: Market Environment
+
+Does the overall market support the trade?
+
+Is market risk appetite stable?
+
+Is the major index in an uptrend, moving sideways, or in a downtrend?
+
+Second: Sector Strength
+
+Is the stock's sector demonstrating Relative Strength?
+
+Is it benefiting from sector rotation?
+
+Is it currently one of the market's leadership groups?
+
+Third: Pattern Duration
+
+Has the pattern had sufficient time to develop?
+
+Patterns that form too quickly are often less reliable.
+
+The longer the consolidation, the more complete the transfer of ownership tends to be.
+
+Fourth: Trading Volume
+
+Has Trading Volume contracted before the breakout?
+
+Does volume expand during the breakout?
+
+Does volume contract again during the retest?
+
+Fifth: Clarity of Key Price Levels
+
+Are Support, Resistance, the Neckline, or the boundaries of the Bull Flag clearly defined?
+
+The clearer these levels are, the easier it becomes to build a precise trading plan.
+
+Sixth: Stop-Loss Distance
+
+Is the stop-loss placed at a logical distance?
+
+If it is too wide, position size must be reduced.
+
+If it is too tight, normal market fluctuations may trigger it prematurely.
+
+Seventh: Relative Strength
+
+Is the stock outperforming both the overall market and its industry peers?
+
+
+
+
+                                                 - 546 -
+<PARSED TEXT FOR PAGE: 555 / 686>
+Leading stocks are more likely to continue attracting institutional capital.
+
+Eighth: Portfolio Correlation
+
+Do you already own similar positions?
+
+If you do, any additional exposure should be discounted accordingly.
+
+
+
+
+Figure Description:
+
+This figure summarizes the eight dimensions of pattern quality. It is designed as either a circular
+framework or a scoring model for evaluating the overall quality of a trading setup.
+
+
+II. How Should Position Sizes Be Classified?
+
+
+                                               - 547 -
+<PARSED TEXT FOR PAGE: 556 / 686>
+I suggested that Ethan divide position sizes into four categories.
+
+Exploratory Position
+
+Used for potential setups that have not yet been fully confirmed.
+
+The risk is kept low, and the position remains small.
+
+Its primary purpose is to monitor the opportunity while maintaining market exposure.
+
+Standard Position
+
+Used for trades with clear confirmation signals, high-quality chart patterns, and supportive market
+conditions.
+
+This should be the position size you use most frequently.
+
+High-Conviction Position
+
+Reserved for opportunities where multiple pieces of evidence align:
+
+       An outstanding chart pattern.
+       A clearly defined Stop-Loss.
+       Strong technical confirmation.
+       Low portfolio correlation.
+
+Even then, position size should never be increased without limits.
+
+No Position
+
+Used when the chart pattern is unclear, confirmation is insufficient, the Risk-Reward Ratio is
+unattractive, the stop-loss cannot be clearly defined, or overall portfolio risk is already too high.
+
+Sometimes, the most professional position size is zero.
+
+
+
+
+                                                - 548 -
+<PARSED TEXT FOR PAGE: 557 / 686>
+Figure Description:
+
+This figure illustrates four position-sizing categories—Exploratory Position, Standard Position,
+High-Conviction Position, and No Position—along with the situations in which each is
+appropriate.
+
+
+
+III. Fixed Allocation vs. Risk-Based Position Sizing
+
+A fixed allocation means investing the same percentage of capital in every trade.
+
+For example, buying 10% of your account in every position.
+
+The method is simple.
+
+But it has a significant weakness.
+
+Different trades require different Stop-Loss distances.
+
+Suppose one stock is purchased at 100, with a stop-loss at 95.
+
+The Risk per Share is 5%.
+
+Another stock is also purchased at 100, but its stop-loss is 85.
+
+
+
+                                               - 549 -
+<PARSED TEXT FOR PAGE: 558 / 686>
+The Risk per Share is 15%.
+
+If both positions receive the same 10% allocation, the second trade actually carries three times the
+risk of the first.
+
+A risk-based position sizing approach works differently.
+
+It first determines how much of the account you are willing to lose.
+
+Only then does it calculate the appropriate number of shares based on the Stop-Loss distance.
+
+This is a far more professional approach.
+
+Because it ensures that every trade has a consistent impact on the overall account.
+
+
+
+
+Figure Description:
+
+This figure compares fixed capital allocation with risk-based position sizing. It demonstrates how
+investing the same 10% of capital can result in dramatically different levels of actual risk when
+the Stop-Loss distances differ.
+
+
+
+IV. Five Warning Signs That Your Position Is Too Large
+
+Whether a position is too large cannot be judged by numbers alone.
+
+
+                                              - 550 -
+<PARSED TEXT FOR PAGE: 559 / 686>
+Your psychological response matters just as much.
+
+I asked Ethan to remember five warning signs.
+
+First, you find yourself checking the market constantly.
+
+Second, an ordinary candlestick causes large emotional swings.
+
+Third, you become unwilling to execute your planned Stop-Loss.
+
+Fourth, you begin searching for excuses to justify staying in the trade.
+
+Fifth, your sleep and decision-making begin to suffer.
+
+If your position size prevents you from following your trading plan, then it is already too large.
+
+Even if, mathematically, it does not appear excessive.
+
+In trading, psychological resilience is also part of risk management.
+
+
+
+
+Figure Description:
+
+
+
+
+                                               - 551 -
+<PARSED TEXT FOR PAGE: 560 / 686>
+This figure presents five psychological warning signs that indicate a position may be too large. It
+is designed as a practical checklist highlighting the emotional consequences of excessive position
+sizing.
+
+
+
+V. The Ultimate Purpose of Position Sizing
+
+The purpose of position sizing is not to eliminate losses.
+
+Losses are unavoidable.
+
+The purpose of position sizing is to ensure that no single losing trade can destroy your account.
+
+At the same time, it allows you to commit meaningful capital when genuinely high-quality
+opportunities appear.
+
+It solves two fundamental problems.
+
+First, when you are wrong, your losses remain controlled.
+
+Second, when you are right, your profits become meaningful.
+
+If your position is too small, even a correct analysis produces insignificant returns.
+
+If your position is too large, one mistake can inflict severe damage.
+
+Professional position sizing is about finding the balance between those two extremes.
+
+
+
+Case Review
+
+Why Couldn't AsterWorks Automation Be Evaluated by Pattern Quality Alone?
+
+Now let's return to AsterWorks Automation.
+
+Viewed on its own, this was a high-quality trade.
+
+It belonged to a strong sector.
+
+It had formed a clear Bull Flag.
+
+Trading Volume contracted during the consolidation.
+
+The breakout level was well defined.
+
+The Stop-Loss was logical.
+
+The stock also demonstrated strong Relative Strength.
+
+If we evaluated only this individual setup, it justified a relatively large position.
+
+
+                                                - 552 -
+<PARSED TEXT FOR PAGE: 561 / 686>
+However, once we viewed it within the context of Ethan's portfolio, the situation changed.
+
+He already owned an automation ETF.
+
+He also held another industrial software stock.
+
+Now he intended to buy AsterWorks as well.
+
+All three positions depended on the same institutional capital flows, the same market theme, and
+the same sector sentiment.
+
+If the industrial automation sector experienced a broad pullback, all three positions could decline
+simultaneously.
+
+Therefore, although AsterWorks was an excellent individual setup, the overall portfolio should
+not become excessively concentrated.
+
+In the end, Ethan did not purchase a 25% position.
+
+Instead, after considering his account risk, Stop-Loss distance, and portfolio correlation, he
+reduced his risk budget to 0.6%, resulting in an actual position size of approximately 11% of the
+account.
+
+After the breakout, price advanced as expected.
+
+Following the successful retest, he added modestly to the position while continuing to keep
+overall portfolio risk under control.
+
+This trade taught him an important lesson.
+
+A successful trade is not simply about choosing the right stock.
+
+It is also about participating with the right position size.
+
+Trading Rules for This Chapter
+
+That day, I asked Ethan to write down eight rules.
+
+Rule 1: Position size is not an expression of confidence. It is a calculation of risk.
+
+Rule 2: The higher the quality of the chart pattern, the larger the position size may be—but it
+must never exceed your account's predefined risk limits.
+
+Rule 3: Position size should always be calculated according to your account risk and Stop-Loss
+distance, never according to intuition.
+
+Rule 4: Always manage both individual trade risk and portfolio risk at the same time.
+
+Rule 5: Positions in the same sector, the same investment theme, or the same trading style should
+be treated as correlated risk.
+
+
+
+                                                 - 553 -
+<PARSED TEXT FOR PAGE: 562 / 686>
+Rule 6: The wider the Stop-Loss distance, the smaller the position size should be.
+
+Rule 7: Additional purchases must be based on new confirmation signals—not on excitement or
+the illusion created by unrealized profits.
+
+Rule 8: If your position size prevents you from following your trading plan, then it is already too
+large.
+
+Then I added one more sentence.
+
+        Direction determines whether you have an opportunity. Position size
+        determines whether you survive long enough to benefit from it.
+
+Ethan wrote it carefully into his notebook.
+
+Then he added one sentence of his own.
+
+        Size the risk, not the dream.
+
+Calculate the risk—not the fantasy.
+
+That was his true lesson from Chapter 24.
+
+
+
+Chapter Summary
+
+In this chapter, Ethan Carter came to understand the true importance of Position Sizing.
+
+He learned that:
+
+Being correct about market direction does not automatically mean the trade will be successful.
+
+A high-quality chart pattern does not justify taking an oversized position.
+
+Position size must be determined by four factors working together:
+
+       Risk Budget
+       Stop-Loss Distance
+       Pattern Quality
+       Portfolio Correlation
+
+From this chapter onward, Ethan stopped asking,
+
+        "How much should I buy?"
+
+Instead, he began asking questions that professional traders ask:
+
+        "If I'm wrong, how much am I willing to lose?"
+
+
+
+                                              - 554 -
+<PARSED TEXT FOR PAGE: 563 / 686>
+        "What is my Risk per Share?"
+
+        "How will this position affect my portfolio's overall exposure?"
+
+        "Is this trade highly correlated with my existing positions?"
+
+        "If the market pulls back before moving in my favor, will I still be able to
+        execute my trading plan?"
+
+Those questions made his trading system far more complete.
+
+He was no longer simply someone who knew how to read charts.
+
+He was beginning to think like someone entrusted with managing capital.
+
+In the next chapter, he will learn about the Risk-Reward Ratio.
+
+Because not every opportunity that appears attractive is actually worth trading.
+
+Some trades may still make money—
+
+yet they are never worth taking.
+
+
+
+
+                                              - 555 -
