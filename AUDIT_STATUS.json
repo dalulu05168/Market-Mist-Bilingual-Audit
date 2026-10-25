@@ -1,0 +1,324 @@
+{
+  "project": "Market Mist / 市场迷雾",
+  "repository_visibility": "public (user approved)",
+  "english_source_pdf_pages": 686,
+  "chapters_count": 28,
+  "english_text_chapters_uploaded": 28,
+  "chinese_draft_chapters_uploaded": 28,
+  "line_by_line_audit_accepted": 0,
+  "figures_need_translation": false,
+  "source_pdf_binary_uploaded": false,
+  "chinese_docx_binary_uploaded": false,
+  "source_text_warning": "Extracted text is not a substitute for original PDF figures and pagination fidelity.",
+  "chinese_draft_warning": "Chapter files may not reflect all past corrections to combined DOCX. All require rechecking.",
+  "chapters": [
+    {
+      "number": 1,
+      "source_pdf_pages": [
+        9,
+        30
+      ],
+      "english": "original/chapters_en/ch01.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch01.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 2,
+      "source_pdf_pages": [
+        31,
+        56
+      ],
+      "english": "original/chapters_en/ch02.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch02.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 3,
+      "source_pdf_pages": [
+        57,
+        69
+      ],
+      "english": "original/chapters_en/ch03.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch03.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 4,
+      "source_pdf_pages": [
+        70,
+        90
+      ],
+      "english": "original/chapters_en/ch04.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch04.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 5,
+      "source_pdf_pages": [
+        91,
+        111
+      ],
+      "english": "original/chapters_en/ch05.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch05.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 6,
+      "source_pdf_pages": [
+        112,
+        132
+      ],
+      "english": "original/chapters_en/ch06.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch06.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 7,
+      "source_pdf_pages": [
+        133,
+        154
+      ],
+      "english": "original/chapters_en/ch07.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch07.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 8,
+      "source_pdf_pages": [
+        155,
+        173
+      ],
+      "english": "original/chapters_en/ch08.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch08.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 9,
+      "source_pdf_pages": [
+        174,
+        192
+      ],
+      "english": "original/chapters_en/ch09.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch09.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 10,
+      "source_pdf_pages": [
+        193,
+        214
+      ],
+      "english": "original/chapters_en/ch10.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch10.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 11,
+      "source_pdf_pages": [
+        215,
+        241
+      ],
+      "english": "original/chapters_en/ch11.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch11.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 12,
+      "source_pdf_pages": [
+        242,
+        264
+      ],
+      "english": "original/chapters_en/ch12.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch12.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 13,
+      "source_pdf_pages": [
+        265,
+        289
+      ],
+      "english": "original/chapters_en/ch13.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch13.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 14,
+      "source_pdf_pages": [
+        290,
+        318
+      ],
+      "english": "original/chapters_en/ch14.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch14.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 15,
+      "source_pdf_pages": [
+        319,
+        341
+      ],
+      "english": "original/chapters_en/ch15.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch15.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 16,
+      "source_pdf_pages": [
+        342,
+        381
+      ],
+      "english": "original/chapters_en/ch16.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch16.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 17,
+      "source_pdf_pages": [
+        382,
+        401
+      ],
+      "english": "original/chapters_en/ch17.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch17.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 18,
+      "source_pdf_pages": [
+        402,
+        422
+      ],
+      "english": "original/chapters_en/ch18.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch18.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 19,
+      "source_pdf_pages": [
+        423,
+        445
+      ],
+      "english": "original/chapters_en/ch19.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch19.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 20,
+      "source_pdf_pages": [
+        446,
+        466
+      ],
+      "english": "original/chapters_en/ch20.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch20.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 21,
+      "source_pdf_pages": [
+        467,
+        488
+      ],
+      "english": "original/chapters_en/ch21.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch21.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 22,
+      "source_pdf_pages": [
+        489,
+        513
+      ],
+      "english": "original/chapters_en/ch22.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch22.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 23,
+      "source_pdf_pages": [
+        514,
+        536
+      ],
+      "english": "original/chapters_en/ch23.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch23.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 24,
+      "source_pdf_pages": [
+        537,
+        563
+      ],
+      "english": "original/chapters_en/ch24.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch24.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 25,
+      "source_pdf_pages": [
+        564,
+        588
+      ],
+      "english": "original/chapters_en/ch25.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch25.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 26,
+      "source_pdf_pages": [
+        589,
+        614
+      ],
+      "english": "original/chapters_en/ch26.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch26.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 27,
+      "source_pdf_pages": [
+        615,
+        641
+      ],
+      "english": "original/chapters_en/ch27.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch27.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    },
+    {
+      "number": 28,
+      "source_pdf_pages": [
+        642,
+        668
+      ],
+      "english": "original/chapters_en/ch28.en.txt",
+      "chinese": "translations/chapters_zh_draft/ch28.zh-CN.draft.md",
+      "state": "NOT_REVIEWED_TO_ACCEPTANCE",
+      "fully_verified": false
+    }
+  ]
+}
