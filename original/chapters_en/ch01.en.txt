@@ -1,0 +1,978 @@
+Original Market Mist PDF, pages 9-30. Text extraction; consult original PDF for figures.
+
+<PARSED TEXT FOR PAGE: 9 / 686>
+Chapter 1
+Day One in the Research Department: Price Is Not the Answer—It Is the Question
+The first time I met Ethan Carter was on a rainy Monday morning.
+
+London rain has a character of its own. It is neither as violent as a storm nor as brief as a summer
+shower in Southern Europe. Instead, it is fine, quiet, and persistent, seeping silently into people's
+coats, leather shoes, and moods—much like market sentiment.
+
+That morning, I arrived twenty minutes earlier than usual.
+
+The Research Department had not fully awakened yet. The trading screens were already on,
+displaying the overnight performance of the U.S. market on the left while the closing data from
+Asian markets continued to update. The coffee machine hummed softly. Several overnight traders
+leaned back in their chairs, their eyes still carrying the fatigue of watching the Federal Reserve's
+speech until three o'clock in the morning.
+
+Our office occupied the twenty-first floor of a glass tower in London's financial district.
+
+From the conference room, you could see a stretch of the River Thames. On sunny days, it
+resembled a silver-gray ribbon. On gloomy days, it looked more like an emotionless balance sheet,
+quietly recording the city's daily greed, fear, losses, and hope.
+
+At 8:09 a.m., Ethan Carter walked in.
+
+He looked younger than I had expected.
+
+He wore a navy-blue suit, a white dress shirt, and a carefully tied necktie. His leather shoes were
+polished almost excessively—so clean that anyone could tell it was his first day at a research
+institution. He carried a laptop under his left arm and an Americano in his right hand. The lid of
+the coffee cup was not fully secured, leaving a small trace of brown coffee along its rim.
+
+As he entered the Research Department, he glanced at the reception desk before quickly scanning
+the entire open-plan office.
+
+It was the unmistakable look of a newcomer.
+
+He wanted to appear composed, yet could not stop his eyes from being drawn to the price screens.
+He hoped others would see him as well prepared, while secretly worrying they might discover
+how unfamiliar everything still was.
+
+I sat at the far end of the conference room and did not call him over immediately.
+
+When someone walks into the market for the first time, you can often read a great deal from their
+eyes.
+
+
+
+
+                                                -1-
+<PARSED TEXT FOR PAGE: 10 / 686>
+In Ethan's eyes, I saw confidence, excitement, nervousness, and one of the most common
+illusions shared by young research analysts:
+
+He believed that if he worked hard enough, he would soon understand the market.
+
+That was not necessarily a bad thing.
+
+Without confidence, few people can survive in the investment industry. Every day, the market
+confronts you with uncertainty. If someone is unwilling to make even the most basic judgment,
+they will eventually be overwhelmed by volatility.
+
+Excessive confidence, however, is an entirely different danger.
+
+The market excels at one thing above all else:
+
+It shatters confidence into pieces until you can no longer tell whether you are defending your
+logic or merely protecting your ego.
+
+At that moment, Ethan knew none of this.
+
+He had no idea that on his very first day in the Research Department, he was about to receive an
+expensive lesson from what appeared to be a beautiful candlestick.
+
+I. The First Stock at the Morning Meeting
+
+The morning meeting began at 8:30 a.m.
+
+Research department morning meetings were usually brief, but the pace was always fast.
+Everyone understood that the time before the market opened was extremely valuable. The macro
+team began with an overview of the overnight U.S. market, the U.S. Dollar Index, the 10-year
+Treasury yield, and major commodity prices. The industry team then updated the key sectors in
+the European market. The quantitative team reported capital flows, volatility, and unusual trading
+activity. Finally, the equity research analysts presented the stocks that deserved close attention
+during the day.
+
+Ethan sat in the third seat on the right side of the conference table.
+
+That was the position where newcomers were most easily observed.
+
+It was close enough to the large display to clearly see the charts, and close enough to me for me
+to observe every change in his expression.
+
+Seventeen minutes into the meeting, a European technology stock appeared on the screen.
+
+To keep readers focused on the underlying principles rather than the actual company, I will refer
+to it simply as NovaTech.
+
+NovaTech was a cloud computing software company. It had experienced rapid growth over the
+past several years, and its valuation had never been cheap. Its share price had gone through a
+
+
+
+                                                 -2-
+<PARSED TEXT FOR PAGE: 11 / 686>
+noticeable correction several months earlier before entering a prolonged period of sideways
+consolidation. During the previous three weeks, it had attempted to break through the same price
+zone several times, only to be pushed back on every occasion.
+
+That morning, NovaTech released a pre-market announcement:
+
+The company had secured a major cloud computing contract and raised its full-year revenue
+guidance.
+
+Its pre-market price rose rapidly.
+
+8%.
+
+Then 8.7%.
+
+Then 9.4%.
+
+The large green candlestick on the display kept extending upward, like a match ignited by market
+emotion.
+
+For the average investor, it was difficult not to become excited by such a scene.
+
+There was positive news.
+
+The price was rising.
+
+Trading volume was expanding.
+
+And what appeared to be an unmistakable breakout.
+
+The market is exceptionally good at combining these elements to create a single feeling:
+
+The opportunity has arrived.
+
+I noticed Ethan leaning slightly forward.
+
+His right hand held a pen above his notebook, but the tip never touched the paper. His eyes
+remained fixed on the screen. Clearly, all of his attention had been drawn to that single stock.
+
+The head of the macro team said,
+
+        "NovaTech is showing remarkable strength in pre-market trading. The
+        resistance zone from the past three weeks is right here, and the stock has
+        already broken above it before the opening bell. We need to determine
+        whether this is a valid breakout."
+
+The conference room fell silent for a moment.
+
+Then Ethan spoke.
+
+
+
+
+                                                -3-
+<PARSED TEXT FOR PAGE: 12 / 686>
+        "I think we should buy."
+
+His voice was calm, but confident.
+
+Several senior research analysts turned to look at him simultaneously.
+
+Ethan continued,
+
+        "The company's news is clearly positive. The price has broken above the
+        highs of the past few weeks, and pre-market trading volume is also very
+        active. If we wait until after the market opens for confirmation, we may
+        miss the best entry point."
+
+It was a textbook beginner's answer.
+
+It sounded logical.
+
+But its weakness was that every piece of reasoning remained on the surface.
+
+The price had risen.
+
+The news was positive.
+
+The stock had broken out.
+
+Therefore, it was a buy.
+
+For many investors, their entire trading plan stops at those four steps.
+
+I kept my eyes on the screen and did not comment on his conclusion immediately.
+
+        "You said it has broken out," I asked. "Broken out of what?"
+
+Ethan hesitated slightly.
+
+        "The previous high."
+
+        "Which previous high?"
+
+He stood up, walked to the screen, and pointed to a horizontal trading range on the chart.
+
+        "Here. Over the past three weeks, the price reached this area several times
+        and was rejected every time. Today it has moved above it in pre-market
+        trading."
+
+        "Very good," I nodded. "So what do you think this level is?"
+
+        "Resistance."
+
+        "Why is it resistance?"
+
+
+                                                -4-
+<PARSED TEXT FOR PAGE: 13 / 686>
+Ethan paused.
+
+        "Because the price failed to move higher every time it reached this level."
+
+        "That describes what happened," I replied. "I'm asking why it happened."
+
+The room became quiet once again.
+
+I did not press Ethan any further. Instead, I turned to the others.
+
+        "Why does the price repeatedly decline from the same area?"
+
+A senior trader answered,
+
+        "There may be trapped holders. Investors who bought near the previous
+        highs want to sell as soon as the price returns close to their cost basis."
+
+A portfolio manager added,
+
+        "It could also be an institutional distribution zone. Instead of continuing to
+        bid prices higher, institutions may be using that area to distribute shares to
+        momentum buyers."
+
+A colleague from the quantitative team said,
+
+        "Based on the trading data over the past few weeks, transaction density in
+        that area has been extremely high. It is clearly a major supply zone."
+
+I looked back at Ethan.
+
+        "Do you hear that? A resistance level is not some mysterious line. The
+        price doesn't stop there simply because we draw a line on a chart. It
+        represents the collective memory of market participants—a zone created
+        by cost basis, expectations, fear, and concentrated selling pressure."
+
+Ethan nodded.
+
+But I could tell he had not truly absorbed the lesson.
+
+His eyes were still fixed on the pre-market candlestick climbing higher.
+
+Young investors share one common characteristic:
+
+When prices are rising, it is very difficult for them to pay attention to risk.
+
+II. A Breakout Is Not the Answer
+
+I stood up and walked to the whiteboard.
+
+
+
+
+                                                  -5-
+<PARSED TEXT FOR PAGE: 14 / 686>
+        "If this is a valid breakout," I asked Ethan, "what else do we need to see
+        besides the price moving above resistance?"
+
+        "Volume," he answered without hesitation.
+
+        "And what does volume represent?"
+
+        "It shows that money is participating."
+
+        "More precisely," I said, "volume tells us whether the market is willing to
+        support this price movement with real capital."
+
+I drew a horizontal line on the whiteboard.
+
+        "This is resistance."
+
+Below the line, I sketched a series of price swings moving back and forth before drawing a
+breakout above the resistance.
+
+        "What you see is the price breaking out."
+
+Then I drew a question mark above the breakout.
+
+        "But what professional investors really care about is this:
+        Can the market accept the new price after the breakout?"
+
+Ethan frowned.
+
+        "What do you mean by 'accepted by the market'?"
+
+        "A price briefly trading above a certain level does not mean the market has
+        accepted that new price," I explained. "Only when the price can remain
+        above a key level after the breakout, when selling pressure weakens during
+        a pullback, and when the volume structure remains healthy, can we say the
+        market is accepting this new trading range."
+
+
+
+
+                                              -6-
+<PARSED TEXT FOR PAGE: 15 / 686>
+Figure Description:
+
+This figure accompanies the book's first explanation that a breakout does not equal confirmation.
+It illustrates a price consolidating below resistance before breaking above it. On the right side,
+include the question "Can Price Hold?" to emphasize that the critical issue is not the breakout
+itself, but whether the market can sustain it afterward.
+
+
+
+Ethan lowered his head and looked at his notes.
+
+        "So you don't think we should buy now?"
+
+        "I didn't say that," I replied. "I'm simply saying that you haven't finished
+        answering the questions that must be answered before buying."
+
+        "What questions?"
+
+I wrote five lines on the whiteboard.
+
+First: Why did resistance form at this price level?
+
+
+
+
+                                                -7-
+<PARSED TEXT FOR PAGE: 16 / 686>
+Second: Is the breakout volume truly convincing?
+
+Third: If the price pulls back after the breakout, can it hold above the former resistance?
+
+Fourth: If the price falls back below the breakout level, are you willing to admit that your analysis
+was wrong?
+
+Fifth: Are you buying because of the company's positive news, or are you simply buying the
+excitement that others have already traded ahead of you?
+
+Ethan stared at the five questions.
+
+The excitement on his face had visibly faded.
+
+That was exactly the change I wanted to see.
+
+The most dangerous state in the market is not fear.
+
+It is excitement.
+
+Fear, at the very least, forces people to stop and think.
+
+Excitement, however, reduces every question to a single action:
+
+Buy.
+
+
+
+III. The Market Gives the Lesson
+
+At 9:00 a.m., the European market officially opened.
+
+NovaTech opened 10.2% higher.
+
+A few quiet remarks could be heard around the conference room.
+
+Ethan's expression became complicated.
+
+He said nothing, but I knew exactly what he was thinking.
+
+If I had bought earlier, I would already be making money.
+
+It is an agonizing feeling.
+
+For young research analysts in particular, missing a profitable opportunity can sometimes feel
+even worse than taking a loss. A loss at least means you participated. Missing the move makes
+you feel that you lacked conviction.
+
+The market often exploits this psychology to push investors into making mistakes.
+
+Fifteen minutes after the opening bell, NovaTech continued climbing.
+
+
+
+                                                 -8-
+<PARSED TEXT FOR PAGE: 17 / 686>
+Its maximum gain approached 13%.
+
+The higher the price rose, the quieter Ethan became.
+
+Sometimes silence is not a sign of composure.
+
+It simply means a person is arguing with himself.
+
+At 10:20 a.m., the situation began to change.
+
+NovaTech stopped advancing.
+
+Several candlesticks with long upper shadows appeared on the intraday chart. Trading volume
+remained extremely high, but every rally attempt was quickly pushed back down.
+
+A senior trader sitting beside the trading desk quietly remarked,
+
+        "There's supply up there."
+
+The sentence was brief.
+
+But it carried considerable weight.
+
+What did "there's supply" mean?
+
+It meant that someone was selling.
+
+And not just retail investors selling a few shares.
+
+When heavy trading repeatedly occurs within a price zone, yet the price fails to move higher, it
+often indicates that significant selling pressure is being actively released.
+
+Buyers are indeed buying.
+
+But sellers are also taking advantage of abundant liquidity to distribute their shares.
+
+Many investors see expanding volume and immediately assume that money is flowing into the
+market.
+
+What they forget is this:
+
+Volume is always two-sided.
+
+Every transaction has both a buyer and a seller.
+
+The important question is not whether trading is taking place.
+
+The important question is:
+
+Who is being more aggressive?
+
+
+
+
+                                                 -9-
+<PARSED TEXT FOR PAGE: 18 / 686>
+Twenty minutes later, NovaTech pulled back from its intraday high.
+
+Its gain narrowed to 7%.
+
+At 11:15 a.m., the price returned to the morning breakout level.
+
+Ethan finally spoke.
+
+        "Could this just be a normal pullback?"
+
+I looked at him.
+
+        "Do you hope it's a normal pullback, or do you believe, based on evidence,
+        that it's a normal pullback?"
+
+He did not answer.
+
+That is one of the most important—and most unforgiving—distinctions in investing.
+
+Hope is not analysis.
+
+A sound judgment must be supported by evidence.
+
+Hope requires nothing more than emotion.
+
+At 1:00 p.m., NovaTech fell back below the morning breakout level.
+
+By 3:00 p.m., its gain had shrunk to only 1.8%.
+
+At the closing bell, it had given back almost all of its earlier advance.
+
+The daily chart finished with a long upper shadow accompanied by exceptionally heavy trading
+volume.
+
+What had appeared to be a strong breakout in the morning had, by the close, become a failed
+breakout.
+
+
+
+
+                                                - 10 -
+<PARSED TEXT FOR PAGE: 19 / 686>
+Figure Description:
+
+Place this figure immediately after the stock closes with a long upper shadow. It should illustrate
+the price breaking above resistance during the morning session but closing back below the
+resistance level, forming a false breakout and a long upper shadow. The purpose is to reinforce
+the concept that an intraday breakout is not necessarily a valid breakout.
+
+
+
+Ethan stared at the closing chart.
+
+His expression was far calmer than it had been that morning.
+
+I knew what was happening.
+
+He had begun to question himself.
+
+That was a good sign.
+
+The market's first lesson is not to make someone instantly wiser.
+
+Its first lesson is to make them question the certainty they once believed they possessed.
+
+
+
+                                               - 11 -
+<PARSED TEXT FOR PAGE: 20 / 686>
+IV. The Whiteboard After the Close
+
+After the market closed, I asked Ethan to join me at the whiteboard.
+
+One by one, the members of the Research Department left for the day.
+
+Only a few lights remained on in the office.
+
+Outside, the rain had stopped, though streaks of water still clung to the glass.
+
+The red and green numbers on the trading screens gradually froze in place, like the silence after
+an argument.
+
+Ethan stood beside me with his notebook in hand.
+
+         "Did this stock go up today?" I asked.
+
+He hesitated for a moment.
+
+         "It went up during the session, but by the close it had barely gained
+         anything."
+
+         "Then was it really strong?"
+
+         "It doesn't seem... very strong."
+
+         "Why did you think it was strong this morning?"
+
+         "Because it broke above resistance, and the company released positive
+         news."
+
+I nodded.
+
+         "Exactly. What you saw was the result of the price movement—not the
+         process behind it."
+
+I wrote four words on the whiteboard.
+
+Price
+
+Volume
+
+Market Structure
+
+Behavior
+
+Price.
+
+Volume.
+
+
+
+
+                                                - 12 -
+<PARSED TEXT FOR PAGE: 21 / 686>
+Market structure.
+
+Behavior.
+
+        "Ethan, from today onward, remember one thing:
+
+        Price is not the answer. Price is simply the way the market presents a
+        question to you."
+
+
+
+
+Figure Description:
+
+Place this figure where the professor introduces the book's core analytical framework for the first
+time. The illustration may be presented either as a four-quadrant diagram or as a flowchart,
+highlighting the four key concepts: Price, Volume, Market Structure, and Behavior.
+
+
+
+
+                                               - 13 -
+<PARSED TEXT FOR PAGE: 22 / 686>
+Figure Description:
+
+Place this figure immediately after introducing the core principle that chart patterns precede
+trends. The illustration should show price consolidating within a trading range before splitting
+into two possible paths: one leading to a sustained uptrend after a confirmed breakout, and the
+other falling back into the range after a false breakout.
+
+
+
+Ethan spoke quietly.
+
+        "So I shouldn't focus only on the breakout."
+
+        "Correct. You should ask what happened before the breakout, who
+        participated during the breakout, and whether the market accepted the new
+        price after the breakout."
+
+He carefully wrote the sentence into his notebook.
+
+I noticed how firmly he pressed the pen against the paper.
+
+That day, I did not teach him any sophisticated models.
+
+
+                                               - 14 -
+<PARSED TEXT FOR PAGE: 23 / 686>
+I taught him only the market's first fundamental principle:
+
+Every price movement must be understood within the context of its market structure.
+
+A single bullish candlestick means nothing.
+
+A single piece of positive news means nothing.
+
+A single surge in trading volume means nothing.
+
+What truly matters is this:
+
+Where did the price rise?
+
+At what stage did volume expand?
+
+Was the breakout confirmed?
+
+If the breakout failed, did it generate an opposing signal?
+
+Did the behavior of market participants change?
+
+The reason so many investors are deceived by price is that they mistake price for the conclusion.
+
+But price has never been the conclusion.
+
+Price is merely a clue.
+
+Professor's Whiteboard Session
+
+Chart Pattern Precedes Trend
+
+That evening, I gave Ethan his first whiteboard lesson since joining the Research Department.
+
+The topic was not a specific chart pattern.
+
+Instead, it was the underlying principle shared by every technical pattern:
+
+Patterns Are the Starting Point of Trends
+
+In the financial markets, prices rarely enter a sustained trend without preparation.
+
+A lasting trend almost always emerges from a pre-existing market structure.
+
+That structure may take many forms:
+
+A double bottom, a triple bottom, an inverse head and shoulders, a box breakout, a bull flag, a
+bear flag, a double top, a triple top, or even a sharp reversal following a false breakout.
+
+Regardless of the pattern, they all share the same underlying principle:
+
+
+
+
+                                               - 15 -
+<PARSED TEXT FOR PAGE: 24 / 686>
+Buyers and sellers battle repeatedly within a certain price zone until one side gains a decisive
+advantage and breaks the balance.
+
+While the price remains inside the pattern, the market is in a state of equilibrium or stalemate.
+
+Buyers believe the price represents value and are willing to accumulate shares.
+
+Sellers believe the price is still too high, or that the prevailing trend remains weak, and are willing
+to sell.
+
+As a result, the price fluctuates repeatedly within a trading range.
+
+These fluctuations are far from meaningless.
+
+They represent an exchange of shares.
+
+They also represent an exchange of conviction.
+
+Some investors lose patience during consolidation.
+
+Some are shaken out during pullbacks.
+
+Some institutional investors quietly accumulate shares near the bottom.
+
+Some short-term traders establish positions before the breakout.
+
+Others rush in only after the breakout occurs.
+
+When all of these actions are reflected on the chart, they create what we call a chart pattern.
+
+
+
+I. Why Can't We Focus Only on Individual Price Moves?
+
+I drew a large bullish candlestick on the whiteboard.
+
+Then I asked Ethan,
+
+        "What is this?"
+
+He answered,
+
+        "An upward move."
+
+I shook my head.
+
+        "No. It is only a price increase. It does not necessarily mean the trend is
+        bullish."
+
+Next, I drew three different market environments to the left of the same candlestick.
+
+
+
+
+                                                 - 16 -
+<PARSED TEXT FOR PAGE: 25 / 686>
+The first: A high-volume breakout after a prolonged downtrend.
+
+The second: A bullish trap following a period of high-level consolidation.
+
+The third: A temporary rebound within an existing downtrend.
+
+The very same bullish candlestick can carry completely different meanings depending on where it
+appears.
+
+If it occurs during a breakout from a bottoming structure, it may signal the beginning of a new
+trend.
+
+If it appears in a distribution zone near market highs, it may simply be a trap designed to attract
+buyers.
+
+If it forms during a downtrend, it may be nothing more than a temporary rally.
+
+
+
+
+Figure Description:
+
+This figure illustrates that the same candlestick can have completely different meanings
+depending on its location within the market structure. Divide the illustration into three panels:
+Bottom Breakout, Bull Trap at the Top, and Bear Market Rally.
+
+
+
+
+                                                - 17 -
+<PARSED TEXT FOR PAGE: 26 / 686>
+Ethan's mistake that morning was treating a single bullish candlestick as the complete answer.
+
+He never stopped to ask:
+
+Where did this candlestick appear?
+
+Was the breakout above resistance truly valid?
+
+Did the increased trading volume represent genuine buying, or merely heavy distribution near the
+highs?
+
+Could the price hold after the breakout?
+
+If the breakout failed, where was the risk?
+
+These are also the mistakes made by most investors.
+
+Every day they make buy and sell decisions based solely on isolated price movements.
+
+If the price rises, they assume the stock is strong.
+
+If it falls, they assume it is weak.
+
+If volume expands, they assume money is flowing in.
+
+If resistance is broken, they assume the stock is about to soar.
+
+Yet the market delights in punishing this kind of simplistic thinking.
+
+
+
+II. What Is a Chart Pattern?
+
+A chart pattern is not a drawing game.
+
+Many people make the same mistake when they begin studying technical analysis:
+
+They memorize patterns.
+
+What does a double bottom look like?
+
+What does a triple top look like?
+
+What does an inverse head and shoulders look like?
+
+What does a flag pattern look like?
+
+They memorize pattern names the way students memorize vocabulary words.
+
+But they forget to ask the far more important question:
+
+Why did the price form this pattern in the first place?
+
+
+
+                                                 - 18 -
+<PARSED TEXT FOR PAGE: 27 / 686>
+The essence of every chart pattern lies in the behavior of market participants.
+
+A double bottom is important not because it resembles the letter W, but because the price tests the
+same support area twice without breaking lower, suggesting that buying pressure is strengthening
+while selling pressure is becoming exhausted.
+
+A triple top is dangerous not because it has three peaks, but because repeated failures to break
+above the same resistance indicate that sellers remain in firm control while buyers are gradually
+losing strength.
+
+A flag pattern signals trend continuation not because it resembles a flag, but because the low-
+volume consolidation following a strong trend suggests that profit-taking is being absorbed while
+the dominant trend participants remain committed.
+
+Therefore, studying chart patterns is not about recognizing shapes.
+
+It is about understanding changes in the balance of market forces.
+
+III. How Does a Chart Pattern Become a Trend?
+
+A complete trend reversal or trend continuation generally unfolds in four stages.
+
+Stage One: The Existing Trend Begins to Slow
+
+In a downtrend, the price no longer makes new lows with ease.
+
+In an uptrend, the price no longer makes new highs effortlessly.
+
+This indicates that the dominant force behind the existing trend is beginning to weaken.
+
+
+
+Stage Two: A Market Structure Forms
+
+The price starts fluctuating repeatedly within a particular price range.
+
+It may be a bottoming formation.
+
+It may be a topping formation.
+
+It may develop into a trading range.
+
+It may evolve into a flag pattern.
+
+It may become a double bottom.
+
+Or it may become a triple top.
+
+This is the stage where buyers and sellers compete for control.
+
+Stage Three: The Breakout of a Key Level
+
+
+
+                                                - 19 -
+<PARSED TEXT FOR PAGE: 28 / 686>
+In a bottoming pattern, the price breaks above the neckline or a major resistance level.
+
+In a topping pattern, the price breaks below the neckline or a significant support level.
+
+In a continuation pattern, the price breaks out of the consolidation range.
+
+This is the moment when market equilibrium is finally broken.
+
+
+
+Stage Four: Confirmation and Trend Continuation
+
+What happens after the breakout is often more important than the breakout itself.
+
+If the price breaks above resistance and later retests that level without falling back below it, the
+former resistance may become new support.
+
+If the price breaks below support and subsequently rallies but fails to reclaim that level, the
+former support may become new resistance.
+
+A genuine trend usually begins after confirmation, not at the moment of the breakout itself.
+
+
+
+
+Figure Description:
+
+
+                                                - 20 -
+<PARSED TEXT FOR PAGE: 29 / 686>
+This figure summarizes the four stages through which a chart pattern develops into a trend. It may
+be presented either as a flowchart or as a simplified candlestick chart divided into four labeled
+phases:
+
+Trend Slows → Structure Forms → Key Breakout → Confirmation & Trend Continuation
+
+
+
+IV. Why Is Volume So Important?
+
+Price tells us where the market is moving.
+
+Volume tells us whether the move has real conviction behind it.
+
+If the price breaks above resistance but trading volume does not expand meaningfully, we should
+question whether buying interest is genuinely strong enough to sustain the breakout.
+
+If the price breaks below a critical support level while trading volume expands sharply, it often
+indicates that selling pressure is accelerating.
+
+If volume contracts during a pullback following a breakout, it suggests that selling pressure is
+weakening and the underlying market structure remains healthy.
+
+If the price continues to rise near market highs while volume gradually declines, investors should
+be alert to the possibility that buying momentum is fading.
+
+That is why I told Ethan,
+
+        "Volume is not a secondary indicator.
+
+        Volume is the witness to price action."
+
+Price can be deceptive.
+
+Although volume can occasionally be manipulated, it is far more difficult to disguise over an
+extended period.
+
+Especially around key price levels, changes in volume often reveal answers to questions such as:
+
+Who is accumulating positions?
+
+Who is exiting positions?
+
+Is the breakout genuine?
+
+Is the decline driven by panic selling?
+
+Is the rebound supported by real buying interest?
+
+
+
+
+                                               - 21 -
+<PARSED TEXT FOR PAGE: 30 / 686>
+Figure Description:
+
+This figure demonstrates how trading volume confirms price action. Present two side-by-side
+charts:
+
+       Confirmed Breakout: Price breaks above resistance with expanding trading volume.
+       Weak Breakout: Price breaks above resistance on weak volume before falling back below
+       resistance.
+
+       Price shows direction. Volume shows conviction.
+
+
+
+
+                                             - 22 -

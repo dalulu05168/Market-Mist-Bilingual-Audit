@@ -1,0 +1,986 @@
+Original Market Mist PDF, pages 70-90. Text extraction; consult original PDF for figures.
+
+<PARSED TEXT FOR PAGE: 70 / 686>
+Chapter 4
+The First Research Report: Fundamentals Are Not a Master Key
+The first time Ethan Carter truly felt defeated was not because he lost money chasing a breakout,
+nor because he failed to understand a sudden market decline.
+
+It was because he had done something correctly—seriously and diligently—yet the market still
+refused to reward him.
+
+That was even more painful than making a mistake.
+
+If someone loses money because they impulsively chase a rising stock, they can at least admit
+they acted too hastily.
+
+If someone loses money because they failed to place a stop loss, they can at least admit they
+lacked discipline.
+
+If someone loses money because they misread a chart pattern, they can at least go back and
+improve their technical analysis.
+
+But if someone spends an entire week researching a company—reading its annual reports,
+building financial models, comparing valuation multiples with peers, and analyzing the industry's
+long-term potential—only to arrive at a conclusion that appears completely logical while the
+market shows no interest whatsoever, a young research analyst inevitably begins to question
+something:
+
+Does serious research even matter?
+
+It was with exactly this confusion that Ethan received his first official research assignment.
+
+It was a Friday afternoon.
+
+For the first time in days, the skies over London had cleared. Sunlight streamed through the glass
+curtain walls, casting soft reflections across the carpet and along the edges of the trading screens.
+The office was quieter than usual, carrying the familiar fatigue that often settles over the market
+on Friday afternoons. Traders were reducing unnecessary positions, research analysts were
+organizing their notes from the week, and portfolio managers were deciding whether to reduce
+risk exposure before the weekend.
+
+Ethan sat at his desk with three empty coffee cups lined up beside him.
+
+On his screen were the company's financial statements from the past five years, accompanied by
+several industry research reports.
+
+For the purpose of this story, I will refer to the company as NordicMed.
+
+NordicMed was a European medical device company specializing in high-end diagnostic imaging
+equipment and surgical assistance systems. It was not the kind of stock discussed every day on
+
+
+
+                                                - 62 -
+<PARSED TEXT FOR PAGE: 71 / 686>
+retail investor forums, nor was it the type of speculative stock that could suddenly surge because
+of a single news headline. Instead, it belonged to a category of companies that institutional
+investors loved to study but the general public rarely paid much attention to.
+
+Its revenue had grown steadily.
+
+Its gross margin had remained consistently high.
+
+Its cash flow was healthy.
+
+Its debt ratio was relatively low.
+
+Management had demonstrated a strong execution record over many years.
+
+The industry itself was supported by the long-term demand created by an aging population.
+
+From a fundamental perspective, NordicMed was unquestionably a high-quality company.
+
+Ethan found it fascinating.
+
+Over the previous several days, he had devoted almost all of his energy to studying this single
+company. He read its latest earnings report, organized the management conference call transcript,
+compared valuation multiples across competitors, and even built a simplified discounted cash
+flow model.
+
+It was the first time since joining the Research Department that he had independently completed a
+full company analysis.
+
+He took it seriously.
+
+Perhaps a little too seriously.
+
+I could tell that he hoped this report would prove that he was capable of much more than reading
+charts. He wanted to demonstrate that he truly understood businesses, industries, and financial
+statements—that he could produce a research report with genuine depth.
+
+Young research analysts often have this ambition.
+
+They do not want to be seen merely as people who stare at candlestick charts all day. They want
+to understand companies, industries, and corporate finance. They want to write reports that people
+consider insightful.
+
+There is nothing wrong with that ambition.
+
+But if someone believes that simply because they have written an excellent research report, the
+market must follow their conclusions, that ambition becomes another kind of danger.
+
+
+
+I. A Research Report That Looked Flawless
+
+
+
+                                               - 63 -
+<PARSED TEXT FOR PAGE: 72 / 686>
+At four o'clock on Friday afternoon, Ethan walked into my office carrying a printed copy of his
+report.
+
+It was twenty-seven pages long.
+
+The cover read:
+
+NordicMed Equity Research — Long-Term Quality, Short-Term Mispricing
+
+Long-Term Quality, Short-Term Mispricing.
+
+The moment I saw that title, I knew Ethan had already reached his conclusion before walking into
+my office.
+
+"You think the stock is undervalued?" I asked.
+
+"Yes," he replied without hesitation.
+
+He placed the report on my desk and opened it to the page containing his investment thesis.
+
+"NordicMed has delivered a compound annual revenue growth rate of nearly 11% over the past
+three years. Its gross margin has remained stable, and research and development spending
+continues to increase. The company has strong technological barriers in the high-end medical
+imaging market, while a new replacement cycle for hospital equipment is beginning across
+Europe. The market is currently valuing the company below its average valuation over the past
+five years and below several comparable peers."
+
+He spoke smoothly.
+
+Clearly, he had rehearsed.
+
+I did not interrupt him.
+
+Ethan continued,
+
+"The recent decline in the share price is mainly due to the market's concern that hospital capital
+expenditure will slow down. However, based on the order data, actual demand has not
+deteriorated significantly. I believe the market has become excessively pessimistic."
+
+"What is your target price?"
+
+"Twenty-two percent above the current market price."
+
+"And your investment recommendation?"
+
+"Buy."
+
+I flipped through several pages of the report.
+
+
+
+
+                                                 - 64 -
+<PARSED TEXT FOR PAGE: 73 / 686>
+His financial model was not particularly complicated, but the logic was clear. His revenue
+assumptions were reasonable, his margin forecasts were appropriately conservative, and although
+the peer comparison section was still somewhat rough, it was already impressive for a young
+research analyst who had only recently joined the department.
+
+If this had been a university assignment, I would have given him a very high grade.
+
+But the market is not a classroom.
+
+I looked at him.
+
+"Have you looked at the chart?"
+
+Ethan nodded.
+
+"Yes. The stock has declined about eighteen percent over the past three months and is now
+trading near its lowest valuation level of the past two years."
+
+"I'm asking about the chart, not the valuation."
+
+He paused.
+
+"Technically, it's still in a downtrend, but it's approaching a long-term support area."
+
+"Has the price stabilized?"
+
+"Not yet. There hasn't been full confirmation."
+
+"Has it formed a bottoming structure?"
+
+"Not clearly."
+
+"What about volume?"
+
+"Volume expanded during the decline, but it has weakened over the past few days."
+
+"Has the price reclaimed any major moving averages?"
+
+"No."
+
+"Has it broken above the downtrend line?"
+
+"No."
+
+I closed the report.
+
+"So your conclusion is this: the company is excellent, the valuation has become cheaper, but the
+price structure has not been confirmed."
+
+Ethan did not answer immediately.
+
+
+
+
+                                                - 65 -
+<PARSED TEXT FOR PAGE: 74 / 686>
+His expression became slightly uncomfortable.
+
+"But if I wait for technical confirmation, the price may already have gone up."
+
+I had heard that sentence countless times.
+
+It is almost the standard response every fundamentally oriented investor gives whenever the
+subject of market timing arises.
+
+I looked directly at him.
+
+"Or perhaps you'll buy today, and it will continue falling for another three months."
+
+He fell silent.
+
+
+
+II. A Good Company Does Not Necessarily Mean a Good Stock
+
+I led Ethan into the conference room and projected NordicMed's price chart onto the large screen.
+
+It was not an attractive chart.
+
+The stock was clearly in a downtrend.
+
+Every rebound had failed to exceed the previous swing high.
+
+The short-term moving averages were pressing down above the price.
+
+Volume expanded during declines but contracted during rebounds.
+
+Although the stock was approaching a major long-term support area, there was still no clear
+evidence that buyers were stepping in.
+
+From a fundamental perspective, NordicMed might indeed have been becoming increasingly
+attractive.
+
+But from the perspective of price structure, the market had not yet provided any evidence that
+buyers had regained control.
+
+I turned to Ethan.
+
+"Do you think the market doesn't know this is a high-quality company?"
+
+He frowned slightly.
+
+"It probably does."
+
+"Do institutional investors not know that its cash flow is healthy?"
+
+"They do."
+
+
+
+                                               - 66 -
+<PARSED TEXT FOR PAGE: 75 / 686>
+"Do analysts not know that its valuation is below its historical average?"
+
+"They do."
+
+"Then why is the stock still falling?"
+
+He had no answer.
+
+I continued,
+
+"Because the market isn't trading how good the company used to be.
+
+The market is trading whether expectations for its future are still being revised downward."
+
+One of the easiest things to overlook in fundamental investing is this:
+
+Even a great company can suffer from changing expectations.
+
+A great company whose expectations have become excessively optimistic can still experience a
+significant decline.
+
+An average company whose expectations have become excessively pessimistic can still rise
+sharply.
+
+A stock price is not a simple vote on whether a company is good or bad.
+
+It is an ongoing process through which the market continuously revalues future expectations.
+
+NordicMed's problem was not that it had become a poor company.
+
+Its problem was that the market feared it might no longer be as good as before.
+
+Those are two very different things.
+
+I walked to the whiteboard and wrote three sentences:
+
+Good Company ≠ Good Stock
+
+Good Stock ≠ Good Entry
+
+Good Entry Requires Confirmation
+
+A good company does not necessarily make a good stock.
+
+A good stock does not necessarily provide a good entry.
+
+A good entry requires confirmation.
+
+
+
+
+                                               - 67 -
+<PARSED TEXT FOR PAGE: 76 / 686>
+Figure Description:
+
+This figure accompanies the professor's first explanation that a good company does not
+necessarily provide a good buying opportunity. The illustration should present two parallel paths.
+On the left, a company has excellent fundamentals, yet its stock remains in a clear downtrend. On
+the right, the price completes a bottoming structure and breaks out on expanding volume, creating
+a far more reasonable entry point.
+
+
+
+I knew those words were difficult for Ethan to accept.
+
+He had spent an entire week proving that NordicMed was an outstanding company, and I was
+now telling him that this alone was still not enough to justify buying the stock.
+
+I was not rejecting his research.
+
+I was reminding him that there is still one bridge between a research report and an actual trading
+decision.
+
+That bridge is called:
+
+
+
+
+                                               - 68 -
+<PARSED TEXT FOR PAGE: 77 / 686>
+Market Confirmation.
+
+III. The Market Is Not a Valuation Spreadsheet
+
+The following Monday, NordicMed announced a modest order update.
+
+The order data came in slightly above market expectations.
+
+Ethan arrived at the office early that morning.
+
+It was obvious that he expected the market to respond positively.
+
+Before the opening bell, he displayed NordicMed's chart on one side of his screen and placed his
+research report beside it. Although he said nothing, his actions made his expectations clear:
+
+He wanted the stock to rise.
+
+One of the easiest mistakes for research analysts to make is believing that once they have written
+a convincing report, the market should follow its script.
+
+At 9:00 a.m., NordicMed opened 2.6% higher.
+
+A barely noticeable smile flashed across Ethan's face.
+
+During the first fifteen minutes, the stock continued climbing, reaching an intraday gain of nearly
+4%.
+
+"The market is finally recognizing it," he said.
+
+I remained silent.
+
+After 10:00 a.m., the gains began to fade.
+
+By 10:30 a.m., the stock was up only 1.5%.
+
+At 11:00 a.m., it had almost turned negative.
+
+By midday, NordicMed was down 0.8%.
+
+Confusion slowly appeared on Ethan's face.
+
+"Weren't the order numbers better than expected?"
+
+"They were," I replied.
+
+"Then why is the stock falling?"
+
+"Because the market may believe that's still not enough."
+
+"But the data shows demand isn't as weak as people feared."
+
+
+
+
+                                                   - 69 -
+<PARSED TEXT FOR PAGE: 78 / 686>
+"Or perhaps it only shows that demand has stopped getting worse—not that it's beginning to
+accelerate again."
+
+He frowned.
+
+I switched the chart to the daily timeframe.
+
+That day's candlestick was developing a long upper shadow.
+
+The price still had not broken above the downtrend line, nor had it reclaimed any major moving
+average.
+
+"Look," I said.
+
+"The news is positive, but the price structure hasn't changed."
+
+Ethan lowered his voice.
+
+"So even good news doesn't necessarily push prices higher."
+
+"Correct.
+
+Especially when the market has already priced in the news beforehand, or when investors remain
+worried about larger issues, good news may produce nothing more than a temporary rebound."
+
+This is one of the most painful realities of fundamental investing.
+
+You may be correct about the company, yet completely wrong about when the market is willing
+to recognize its value.
+
+You may correctly conclude that the stock is inexpensive over the long term, yet still be unable to
+prevent it from becoming even cheaper in the short term.
+
+You may correctly judge that bad news has already been fully reflected in the price, but the
+market itself may still need weeks—or even months—before it reaches the same conclusion.
+
+Successful investing is not simply about discovering value before everyone else.
+
+It is also about recognizing when capital is finally willing to acknowledge that value.
+
+
+
+
+                                               - 70 -
+<PARSED TEXT FOR PAGE: 79 / 686>
+Figure Description:
+
+This figure illustrates the difference between improving fundamentals and confirmed price
+structure. The upper section should show improving business fundamentals through upward
+arrows representing stronger financial performance, while the lower section displays a candlestick
+chart that remains in a downtrend. Only after the stock breaks above its downtrend line and key
+resistance does the price structure become confirmed.
+
+
+
+I did not interrupt Ethan immediately.
+
+Some questions cannot be answered for someone else.
+
+Sometimes, a person simply needs time to sit quietly with their own confusion.
+
+By six o'clock that evening, only a handful of people remained in the office.
+
+Ethan was still sitting at his desk.
+
+His screen had switched repeatedly between the daily chart and the hourly chart before returning
+once again to the daily timeframe.
+
+
+
+                                              - 71 -
+<PARSED TEXT FOR PAGE: 80 / 686>
+I walked over.
+
+"Still thinking about NordicMed?"
+
+He nodded.
+
+"I don't understand.
+
+The company isn't expensive.
+
+Its orders were solid.
+
+Its cash flow is healthy.
+
+Why won't the market buy it?"
+
+"You want the market to reward your research."
+
+He looked up at me.
+
+That sentence struck home.
+
+Almost every research analyst experiences the same hidden expectation after writing a report they
+are proud of.
+
+I've worked hard.
+
+I've done the research.
+
+I've figured it out.
+
+So the market should recognize it.
+
+But the market does not reward effort.
+
+The market rewards correct timing, correct positioning, disciplined risk management, and
+judgments that are ultimately accepted by capital itself.
+
+I looked at him.
+
+"Ethan, there is nothing fundamentally wrong with your report.
+
+At least not with its overall conclusion.
+
+The problem is that you've treated company analysis and trading decisions as if they were the
+same thing."
+
+"Aren't they?"
+
+"No."
+
+I picked up a pen and drew two columns in his notebook.
+
+
+                                              - 72 -
+<PARSED TEXT FOR PAGE: 81 / 686>
+The left column read:
+
+Research Question
+
+The right column read:
+
+Trading Question
+
+Research Questions
+
+       Is this a high-quality company?
+       Is its valuation reasonable?
+       Are future earnings likely to grow?
+       Has the market become excessively pessimistic?
+
+Trading Questions
+
+       Has institutional capital begun accumulating shares?
+       Has the price structure been confirmed?
+       Is the entry price attractive?
+       If the trade is wrong, where should I exit?
+
+"Fundamental research answers one question:
+
+Is this company worth studying?
+
+A trading plan answers another:
+
+Is now the right time to buy?"
+
+Ethan stared at the two columns for a very long time.
+
+Finally, he spoke.
+
+"So... I can like the company without buying the stock."
+
+"That," I replied, "is how professional investors think."
+
+Many investors never reach that stage.
+
+Once they become bullish on a company, they feel compelled to buy immediately.
+
+Once they develop a bullish thesis, they refuse to admit that the price may not yet be ready.
+
+They mistake not buying for not believing.
+
+But in professional investing, there can be a very long distance between believing in a company
+and actually buying its stock.
+
+You can believe in a company while waiting for a better price structure.
+
+
+                                                - 73 -
+<PARSED TEXT FOR PAGE: 82 / 686>
+You can believe it is undervalued while waiting for the market to stop falling.
+
+You can prepare to buy while insisting that price first break above a critical resistance level.
+
+Maturity is not about always having an opinion.
+
+Maturity is knowing when your opinion must wait for evidence.
+
+
+
+
+Figure Description:
+
+This figure distinguishes between Research Questions and Trading Questions using a side-by-side
+comparison. The left panel focuses on fundamental analysis, while the right panel highlights the
+conditions required before executing a trade.
+
+
+
+Professor's Whiteboard Session
+
+Fundamentals Need Price Confirmation
+
+That evening, the topic of Ethan's whiteboard lesson was:
+
+Fundamentals Need Price Confirmation.
+
+
+                                                - 74 -
+<PARSED TEXT FOR PAGE: 83 / 686>
+This statement is easily misunderstood.
+
+It does not mean that fundamentals are unimportant.
+
+On the contrary, fundamentals are extremely important.
+
+If you know nothing about the underlying business and look only at charts, it is very easy to
+mistake a short-term price fluctuation for a long-term investment opportunity.
+
+If you do not understand the industry or the company's earning power, it becomes almost
+impossible to judge its long-term potential.
+
+But something else is equally important:
+
+Strong fundamentals can never replace proper entry timing.
+
+One of the most common losses in the market comes from buying a good company and then
+spending months comforting yourself while its stock continues to decline.
+
+You tell yourself:
+
+"The company hasn't changed."
+
+"The valuation has become even cheaper."
+
+"It will recover eventually."
+
+Sometimes, that is true.
+
+But sometimes the company's quality is actually deteriorating.
+
+Sometimes the market's valuation multiple has permanently shifted lower.
+
+Sometimes the market no longer assigns premium valuations to that entire sector.
+
+Sometimes you are correct about the long-term story, yet still suffer a drawdown so severe that
+you cannot emotionally or financially withstand it.
+
+That is why fundamental analysis must always be combined with price structure.
+
+
+
+I. Why Can Great Companies Still Decline?
+
+There are several common reasons why even outstanding companies can experience significant
+declines.
+
+1. The Valuation Was Too High
+
+Even an exceptional company can suffer a sharp decline if its valuation has become excessively
+expensive.
+
+
+
+                                              - 75 -
+<PARSED TEXT FOR PAGE: 84 / 686>
+The moment its growth slows even slightly, investors may dramatically lower the price they are
+willing to pay.
+
+The market does not evaluate companies based solely on quality.
+
+It also evaluates price.
+
+Even the best company can become a poor investment if you pay too much for it.
+
+2. Expectations Were Too High
+
+Sometimes the market has already priced in years of future growth.
+
+When actual results turn out to be merely good rather than far better than expected, the stock may
+still decline.
+
+3. Industry Cycles Change
+
+A company itself may remain excellent, yet if its industry enters a weaker phase, capital may
+reduce valuations across the entire sector.
+
+4. Capital Rotates Between Styles
+
+When the market rotates from growth stocks into value stocks, or from high-valuation sectors into
+defensive sectors, even outstanding companies can experience heavy selling pressure.
+
+5. The Price Structure Has Not Yet Been Confirmed
+
+Even if the company's fundamentals begin improving, institutional investors may still have not
+reached a consensus.
+
+The stock may remain trapped in a downtrend while the market slowly completes its bottoming
+process.
+
+Price needs time to build a base, transfer ownership, and complete confirmation.
+
+
+
+
+                                              - 76 -
+<PARSED TEXT FOR PAGE: 85 / 686>
+Figure Description:
+
+This figure summarizes the five primary reasons why the share price of a high-quality company
+can still decline. It may be illustrated as a central theme connected to five branches, accompanied
+by a downward-trending candlestick chart.
+
+
+
+II. How Does Price Structure Confirm the Fundamentals?
+
+When a company's fundamentals begin improving, the stock rarely enters a sustained uptrend
+immediately.
+
+Instead, the process usually unfolds in several stages.
+
+Stage One: The Decline Begins to Slow
+
+Most of the bad news has already been reflected in the price.
+
+The stock continues falling, but the pace of the decline begins to moderate.
+
+Stage Two: A Trading Range Forms
+
+
+
+                                               - 77 -
+<PARSED TEXT FOR PAGE: 86 / 686>
+The market becomes divided.
+
+Some investors continue selling.
+
+Others quietly begin accumulating shares.
+
+Price starts moving sideways within a relatively narrow range.
+
+Stage Three: Volume Begins to Change
+
+If institutional investors are gradually accumulating positions, trading volume often begins
+increasing modestly—even if price itself has not yet moved significantly.
+
+Stage Four: Price Breaks Above Key Resistance
+
+The stock breaks above its downtrend line, the upper boundary of its trading range, or a major
+moving average.
+
+Stage Five: The Retest Holds
+
+After the breakout, price pulls back but successfully holds above the breakout level.
+
+This demonstrates that the market has begun accepting higher prices.
+
+Only at this stage does the fundamental thesis begin transforming into a confirmed price trend.
+
+
+
+III. The Relationship Between Fundamentals and Technical Analysis
+
+Many investors enjoy debating a familiar question:
+
+Which is more important—fundamental analysis or technical analysis?
+
+In my opinion, the question itself is flawed.
+
+Fundamental analysis answers one question:
+
+Does this asset possess long-term value?
+
+Technical analysis answers another:
+
+Has the market begun recognizing that value?
+
+Capital flow analysis answers yet another:
+
+Is real money actively pushing the price higher?
+
+Sentiment analysis answers a different question:
+
+Has this trade become overcrowded, or is risk still being underestimated?
+
+
+
+                                                - 78 -
+<PARSED TEXT FOR PAGE: 87 / 686>
+These four dimensions are not substitutes for one another.
+
+They validate one another.
+
+When fundamentals are strong, the price has completed a confirmed breakout, volume supports
+the move, and market sentiment has not yet become overheated, the opportunity is generally of
+much higher quality.
+
+If fundamentals are strong but price remains trapped in a downtrend, volume shows no
+meaningful improvement, and market sentiment remains overwhelmingly pessimistic, the stock
+may deserve a place on your watchlist—but not necessarily in your portfolio.
+
+
+
+
+Figure Description:
+
+This figure illustrates the process of transforming a Fundamental Thesis into a Tradable
+Opportunity. The workflow should be presented as:
+
+Fundamental Thesis → Watchlist → Price Structure → Volume Confirmation → Entry Plan
+
+
+
+Case Review
+
+
+
+                                              - 79 -
+<PARSED TEXT FOR PAGE: 88 / 686>
+Why Couldn't NordicMed Be Bought Immediately?
+
+Now let's return to NordicMed.
+
+The overall direction of Ethan's fundamental research was not wrong.
+
+The company did indeed possess several attractive characteristics:
+
+       Stable revenue growth.
+       Healthy profit margins.
+       Strong cash flow.
+       Long-term demand supported by its industry.
+       A valuation below its historical average.
+
+However, from a trading perspective, several critical conditions were still missing.
+
+First, the stock remained in a clear downtrend.
+
+Second, every rebound had failed to break above the previous swing high.
+
+Third, trading volume showed no evidence of sustained institutional buying.
+
+Fourth, the stock had not reclaimed any major moving averages.
+
+Fifth, the market's reaction to the improved order data was weak.
+
+What does this tell us?
+
+It tells us that while the company's fundamentals may already be becoming attractive,
+institutional capital has not yet reached a consensus.
+
+Buying at this stage means purchasing an opinion that the market has not yet confirmed, rather
+than participating in an established trend.
+
+That does not necessarily mean the stock cannot be bought.
+
+If an investor follows a long-term value investing strategy, has a sufficiently long investment
+horizon, builds positions gradually, and can tolerate substantial drawdowns, accumulating shares
+within an undervalued area may be entirely reasonable.
+
+However, if an investor follows a trend-following strategy or a medium-term swing trading
+approach, waiting for confirmation of the price structure is generally the more appropriate
+decision.
+
+Different investment strategies require different entry criteria.
+
+Ethan's biggest mistake at that time was that he had never clearly defined what kind of investor he
+was trying to be.
+
+
+
+
+                                                - 80 -
+<PARSED TEXT FOR PAGE: 89 / 686>
+He used fundamental analysis to justify buying the stock, yet expected the price to rise
+immediately.
+
+He relied on a long-term valuation thesis, yet had no long-term holding plan.
+
+He claimed to believe in the company, but never defined what he would do if the market
+continued falling.
+
+That was not a research problem.
+
+It was a trading plan problem.
+
+
+
+Chapter Trading Rules
+
+That evening, I asked Ethan to write down four rules.
+
+First: A good company does not necessarily provide a good buying opportunity.
+
+Second: A fundamental investment thesis requires confirmation from market price.
+
+Third: A research report answers the question, "Is this company worth paying attention to?" A
+trading plan answers the question, "Is now the right time to buy?"
+
+Fourth: If the price structure has not yet been confirmed, the best decision may not be to buy—
+but simply to place the stock on your watchlist.
+
+Then I added one more sentence.
+
+Investing is not about randomly choosing a company from a list of good businesses.
+
+Investing is about acting only when a good company, a good price, a good chart structure, and an
+attractive risk-reward profile all come together at the same time.
+
+Ethan placed NordicMed on his watchlist instead of adding it to his simulated portfolio.
+
+For him, that represented real progress.
+
+Because in the financial markets, maturity often looks as though nothing is happening.
+
+In reality, having the discipline not to make a bad trade is itself one of the defining qualities of a
+professional investor.
+
+
+
+Chapter Summary
+
+Ethan Carter's first research report taught him an important lesson:
+
+Being correct in your analysis does not necessarily mean being correct in your trade.
+
+
+
+                                                 - 81 -
+<PARSED TEXT FOR PAGE: 90 / 686>
+Company research tells us whether a business is fundamentally strong.
+
+Valuation analysis tells us whether the price appears attractive.
+
+Industry research tells us whether long-term growth potential exists.
+
+But making a trading decision requires one additional layer of judgment:
+
+Has the market already begun recognizing that thesis?
+
+Without confirmation from the price structure, even the strongest fundamentals may remain
+nothing more than an idea waiting for the right moment.
+
+From this chapter onward, Ethan began classifying stocks into three categories.
+
+Category One: Not worth researching.
+
+Category Two: Worth researching, but not yet ready to buy.
+
+Category Three: Fundamentals, technical structure, capital flow, and risk-reward have begun
+aligning, making it appropriate to prepare a trading plan.
+
+That distinction is critically important.
+
+Because true maturity as an investor is not about acting the moment an opportunity appears.
+
+It is about recognizing which opportunities have not yet matured.
+
+In the next chapter, Ethan will begin learning one of the most fundamental—and most frequently
+misunderstood—concepts in technical analysis:
+
+Trend.
+
+He will discover that a trend is not simply a line on a chart, nor is it defined by a single day's
+price movement.
+
+A trend is the direction that the market continues choosing over time.
+
+
+
+
+                                                 - 82 -

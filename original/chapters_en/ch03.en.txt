@@ -1,0 +1,592 @@
+Original Market Mist PDF, pages 57-69. Text extraction; consult original PDF for figures.
+
+<PARSED TEXT FOR PAGE: 57 / 686>
+Chapter 3
+Mr. Market's Temper: Why the Market Always Moves Against Human Nature
+After Chapter 2, Ethan Carter's pace of trading began to slow down.
+
+That was a good thing.
+
+For many new research analysts entering the market, the most important skill they need to
+develop is not making decisions more quickly, but acting more slowly.
+
+The market creates the illusion that good opportunities disappear in an instant, making you
+believe that you must react immediately.
+
+But truly mature investors understand that while the market fluctuates every day, worthwhile
+trading opportunities do not appear every day.
+
+Before placing an order, Ethan began asking himself a few additional questions.
+
+Has the breakout been confirmed?
+
+Has trading volume confirmed the move?
+
+Has the price completed a retest?
+
+Where is my stop loss?
+
+Am I analyzing the market, or am I simply afraid of missing out?
+
+These questions helped him make fewer mistakes.
+
+But the market soon found another way to test him.
+
+If the lesson in Chapter 2 came from a rising market, then the lesson in Chapter 3 would come
+from a falling one.
+
+It was a Tuesday morning.
+
+The European market opened steadily.
+
+The major indices posted modest gains.
+
+Banking stocks remained stable.
+
+Technology stocks rebounded slightly.
+
+Bond yields showed no significant change.
+
+There was no major negative news in the headlines.
+
+The atmosphere inside the Research Department was even somewhat relaxed.
+
+
+                                              - 49 -
+<PARSED TEXT FOR PAGE: 58 / 686>
+Sitting at his desk, Ethan was organizing a short report on the consumer sector. Compared with
+the previous few days, he had become much quieter. Occasionally, he looked up at the index
+chart, but he spent most of his time reading corporate announcements and industry data.
+
+At 10:27 a.m., the market suddenly began to decline.
+
+At first, only a few heavyweight stocks pulled back.
+
+Then the index quickly erased its 0.4% gain and turned negative.
+
+Soon afterward, the loss widened to 0.8%.
+
+Fifteen minutes later, the major European indices broke below the short-term support that had
+held over the previous five trading sessions.
+
+The atmosphere on the trading desk changed immediately.
+
+Several traders began typing rapidly on their keyboards.
+
+The macro team started checking bond yields and the euro exchange rate.
+
+The news terminals refreshed continuously, yet no major headline appeared that could adequately
+explain the decline.
+
+Ethan looked up, frowned, and asked,
+
+"What happened?"
+
+That is often the first reaction investors have when the market suddenly declines.
+
+They assume that every price movement must immediately have a corresponding news
+explanation.
+
+But the market does not always work that way.
+
+Very often, price moves first, and the news arrives later.
+
+Very often, the news merely provides an explanation rather than the true cause.
+
+Very often, what truly drives price is not the facts themselves, but the market's repricing of future
+expectations.
+
+Ethan opened the news terminal and quickly searched for keywords.
+
+No major negative news.
+
+No central bank speech.
+
+No escalation of war.
+
+No disastrous earnings report.
+
+
+
+                                               - 50 -
+<PARSED TEXT FOR PAGE: 59 / 686>
+No sudden policy change.
+
+He became even more confused.
+
+"There isn't any bad news. Why is the market falling so much?"
+
+I did not answer immediately.
+
+Instead, I walked over to his screen and enlarged the daily chart of the index.
+
+"Look here."
+
+"For the past two weeks, the index has been trading sideways within a narrow range. The support
+level below is very clear. Price has rebounded several times from the same area, so many short-
+term traders have regarded it as a safe zone."
+
+"But today, the index broke below that support."
+
+"And it didn't break it slowly."
+
+"It broke it quickly."
+
+I turned to Ethan.
+
+"If many people regard this level as support, what happens after it breaks?"
+
+He thought for a moment.
+
+"Stop-loss orders will be triggered."
+
+"And what else?"
+
+"People who were planning to buy will hesitate."
+
+"And what else?"
+
+"Short sellers may enter the market."
+
+I nodded.
+
+"That is why the market suddenly accelerates. Not because the news suddenly becomes worse,
+but because the market structure has been broken."
+
+
+
+
+                                               - 51 -
+<PARSED TEXT FOR PAGE: 60 / 686>
+Figure Description:
+
+This figure illustrates the structural logic behind an accelerated market decline despite the
+absence of any obvious negative news. The chart should show price rebounding several times
+above a support level, followed by a high-volume breakdown below support, and then a failed
+retest of the former support level.
+
+
+
+I. Why Does Price Move Ahead of the News?
+
+Ethan was still staring at the news terminal.
+
+"But there has to be a reason, doesn't there?"
+
+"Of course there is," I replied. "It's just that the reason doesn't necessarily appear in the form of a
+news headline."
+
+This is something I often remind the research analysts.
+
+The financial markets are not a news-reading exam.
+
+If you trade solely based on publicly available news, you are usually already standing near the
+back of the line. By the time a headline appears on your screen, much of the capital may have
+
+
+
+                                                 - 52 -
+<PARSED TEXT FOR PAGE: 61 / 686>
+already acted in advance based on expectations, economic data, order flow, positioning, and risk
+appetite.
+
+I asked Ethan,
+
+"What do you think the market is actually trading?"
+
+"Information."
+
+"More precisely, expectations."
+
+Information is merely the raw material.
+
+Expectations are the true driving force behind price movement.
+
+The very same piece of news can produce completely different market reactions under different
+expectations.
+
+If market expectations are already extremely pessimistic, even an ordinary piece of news may be
+interpreted as bullish.
+
+If market expectations are already very optimistic, even good news may trigger a decline.
+
+If the market has already priced in positive news beforehand, the day that news is officially
+announced may instead become a selling opportunity.
+
+Ethan nodded.
+
+But he had not yet fully connected that logic with the decline unfolding before him.
+
+I continued,
+
+"Today's decline may not yet have a news explanation. But structurally, it already has an
+explanation."
+
+I pointed to the support level on the chart.
+
+"Over the past two weeks, many market participants have treated this level as a short-term
+defensive line. As price repeatedly rebounded from this area, bullish traders became increasingly
+convinced that the support would hold. They bought around this level and placed their stop losses
+just below it. Short sellers were watching the same level, waiting for a breakdown to enter. Now
+that support has failed, bullish stop losses are being triggered, short sellers are adding positions,
+and sidelined capital is stepping aside. These three forces are pushing the market lower
+simultaneously."
+
+Ethan said quietly,
+
+"So it wasn't the news that caused the decline. It was the change in behavior after support was
+broken."
+
+
+
+
+                                               - 53 -
+<PARSED TEXT FOR PAGE: 62 / 686>
+"Exactly."
+
+That is the importance of price structure.
+
+A support level is not some mysterious number.
+
+It is a focal point of market behavior.
+
+When support holds, buyers are willing to step in, short sellers hesitate to press lower, and price is
+more likely to rebound.
+
+When support fails, buyers become sellers, short sellers become more aggressive, and what was
+once a safe zone becomes a resistance area.
+
+The market does not decline because of a line on the chart.
+
+The market declines because market participants change their behavior around that line.
+
+
+
+II. Ethan's Second Mistake: Searching for News Instead of Observing Structure
+
+By 11:00 a.m., the index had extended its decline to 1.3%.
+
+Ethan finally stopped searching the news.
+
+He switched the chart to the fifteen-minute timeframe and began observing the rebound after the
+support breakdown.
+
+Price briefly rebounded toward the former support level but quickly met resistance.
+
+I asked,
+
+"If you were a short-term trader right now, how would you interpret this?"
+
+Ethan replied,
+
+"If the rebound can't reclaim the support level, then that support may have turned into resistance."
+
+"Very good."
+
+"That would suggest the decline may not be over yet."
+
+"Go on."
+
+"If the rebound occurs on declining volume, it suggests buying interest is insufficient. If selling
+volume expands again afterward, it may confirm continued weakness."
+
+I nodded.
+
+He was beginning to shift from news-based thinking to structure-based thinking.
+
+
+
+                                                - 54 -
+<PARSED TEXT FOR PAGE: 63 / 686>
+That was progress.
+
+But the market rarely rewards someone immediately after they begin making progress.
+
+At 11:30 a.m., the index started falling again from the rebound.
+
+This time, the decline was even faster.
+
+Several heavyweight stocks broke below key levels simultaneously, and the sector ETFs also
+began to weaken.
+
+What had initially been only a short-term support breakdown in the index was gradually evolving
+into a broader deterioration in market risk appetite.
+
+Looking at the chart, Ethan asked,
+
+"Should we short the market now?"
+
+I smiled.
+
+"You see? The market has just taught you to stop chasing rallies, and now you want to chase the
+decline."
+
+He looked a little embarrassed.
+
+This is another common extreme among beginners.
+
+When prices are rising, they fear missing the rally.
+
+When prices are falling, they fear missing the decline.
+
+Fundamentally, they are still allowing price to dictate their decisions.
+
+I said,
+
+"You may conclude that the market is weak, but that doesn't mean every price level is suitable for
+initiating a short position. Short selling, just like buying, requires a plan."
+
+"So what should I wait for?"
+
+"Wait for the rebound to fail, or wait for a new market structure to develop."
+
+He looked at the rebound on the chart.
+
+"So... wait for confirmation."
+
+"Exactly. Many mistakes in the market come from the same cause: acting before confirmation."
+
+
+
+
+                                                - 55 -
+<PARSED TEXT FOR PAGE: 64 / 686>
+Figure Description:
+
+This figure explains the failed retest following a support breakdown. After price breaks below
+support, it rebounds toward the former support level but fails to reclaim it, demonstrating how old
+support becomes new resistance.
+
+
+
+Professor's Whiteboard Session
+
+Support Breakdown and Retest
+
+That afternoon, the topic of Ethan's whiteboard lesson was:
+
+Support Breakdown and Retest.
+
+This is one of the most fundamental yet most important concepts in technical analysis.
+
+Many investors know how to draw support levels but have no idea how to interpret the market
+once support fails.
+
+They often assume,
+
+"If price reaches support, it's time to buy."
+
+
+
+                                                - 56 -
+<PARSED TEXT FOR PAGE: 65 / 686>
+But that is not how professionals evaluate the market.
+
+Before it is broken, a support level may indeed serve as a buying area.
+
+Once it is decisively broken, however, it may become an area of risk.
+
+I. Why Does Support Form?
+
+Support levels generally originate from three types of market memory.
+
+First: Cost Memory
+
+Many investors previously bought shares within this price area.
+
+When price returns to this level, they believe it represents good value and are willing to buy again
+or add to their positions.
+
+Second: Technical Memory
+
+A large number of traders are watching the same swing low, the same horizontal support line, or
+the lower boundary of the same trading range.
+
+As price approaches this level, technical buying interest begins to emerge.
+
+Third: Psychological Memory
+
+Round-number price levels, previous swing lows, and major long-term moving averages often
+become psychological defensive lines for investors.
+
+A support level is not effective because it possesses any inherent power.
+
+It is effective because a large number of market participants believe it has power and act
+accordingly.
+
+
+
+II. Why Does Support Fail?
+
+A support failure usually indicates that the buying interest which previously defended that level is
+no longer sufficient.
+
+It may be because market expectations have deteriorated.
+
+It may be because institutional investors are no longer supporting the market.
+
+It may be because concerns about fundamentals have begun to emerge.
+
+It may be because overall risk appetite has weakened.
+
+Or it may simply be because too many traders placed their stop-loss orders at the same level,
+triggering a chain reaction of selling once support was broken.
+
+
+
+                                               - 57 -
+<PARSED TEXT FOR PAGE: 66 / 686>
+Once support fails, market behavior changes rapidly.
+
+Those who originally bought at support begin taking losses.
+
+Those who had been waiting on the sidelines hesitate to enter.
+
+Those looking to sell short recognize an opportunity.
+
+Those hoping to buy the dip begin questioning their assumptions.
+
+As a result, an accelerated decline often develops below a broken support level.
+
+This is not the magic of lines drawn on a chart.
+
+It is the result of changing market behavior.
+
+
+
+III. Why Is the Retest So Important?
+
+After a support level is broken, price will often stage a rebound.
+
+The purpose of that rebound is to test the market's attitude.
+
+If price quickly recovers above the broken support level, the breakdown may prove to be a false
+breakdown.
+
+If price rebounds toward the former support but fails to reclaim it, the previous support has now
+become new resistance.
+
+At that point, the market provides much stronger confirmation that weakness remains.
+
+Therefore, the key after a support breakdown is not to act immediately.
+
+The key is to observe the retest.
+
+A failed retest is often far more meaningful than the initial breakdown itself.
+
+
+
+
+                                                - 58 -
+<PARSED TEXT FOR PAGE: 67 / 686>
+Figure Description:
+
+This figure illustrates the breakdown confirmation process: support breakdown → retest → failed
+retest → continued decline.
+
+
+
+Case Review
+
+The Index Didn't Fall Without a Reason—The Structure Changed First
+
+Now let's return to the index movement that day.
+
+If Ethan had focused only on the news, he would have remained confused.
+
+"There isn't any bad news. Why is the market falling?"
+
+But if he had focused on market structure, the answer would have been obvious.
+
+First, the index had been trading sideways within a narrow range for several days.
+
+Second, the support level below had become the focus of many market participants.
+
+Third, once support was broken, stop-loss orders were triggered while short sellers entered the
+market simultaneously.
+
+
+                                              - 59 -
+<PARSED TEXT FOR PAGE: 68 / 686>
+Fourth, the rebound failed to reclaim the broken support.
+
+Fifth, the former support became new resistance, confirming the decline.
+
+That is what a structural decline looks like.
+
+Of course, explanations eventually appeared in the news afterward.
+
+Perhaps an analyst claimed that the market was worried about slowing economic growth.
+
+Perhaps the media reported that investors were taking profits.
+
+Perhaps commentators suggested that investors were waiting for the upcoming central bank
+meeting.
+
+But all of those explanations came after the fact.
+
+The real clues had already appeared earlier in the market's price structure.
+
+
+
+Chapter Trading Rules
+
+That day, I asked Ethan to write down three rules.
+
+First: Never rush to explain the market with news when there is no structural evidence.
+
+Second: Once a support level has been broken, do not immediately assume it will continue to
+hold.
+
+Third: A failed retest often provides stronger confirmation of weakness than the initial breakdown
+itself.
+
+Then I added one more sentence.
+
+The market does not always tell you the reason before it begins to move.
+
+Very often, the price structure itself is already part of the reason.
+
+
+
+Chapter Summary
+
+What Ethan Carter learned in this chapter was not how to predict every market decline.
+
+It was how to stop panicking and searching for news after a decline had already begun.
+
+He gradually came to understand:
+
+There is nothing unusual about price moving first.
+
+There is nothing unusual about the news arriving later.
+
+
+                                                 - 60 -
+<PARSED TEXT FOR PAGE: 69 / 686>
+What truly matters is whether the market structure has changed.
+
+When a support level is broken, it is not merely a price crossing a line.
+
+It represents a change in the behavior of market participants.
+
+Previous buyers may become sellers.
+
+What was once a safe zone may become a resistance area.
+
+Confidence may give way to doubt.
+
+In the next chapter, Ethan will encounter an even more challenging situation.
+
+A company he has carefully researched appears fundamentally strong, yet its stock price refuses
+to move higher.
+
+For the first time, he will truly understand:
+
+A good company is not necessarily a good stock, and a good stock does not necessarily provide a
+good buying opportunity.
+
+
+
+
+                                                - 61 -
